@@ -105,7 +105,9 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "pendente"
+        "status": "processando",
+        "fase": "container_criado",
+        "container_id": "18097868732181585"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
