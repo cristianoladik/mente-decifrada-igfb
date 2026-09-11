@@ -43,5 +43,2276 @@
   },
   "horario": "09:00",
   "limite_por_parte_segundos": 59.0,
-  "pacotes": []
+  "pacotes": [
+    {
+      "id": "story-20260912-bbcc100eea",
+      "aprovado": true,
+      "data": "2026-09-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "891 - Traumas e educação, conceito de thaumazein.mp4",
+        "sha256": "bbcc100eea9bce9bdc88da0051ae26340f4cbefc1aa0b2acfdb1549e97756241"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-ccea62c7b4b8721a529afb1caea582776cccf40218116883ad31ae130e07e646.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ccea62c7b4b8721a529afb1caea582776cccf40218116883ad31ae130e07e646.mp4",
+            "sha256": "ccea62c7b4b8721a529afb1caea582776cccf40218116883ad31ae130e07e646",
+            "tamanho_bytes": 11265636,
+            "duracao_segundos": 44.833333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-8e62dffb187e2fa09784578f722306591bbe26b193367cccebbc989ed03c65f9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8e62dffb187e2fa09784578f722306591bbe26b193367cccebbc989ed03c65f9.mp4",
+            "sha256": "8e62dffb187e2fa09784578f722306591bbe26b193367cccebbc989ed03c65f9",
+            "tamanho_bytes": 9724050,
+            "duracao_segundos": 44.821
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260913-72215de6b3",
+      "aprovado": true,
+      "data": "2026-09-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "892 - Treine as pernas para evitar a demência! 🦵💡 ｜ ANA BEATRIZ.mp4",
+        "sha256": "72215de6b3927189989fd9549d2c89dac3818ecf2cd6bd087722a22aab1e296a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-afbf82403200837cbe05986ab249e01a07c3abf07d9c794b63214e927386afe6.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-afbf82403200837cbe05986ab249e01a07c3abf07d9c794b63214e927386afe6.mp4",
+            "sha256": "afbf82403200837cbe05986ab249e01a07c3abf07d9c794b63214e927386afe6",
+            "tamanho_bytes": 7965320,
+            "duracao_segundos": 45.653
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260914-b0cb4624cf",
+      "aprovado": true,
+      "data": "2026-09-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "893 - TREINO EXCENTRICO.mp4",
+        "sha256": "b0cb4624cfff06904eb63ee04e9b6a9841d79c97404f9214505759385da84a02"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-2f2d6119e9b5b7c4d0fa5a62d6633206f5f100221e3fff80b0dc8eacddbeb947.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-2f2d6119e9b5b7c4d0fa5a62d6633206f5f100221e3fff80b0dc8eacddbeb947.mp4",
+            "sha256": "2f2d6119e9b5b7c4d0fa5a62d6633206f5f100221e3fff80b0dc8eacddbeb947",
+            "tamanho_bytes": 4963730,
+            "duracao_segundos": 52.686009
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260915-9a0a603c8a",
+      "aprovado": true,
+      "data": "2026-09-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "894 - Tremembé e a glamourização do agressor.mp4",
+        "sha256": "9a0a603c8a045312e29c2952276bad0956e3458390ae6a66e8b174d4502e3732"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-a20f8a348ed0d2f3e2ef8651fe9a7162b468f77d69f2341d45d456bc6e1b07d4.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a20f8a348ed0d2f3e2ef8651fe9a7162b468f77d69f2341d45d456bc6e1b07d4.mp4",
+            "sha256": "a20f8a348ed0d2f3e2ef8651fe9a7162b468f77d69f2341d45d456bc6e1b07d4",
+            "tamanho_bytes": 9522624,
+            "duracao_segundos": 55.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-cef190232a74a3d77f54e104a8add6dae0916f515032e4672dab0aaa6ce5f52c.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-cef190232a74a3d77f54e104a8add6dae0916f515032e4672dab0aaa6ce5f52c.mp4",
+            "sha256": "cef190232a74a3d77f54e104a8add6dae0916f515032e4672dab0aaa6ce5f52c",
+            "tamanho_bytes": 10528109,
+            "duracao_segundos": 55.786
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260916-5733ef082b",
+      "aprovado": true,
+      "data": "2026-09-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "895 - Triste Notícia： Cachorro Resgatado de Tentativa de Afogamento ｜ ANA BEATRIZ.mp4",
+        "sha256": "5733ef082b5db6ce4197b4c13a3cd302f8aa20195131cca963222f64d2e411a0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-dbeda7799e9dee6902a71eef603a7e9ac83dd3560563f913eacb745c13801c03.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-dbeda7799e9dee6902a71eef603a7e9ac83dd3560563f913eacb745c13801c03.mp4",
+            "sha256": "dbeda7799e9dee6902a71eef603a7e9ac83dd3560563f913eacb745c13801c03",
+            "tamanho_bytes": 8263748,
+            "duracao_segundos": 42.033333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-cb874ff7eb803d415210c5dd7a44160dfd31249539f2f060a5dd73c9005b69eb.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-cb874ff7eb803d415210c5dd7a44160dfd31249539f2f060a5dd73c9005b69eb.mp4",
+            "sha256": "cb874ff7eb803d415210c5dd7a44160dfd31249539f2f060a5dd73c9005b69eb",
+            "tamanho_bytes": 8440666,
+            "duracao_segundos": 42.026
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260917-2f5b70fed8",
+      "aprovado": true,
+      "data": "2026-09-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "896 - Tristeza tem endereço, depressão não.mp4",
+        "sha256": "2f5b70fed85008fc54a9825b6c3a4a6b727ee5a6fa5a9c6637bfd9ae0a365c53"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-1fe81dd7fa16a226854add2f64a1ce60121ee1fbca63014fe6b39106c77b42a1.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-1fe81dd7fa16a226854add2f64a1ce60121ee1fbca63014fe6b39106c77b42a1.mp4",
+            "sha256": "1fe81dd7fa16a226854add2f64a1ce60121ee1fbca63014fe6b39106c77b42a1",
+            "tamanho_bytes": 4760971,
+            "duracao_segundos": 26.112
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260918-b3521a9aaa",
+      "aprovado": true,
+      "data": "2026-09-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "897 - Tudo isso foi armação pra vender mais？.mp4",
+        "sha256": "b3521a9aaa02058365ec229681e6641a234613f9c55d740d3753f2acd3545226"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-5f13d5af9a4b074d215ee1cd4fa4bdd491320a33dcecf761fcce5d0e2597b9f6.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-5f13d5af9a4b074d215ee1cd4fa4bdd491320a33dcecf761fcce5d0e2597b9f6.mp4",
+            "sha256": "5f13d5af9a4b074d215ee1cd4fa4bdd491320a33dcecf761fcce5d0e2597b9f6",
+            "tamanho_bytes": 4908808,
+            "duracao_segundos": 25.386
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260919-26934acaf2",
+      "aprovado": true,
+      "data": "2026-09-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "898 - Tylenol e dor sentimental.mp4",
+        "sha256": "26934acaf2e410900b7d322c2bb9a778cdb700f06d5e46f420d0b1f6d3cc66dc"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-dedc25f5882a4724e1cf28d170a51eff1b3c95293c166c2e43391f911fd92c07.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-dedc25f5882a4724e1cf28d170a51eff1b3c95293c166c2e43391f911fd92c07.mp4",
+            "sha256": "dedc25f5882a4724e1cf28d170a51eff1b3c95293c166c2e43391f911fd92c07",
+            "tamanho_bytes": 5984979,
+            "duracao_segundos": 52.290998
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260920-4bb5d67ab1",
+      "aprovado": true,
+      "data": "2026-09-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "899 - Um cachorro de rua protegeu uma bebê em Vila Velha ｜ ANA BEATRIZ.mp4",
+        "sha256": "4bb5d67ab122e7c7ca4c00d5b70e98e17aea961d6ef26e11ad61f1d7a2c9867f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-a53627da7d7987b0f9a7103803680a668cd45dc353d06c0060b5774753f4b856.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a53627da7d7987b0f9a7103803680a668cd45dc353d06c0060b5774753f4b856.mp4",
+            "sha256": "a53627da7d7987b0f9a7103803680a668cd45dc353d06c0060b5774753f4b856",
+            "tamanho_bytes": 10526567,
+            "duracao_segundos": 56.533008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-8f3edebfedc136e85d4d15dd87e0de35f3ed7e13e1cdae0984ee9d21276b2ebc.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8f3edebfedc136e85d4d15dd87e0de35f3ed7e13e1cdae0984ee9d21276b2ebc.mp4",
+            "sha256": "8f3edebfedc136e85d4d15dd87e0de35f3ed7e13e1cdae0984ee9d21276b2ebc",
+            "tamanho_bytes": 10289615,
+            "duracao_segundos": 56.533008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-039ca8d33bc18d6216c1035912919f1d611afce8207e71484043b493aaaf1471.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-039ca8d33bc18d6216c1035912919f1d611afce8207e71484043b493aaaf1471.mp4",
+            "sha256": "039ca8d33bc18d6216c1035912919f1d611afce8207e71484043b493aaaf1471",
+            "tamanho_bytes": 10855951,
+            "duracao_segundos": 56.504
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260921-4ce551d775",
+      "aprovado": true,
+      "data": "2026-09-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "900 - Um homem pode ser um pai extraordinário, presente, cuidadoso e afetivamente implicado.mp4",
+        "sha256": "4ce551d775ff9043e0073d738b71f1dbb0dfdd272c3e0c42f181b18b6b4c2c24"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-8cf0c0d23dae525358bf99144b035c16d6068d9f7a10414e8e6f73619d6d021f.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8cf0c0d23dae525358bf99144b035c16d6068d9f7a10414e8e6f73619d6d021f.mp4",
+            "sha256": "8cf0c0d23dae525358bf99144b035c16d6068d9f7a10414e8e6f73619d6d021f",
+            "tamanho_bytes": 11559026,
+            "duracao_segundos": 52.2
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-7da890b07af317007f54c7209dcfb5f93646a167a286ab06248d83a1edef6a5b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-7da890b07af317007f54c7209dcfb5f93646a167a286ab06248d83a1edef6a5b.mp4",
+            "sha256": "7da890b07af317007f54c7209dcfb5f93646a167a286ab06248d83a1edef6a5b",
+            "tamanho_bytes": 10546734,
+            "duracao_segundos": 52.192
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260922-1a4a484d7b",
+      "aprovado": true,
+      "data": "2026-09-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "901 - Universo Infinito： A Criação Divina Revelada ｜ ANA BEATRIZ.mp4",
+        "sha256": "1a4a484d7b87d468e0d12287f1c80758d755d16c3995f68038920d6b2f8a540a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-ca68db3dc338cbf3a6f331309b79ff6c9f90f348c2d4f7dd4a08304e3cf47181.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ca68db3dc338cbf3a6f331309b79ff6c9f90f348c2d4f7dd4a08304e3cf47181.mp4",
+            "sha256": "ca68db3dc338cbf3a6f331309b79ff6c9f90f348c2d4f7dd4a08304e3cf47181",
+            "tamanho_bytes": 8623649,
+            "duracao_segundos": 40.533008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260923-04050d4db5",
+      "aprovado": true,
+      "data": "2026-09-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "902 - Vai ter dor. Vai ter rejeição. E tá ótimo. ｜ ANA BEATRIZ.mp4",
+        "sha256": "04050d4db58b3dcf88585e782470f6084aee5d65a1e5e4297518f4a47b4b8299"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-2cee8352229a876756e3c6c73bc82be97f49774fc81bafe1ff545c78216d69d3.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-2cee8352229a876756e3c6c73bc82be97f49774fc81bafe1ff545c78216d69d3.mp4",
+            "sha256": "2cee8352229a876756e3c6c73bc82be97f49774fc81bafe1ff545c78216d69d3",
+            "tamanho_bytes": 7940509,
+            "duracao_segundos": 33.408
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260924-06b4e425a7",
+      "aprovado": true,
+      "data": "2026-09-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "903 - Vape vicia o cérebro do adolescente antes dos pais perceberem ｜ ANA BEATRIZ.mp4",
+        "sha256": "06b4e425a783e74ec4feae49472f24d19f9207419c5f615800627daa23f1ce36"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-3324870869772fd084be7d196794ec8e4fd435e323a875359a01e9976ff8b481.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-3324870869772fd084be7d196794ec8e4fd435e323a875359a01e9976ff8b481.mp4",
+            "sha256": "3324870869772fd084be7d196794ec8e4fd435e323a875359a01e9976ff8b481",
+            "tamanho_bytes": 9043147,
+            "duracao_segundos": 45.12
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260925-5f9ed56c18",
+      "aprovado": true,
+      "data": "2026-09-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "904 - Vencer na vida não é só sobre chegar mais longe, é sobre quem você leva junto quando chega.mp4",
+        "sha256": "5f9ed56c18d2146748e7c493719984a37100313ea0ff4212d8febe5425a125df"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-4d5370e38675ecc9698b29d768d0b1af402666b71fe2565361e96206051dfc42.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-4d5370e38675ecc9698b29d768d0b1af402666b71fe2565361e96206051dfc42.mp4",
+            "sha256": "4d5370e38675ecc9698b29d768d0b1af402666b71fe2565361e96206051dfc42",
+            "tamanho_bytes": 7749162,
+            "duracao_segundos": 38.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-a63957a99a4421ead019b17f8f14db125d0643286d403e8b2cfe5e79229c08c7.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a63957a99a4421ead019b17f8f14db125d0643286d403e8b2cfe5e79229c08c7.mp4",
+            "sha256": "a63957a99a4421ead019b17f8f14db125d0643286d403e8b2cfe5e79229c08c7",
+            "tamanho_bytes": 7294168,
+            "duracao_segundos": 38.592
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260926-e23113fe0f",
+      "aprovado": true,
+      "data": "2026-09-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "905 - VENDERAM A PRÓPRIA ÍRIS POR R$ 300 ｜ ANA BEATRIZ.mp4",
+        "sha256": "e23113fe0f333dbc13024c854c6da5aaf74e17930639dc264db1df83330f4849"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-a0c07ab1540425015e9c084ecaca17fad4c65aa5a52d1f7ba9d0155e534fb394.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a0c07ab1540425015e9c084ecaca17fad4c65aa5a52d1f7ba9d0155e534fb394.mp4",
+            "sha256": "a0c07ab1540425015e9c084ecaca17fad4c65aa5a52d1f7ba9d0155e534fb394",
+            "tamanho_bytes": 9534170,
+            "duracao_segundos": 42.133333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-bb7258e8a10090013b6e91f27239cf83071a8d476e5a7ef19e6579106d4c5cd5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-bb7258e8a10090013b6e91f27239cf83071a8d476e5a7ef19e6579106d4c5cd5.mp4",
+            "sha256": "bb7258e8a10090013b6e91f27239cf83071a8d476e5a7ef19e6579106d4c5cd5",
+            "tamanho_bytes": 9382560,
+            "duracao_segundos": 42.101
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260927-87e3812a29",
+      "aprovado": true,
+      "data": "2026-09-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "906 - Vingança é coisa de narcisista ou de psicopata？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "87e3812a29ab2fcd37c92b84ef8acb75bb8bb71f07f29af2dab3cacd6377d68c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-709e7167c2c30392ef14c91de0a1151b15734a3ab5d1ab00e4b0e98cc1bbd0c5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-709e7167c2c30392ef14c91de0a1151b15734a3ab5d1ab00e4b0e98cc1bbd0c5.mp4",
+            "sha256": "709e7167c2c30392ef14c91de0a1151b15734a3ab5d1ab00e4b0e98cc1bbd0c5",
+            "tamanho_bytes": 10431500,
+            "duracao_segundos": 54.122
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260928-3318e5811c",
+      "aprovado": true,
+      "data": "2026-09-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "907 - Violência Digital： Marcas Emocionais e o Papel da Escola ｜ ANA BEATRIZ.mp4",
+        "sha256": "3318e5811c51c7d1674a57aa2c1028558c63853177cba23ea15cd76dbfb479e7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-212dc4efab7ca4ab754e5e3fb0e920c0f8509c0624b9ecfa2bf522b14c7a0900.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-212dc4efab7ca4ab754e5e3fb0e920c0f8509c0624b9ecfa2bf522b14c7a0900.mp4",
+            "sha256": "212dc4efab7ca4ab754e5e3fb0e920c0f8509c0624b9ecfa2bf522b14c7a0900",
+            "tamanho_bytes": 9554597,
+            "duracao_segundos": 47.6
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-e5019e4f3373b61c66d20e8629168873da72195f230efa770c9e6e144c7293c2.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-e5019e4f3373b61c66d20e8629168873da72195f230efa770c9e6e144c7293c2.mp4",
+            "sha256": "e5019e4f3373b61c66d20e8629168873da72195f230efa770c9e6e144c7293c2",
+            "tamanho_bytes": 10046413,
+            "duracao_segundos": 47.573
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260929-2e58084a60",
+      "aprovado": true,
+      "data": "2026-09-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "908 - Violência Silenciosa Contra o Professor： O Que Ninguém Fala ｜ ANA BEATRIZ.mp4",
+        "sha256": "2e58084a608450a40a6fa470878d6629d8b3064153664fca147392897aa21de4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-4db58f4f6fdfb6912b6f0fa30a8f137bb53e24fbfca3b979cb133936f87b0a7e.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-4db58f4f6fdfb6912b6f0fa30a8f137bb53e24fbfca3b979cb133936f87b0a7e.mp4",
+            "sha256": "4db58f4f6fdfb6912b6f0fa30a8f137bb53e24fbfca3b979cb133936f87b0a7e",
+            "tamanho_bytes": 9630307,
+            "duracao_segundos": 47.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-39fefc32f9b6f07b0e4cfcc3336b37a16c4d93ed306534ea44d3e3a94754ee36.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-39fefc32f9b6f07b0e4cfcc3336b37a16c4d93ed306534ea44d3e3a94754ee36.mp4",
+            "sha256": "39fefc32f9b6f07b0e4cfcc3336b37a16c4d93ed306534ea44d3e3a94754ee36",
+            "tamanho_bytes": 10038771,
+            "duracao_segundos": 47.69
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260930-b0a2892d3a",
+      "aprovado": true,
+      "data": "2026-09-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "909 - Vizinha fofoqueira： vilã ou heroína？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "b0a2892d3ad867cb2a7b82151c0db90bb66cca69fc88e12dccb0c9681a606d33"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-54cc92d48706d2e5c0d95fe322a805887bf73638e8aacd6d649cd0202f05c386.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-54cc92d48706d2e5c0d95fe322a805887bf73638e8aacd6d649cd0202f05c386.mp4",
+            "sha256": "54cc92d48706d2e5c0d95fe322a805887bf73638e8aacd6d649cd0202f05c386",
+            "tamanho_bytes": 10801936,
+            "duracao_segundos": 44.821
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261001-b36895d662",
+      "aprovado": true,
+      "data": "2026-10-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "910 - Você acha que decidiu. Mas quem decidiu foi o seu trauma.mp4",
+        "sha256": "b36895d662d7751d6e57bbe404214ed92d630ac88447fb4936b2c52376fe9534"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-a52972d24819033a754b79fbb27f8c00ef30cf6396cbe5daeba9255637c8b7ae.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a52972d24819033a754b79fbb27f8c00ef30cf6396cbe5daeba9255637c8b7ae.mp4",
+            "sha256": "a52972d24819033a754b79fbb27f8c00ef30cf6396cbe5daeba9255637c8b7ae",
+            "tamanho_bytes": 10683356,
+            "duracao_segundos": 52.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-437bcd00d82c14971eeaa8d08a6c85ba0563cc54d54641fbe91151941efc43fa.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-437bcd00d82c14971eeaa8d08a6c85ba0563cc54d54641fbe91151941efc43fa.mp4",
+            "sha256": "437bcd00d82c14971eeaa8d08a6c85ba0563cc54d54641fbe91151941efc43fa",
+            "tamanho_bytes": 9663600,
+            "duracao_segundos": 52.699675
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-47806ccd07c0ed8f29b25c4640400a05f0f03e2c815309278e7c38a177cb4ef0.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-47806ccd07c0ed8f29b25c4640400a05f0f03e2c815309278e7c38a177cb4ef0.mp4",
+            "sha256": "47806ccd07c0ed8f29b25c4640400a05f0f03e2c815309278e7c38a177cb4ef0",
+            "tamanho_bytes": 9451912,
+            "duracao_segundos": 52.67
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261002-213d64bfa6",
+      "aprovado": true,
+      "data": "2026-10-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "911 - Você acha que obesidade é apenas falta de força de vontade？.mp4",
+        "sha256": "213d64bfa6c4392bd8af3581d16ebbdab4ccca7e7fcf2b8219068059ba60980a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-8d1ec71f6ed1c903367d6162c520d78880d90e6ef662bfac9fa6e353c79b9e01.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8d1ec71f6ed1c903367d6162c520d78880d90e6ef662bfac9fa6e353c79b9e01.mp4",
+            "sha256": "8d1ec71f6ed1c903367d6162c520d78880d90e6ef662bfac9fa6e353c79b9e01",
+            "tamanho_bytes": 7815007,
+            "duracao_segundos": 50.1
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-86d733960d072eb069b6a4e0487a3dc99212fbe58955f1138ff5604aeb672a23.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-86d733960d072eb069b6a4e0487a3dc99212fbe58955f1138ff5604aeb672a23.mp4",
+            "sha256": "86d733960d072eb069b6a4e0487a3dc99212fbe58955f1138ff5604aeb672a23",
+            "tamanho_bytes": 8179595,
+            "duracao_segundos": 50.09
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261003-0c23572273",
+      "aprovado": true,
+      "data": "2026-10-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "912 - Você acostuma ser enganado.mp4",
+        "sha256": "0c235722733bce87259508e64c5de605319f6db9a4478489ade3aaf547b555cf"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-5f2399d04c3b995ce96f7790ee18f8912241eb50fa0bd7be8641e8d3615d34e4.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-5f2399d04c3b995ce96f7790ee18f8912241eb50fa0bd7be8641e8d3615d34e4.mp4",
+            "sha256": "5f2399d04c3b995ce96f7790ee18f8912241eb50fa0bd7be8641e8d3615d34e4",
+            "tamanho_bytes": 6032746,
+            "duracao_segundos": 35.333333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-0094421cf522aea0a8ad58466ee5af5c00d5d48965364f6187e061eab526d80a.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-0094421cf522aea0a8ad58466ee5af5c00d5d48965364f6187e061eab526d80a.mp4",
+            "sha256": "0094421cf522aea0a8ad58466ee5af5c00d5d48965364f6187e061eab526d80a",
+            "tamanho_bytes": 6154825,
+            "duracao_segundos": 35.317007
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261004-ef2e42b7d3",
+      "aprovado": true,
+      "data": "2026-10-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "913 - Você ainda tem um Neandertal dentro de você？.mp4",
+        "sha256": "ef2e42b7d32bdd50ade2946fc62fbebf2713c9faca600d032b77737f781204a6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-446cf36d1ad17c12c1fd42ac896f44ede29cbb7a5cce0234982011002f68e5c9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-446cf36d1ad17c12c1fd42ac896f44ede29cbb7a5cce0234982011002f68e5c9.mp4",
+            "sha256": "446cf36d1ad17c12c1fd42ac896f44ede29cbb7a5cce0234982011002f68e5c9",
+            "tamanho_bytes": 8328620,
+            "duracao_segundos": 56.49
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261005-2046742c40",
+      "aprovado": true,
+      "data": "2026-10-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "914 - Você ama por amor ou por medo da solidão？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "2046742c4095a07e2b7d761c2528e24508f5a2771dbe1ff8ec3478859338f1b1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-bd41c7aa2dba9ce0d3304b2e6e241f35bf031cb35ef2d1e44823f3b13f1fe3b5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-bd41c7aa2dba9ce0d3304b2e6e241f35bf031cb35ef2d1e44823f3b13f1fe3b5.mp4",
+            "sha256": "bd41c7aa2dba9ce0d3304b2e6e241f35bf031cb35ef2d1e44823f3b13f1fe3b5",
+            "tamanho_bytes": 6330909,
+            "duracao_segundos": 32.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-223bdcdf20da066d0f3dc112cc37fd0c08a03188736e5a135d82644c20fc0610.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-223bdcdf20da066d0f3dc112cc37fd0c08a03188736e5a135d82644c20fc0610.mp4",
+            "sha256": "223bdcdf20da066d0f3dc112cc37fd0c08a03188736e5a135d82644c20fc0610",
+            "tamanho_bytes": 5663139,
+            "duracao_segundos": 32.693
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261006-85a9728b63",
+      "aprovado": true,
+      "data": "2026-10-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "915 - Você aprendeu a ser forte cedo demais？.mp4",
+        "sha256": "85a9728b633180be1162eb7d5ace8600dc594b7962f804b06d6e1ace85629ca5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-ab65f2505491fd96ac41c5b3a33bea982ea7411160efe39f7de2523f2317a150.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ab65f2505491fd96ac41c5b3a33bea982ea7411160efe39f7de2523f2317a150.mp4",
+            "sha256": "ab65f2505491fd96ac41c5b3a33bea982ea7411160efe39f7de2523f2317a150",
+            "tamanho_bytes": 8484328,
+            "duracao_segundos": 39.366016
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-ec3f078ec219fa8c43ef530a1fb406cc5b0ab7508b0be653c78f7d1b9d496fd0.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ec3f078ec219fa8c43ef530a1fb406cc5b0ab7508b0be653c78f7d1b9d496fd0.mp4",
+            "sha256": "ec3f078ec219fa8c43ef530a1fb406cc5b0ab7508b0be653c78f7d1b9d496fd0",
+            "tamanho_bytes": 8406609,
+            "duracao_segundos": 39.36
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261007-c7237ed148",
+      "aprovado": true,
+      "data": "2026-10-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "916 - Você carrega todas as idades que já viveu.mp4",
+        "sha256": "c7237ed1483a470183dad5a81b816dea7a9da5c9624dc380843212df6ce17f3e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-eacd95755f847ed7bf705e204bcbf932691cadfda30c17b4621b32043c706d26.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-eacd95755f847ed7bf705e204bcbf932691cadfda30c17b4621b32043c706d26.mp4",
+            "sha256": "eacd95755f847ed7bf705e204bcbf932691cadfda30c17b4621b32043c706d26",
+            "tamanho_bytes": 12149702,
+            "duracao_segundos": 42.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-ad04cc43054bf6a5550980fad5afe61bb634eeefd8e337673bad5b65c2c4aa1d.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ad04cc43054bf6a5550980fad5afe61bb634eeefd8e337673bad5b65c2c4aa1d.mp4",
+            "sha256": "ad04cc43054bf6a5550980fad5afe61bb634eeefd8e337673bad5b65c2c4aa1d",
+            "tamanho_bytes": 12658476,
+            "duracao_segundos": 42.699675
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-9833ef45bb044c35f7b27a9d9f4ad57a0b4a7366942c9ca1c050e15a7eb8523d.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9833ef45bb044c35f7b27a9d9f4ad57a0b4a7366942c9ca1c050e15a7eb8523d.mp4",
+            "sha256": "9833ef45bb044c35f7b27a9d9f4ad57a0b4a7366942c9ca1c050e15a7eb8523d",
+            "tamanho_bytes": 12876417,
+            "duracao_segundos": 42.68
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261008-b029f40252",
+      "aprovado": true,
+      "data": "2026-10-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "918 - Você Conhece Seu Pai ou Só a Versão que a Dor te Mostrou？.mp4",
+        "sha256": "b029f402527ca6b9b045995b91698b820e0527d455aab5df27cea57d9443f1d6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-009a2b5446559e19d503d19b15051316a1967c99295c6df05da75ddc1eb95dfc.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-009a2b5446559e19d503d19b15051316a1967c99295c6df05da75ddc1eb95dfc.mp4",
+            "sha256": "009a2b5446559e19d503d19b15051316a1967c99295c6df05da75ddc1eb95dfc",
+            "tamanho_bytes": 10651692,
+            "duracao_segundos": 41.344
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261009-f4034cf003",
+      "aprovado": true,
+      "data": "2026-10-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "919 - Você encontrou Deus na Religião ou encontrou Culpa？.mp4",
+        "sha256": "f4034cf0034cb950b40d391705768b8ba1da41ef8558550050d2eeca6962d1f5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-a22f399328aad0788931f521cd9e8955b2f42651cd154301c407f81bde1e471b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a22f399328aad0788931f521cd9e8955b2f42651cd154301c407f81bde1e471b.mp4",
+            "sha256": "a22f399328aad0788931f521cd9e8955b2f42651cd154301c407f81bde1e471b",
+            "tamanho_bytes": 6456086,
+            "duracao_segundos": 37.533333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-9674e1ce5881f76321a0c84b3b6a213a5837e3de22313495095df0445b1a9469.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9674e1ce5881f76321a0c84b3b6a213a5837e3de22313495095df0445b1a9469.mp4",
+            "sha256": "9674e1ce5881f76321a0c84b3b6a213a5837e3de22313495095df0445b1a9469",
+            "tamanho_bytes": 6505942,
+            "duracao_segundos": 37.514
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261010-b082d31606",
+      "aprovado": true,
+      "data": "2026-10-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "920 - Você está buscando o cargo errado？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "b082d31606d3469929d051b9bfcd00753ecd4dcbb353c077458dac39765a3aad"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-19ca0e245c0ebad59b41b131648dbe180132f13e6e75562c64ae6e0145f6fe6f.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-19ca0e245c0ebad59b41b131648dbe180132f13e6e75562c64ae6e0145f6fe6f.mp4",
+            "sha256": "19ca0e245c0ebad59b41b131648dbe180132f13e6e75562c64ae6e0145f6fe6f",
+            "tamanho_bytes": 6176252,
+            "duracao_segundos": 34.645
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261011-c506902b72",
+      "aprovado": true,
+      "data": "2026-10-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "921 - Você Está Presente ou Só Aparece Para Gravar？.mp4",
+        "sha256": "c506902b723b1fa653df42b1c33f5f496b2ca1f3d5b6822b5e2cfdc31f2d4f2d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-e79652ba1c11d7e23a46c1ba99be66b8fbf8b3c90645963501030064478b305b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-e79652ba1c11d7e23a46c1ba99be66b8fbf8b3c90645963501030064478b305b.mp4",
+            "sha256": "e79652ba1c11d7e23a46c1ba99be66b8fbf8b3c90645963501030064478b305b",
+            "tamanho_bytes": 12906997,
+            "duracao_segundos": 54.058
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261012-191bcffcf3",
+      "aprovado": true,
+      "data": "2026-10-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "922 - Você Está Preso na Matrix？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "191bcffcf339bd10f62d6bb615a89ed7dd793b2f0848936a7fd5203c920b1c9e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-11b476cbbc43f61d46610305009ab5e344057506566d2e5052a24e8de7917b38.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-11b476cbbc43f61d46610305009ab5e344057506566d2e5052a24e8de7917b38.mp4",
+            "sha256": "11b476cbbc43f61d46610305009ab5e344057506566d2e5052a24e8de7917b38",
+            "tamanho_bytes": 15399356,
+            "duracao_segundos": 57.77
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261013-0e68771c05",
+      "aprovado": true,
+      "data": "2026-10-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "923 - Você está se traindo por educação？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "0e68771c05c548740290d5506767e54de7f9201fd6b5d0e8ad06f46a5501303d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-54c8c45a8423aef6105d0ebb6a4d48a1c62f86ee176965c5e665c3f04fdd2a1b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-54c8c45a8423aef6105d0ebb6a4d48a1c62f86ee176965c5e665c3f04fdd2a1b.mp4",
+            "sha256": "54c8c45a8423aef6105d0ebb6a4d48a1c62f86ee176965c5e665c3f04fdd2a1b",
+            "tamanho_bytes": 12277761,
+            "duracao_segundos": 44.501
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261014-2ff5c71fce",
+      "aprovado": true,
+      "data": "2026-10-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "924 - Você gosta de criança de VERDADE？.mp4",
+        "sha256": "2ff5c71fcec6928b7c48f95fd3da7d78b618fcc2641c3f6299a448276b20b0ee"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-8cdf0bfa959ae715c78c734f8acce1204e1a30bab0a326ba9d190048e4722033.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8cdf0bfa959ae715c78c734f8acce1204e1a30bab0a326ba9d190048e4722033.mp4",
+            "sha256": "8cdf0bfa959ae715c78c734f8acce1204e1a30bab0a326ba9d190048e4722033",
+            "tamanho_bytes": 6623510,
+            "duracao_segundos": 33.433333
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-efbe2c8f9eec175b61f2d33efa705bd79b23eee199c0c4e8cb99127f2fb9c325.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-efbe2c8f9eec175b61f2d33efa705bd79b23eee199c0c4e8cb99127f2fb9c325.mp4",
+            "sha256": "efbe2c8f9eec175b61f2d33efa705bd79b23eee199c0c4e8cb99127f2fb9c325",
+            "tamanho_bytes": 6484935,
+            "duracao_segundos": 33.408
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261015-18b978863a",
+      "aprovado": true,
+      "data": "2026-10-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "925 - Você já ouviu falar no ＂Otrovertido＂？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "18b978863ab7a81e32a0b6f498650ba07524cac769a6c718a05e298243790da5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-b6c9dd3b63c2367efd8b28e5cc2e6e22ab6388c4b47f75993df3b18342b210bf.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b6c9dd3b63c2367efd8b28e5cc2e6e22ab6388c4b47f75993df3b18342b210bf.mp4",
+            "sha256": "b6c9dd3b63c2367efd8b28e5cc2e6e22ab6388c4b47f75993df3b18342b210bf",
+            "tamanho_bytes": 6600845,
+            "duracao_segundos": 31.8
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-ae6937c1f65ade307c213d470fee72983028f134ff45a392ba7c62303664394b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-ae6937c1f65ade307c213d470fee72983028f134ff45a392ba7c62303664394b.mp4",
+            "sha256": "ae6937c1f65ade307c213d470fee72983028f134ff45a392ba7c62303664394b",
+            "tamanho_bytes": 5237897,
+            "duracao_segundos": 31.776
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261016-6f9564655b",
+      "aprovado": true,
+      "data": "2026-10-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "926 - Você já pagou um coach e se arrependeu？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "6f9564655b809a991db3f0912585c5263110f14c615f4f801e4b24ce47ff6f19"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-4e06e3ccc9ded2779fafecef743616f7f52d51262d31c0da26c0188e37aac354.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-4e06e3ccc9ded2779fafecef743616f7f52d51262d31c0da26c0188e37aac354.mp4",
+            "sha256": "4e06e3ccc9ded2779fafecef743616f7f52d51262d31c0da26c0188e37aac354",
+            "tamanho_bytes": 6513614,
+            "duracao_segundos": 37.248
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261017-21cbaede03",
+      "aprovado": true,
+      "data": "2026-10-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "927 - Você já plantou uma semente no coração de alguém？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "21cbaede03682dec6842c6eb50e7e6fc639d81f60378e68bb3d2f306904447ec"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-926c76dbf5bfefa6453276b88a2a96ae73e0d982aed4b3281586fd6f0ae40947.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-926c76dbf5bfefa6453276b88a2a96ae73e0d982aed4b3281586fd6f0ae40947.mp4",
+            "sha256": "926c76dbf5bfefa6453276b88a2a96ae73e0d982aed4b3281586fd6f0ae40947",
+            "tamanho_bytes": 12408589,
+            "duracao_segundos": 56.085
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261018-2d65ec3e89",
+      "aprovado": true,
+      "data": "2026-10-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "928 - Você já é a mãe perfeita para o seu filho ｜ ANA BEATRIZ.mp4",
+        "sha256": "2d65ec3e89dfb8cbb60390652a36fc344ddc33742bc3ff761a02837075c797ce"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-b55856e7f8880358e1ac60ce4a1bbebc9921cdb8b192487baeae69b2ff23f62f.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b55856e7f8880358e1ac60ce4a1bbebc9921cdb8b192487baeae69b2ff23f62f.mp4",
+            "sha256": "b55856e7f8880358e1ac60ce4a1bbebc9921cdb8b192487baeae69b2ff23f62f",
+            "tamanho_bytes": 10681012,
+            "duracao_segundos": 38.122
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261019-9dad37065d",
+      "aprovado": true,
+      "data": "2026-10-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "929 - Você mora junto ou convive com sua família.mp4",
+        "sha256": "9dad37065d9a119059a126e7e7bb6e873aa7a78f28b6c013bcca6cd96116ce7b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-b2d3423ed943fe333a56b5c6afc54e23f0d4338b6c9f2d50233e8239d7a99035.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b2d3423ed943fe333a56b5c6afc54e23f0d4338b6c9f2d50233e8239d7a99035.mp4",
+            "sha256": "b2d3423ed943fe333a56b5c6afc54e23f0d4338b6c9f2d50233e8239d7a99035",
+            "tamanho_bytes": 2668941,
+            "duracao_segundos": 15.082
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261020-7ea0a51ae8",
+      "aprovado": true,
+      "data": "2026-10-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "930 - Você Nunca Terá os PAIS PERFEITOS ｜ ANA BEATRIZ.mp4",
+        "sha256": "7ea0a51ae8924e57c06a7bd2e6dd2970d994fe9c432bbdfa850d2248125333bd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-eafd8638648cc948a0f9bf12879c6fa8b349b2076290035566514c29f7454fe9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-eafd8638648cc948a0f9bf12879c6fa8b349b2076290035566514c29f7454fe9.mp4",
+            "sha256": "eafd8638648cc948a0f9bf12879c6fa8b349b2076290035566514c29f7454fe9",
+            "tamanho_bytes": 9482963,
+            "duracao_segundos": 37.418
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261021-07101f6b54",
+      "aprovado": true,
+      "data": "2026-10-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "931 - Você NUNCA vai conseguir mudar uma mãe narcisista - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "07101f6b5466422c998116a28624e930cfb3ea18ab617a5c616b690f63670b1d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-0fd3eafea9824d93f8c69f81d2f41620e937b5945a7d795587e9b1d6aa0931dd.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-0fd3eafea9824d93f8c69f81d2f41620e937b5945a7d795587e9b1d6aa0931dd.mp4",
+            "sha256": "0fd3eafea9824d93f8c69f81d2f41620e937b5945a7d795587e9b1d6aa0931dd",
+            "tamanho_bytes": 11408866,
+            "duracao_segundos": 50.453
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261022-77c92b256d",
+      "aprovado": true,
+      "data": "2026-10-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "932 - Você não nasceu com software pré-instalado.mp4",
+        "sha256": "77c92b256d6cf99e4d4be3d5756aeb8eba565b31eeefc16426bc2c3cf045cb81"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-7642bdc99ac3f9e379a0845ded1434ce740d4f94611f1ca94ea8e8f80473afc8.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-7642bdc99ac3f9e379a0845ded1434ce740d4f94611f1ca94ea8e8f80473afc8.mp4",
+            "sha256": "7642bdc99ac3f9e379a0845ded1434ce740d4f94611f1ca94ea8e8f80473afc8",
+            "tamanho_bytes": 10491499,
+            "duracao_segundos": 42.766667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-61ebed975e2ca0f25969a53134e4adadde3621cac6ea970b9a613de3a7c7dbef.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-61ebed975e2ca0f25969a53134e4adadde3621cac6ea970b9a613de3a7c7dbef.mp4",
+            "sha256": "61ebed975e2ca0f25969a53134e4adadde3621cac6ea970b9a613de3a7c7dbef",
+            "tamanho_bytes": 12189254,
+            "duracao_segundos": 42.762
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261023-fc98a6d857",
+      "aprovado": true,
+      "data": "2026-10-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "933 - Você não nasceu com software pré-instalado.mp4",
+        "sha256": "fc98a6d8575455e31051acad3815fe8882c4ecb66f2730f2ef6d4dce9d149e9b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-89d65a9e2c5090792e64e7cdec14dfd9252f25101f5e04852e4d35372426fc52.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-89d65a9e2c5090792e64e7cdec14dfd9252f25101f5e04852e4d35372426fc52.mp4",
+            "sha256": "89d65a9e2c5090792e64e7cdec14dfd9252f25101f5e04852e4d35372426fc52",
+            "tamanho_bytes": 10514954,
+            "duracao_segundos": 42.766667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-8391d6adc634e8d38ea355a56b7e74135eb2cfb76be86c3d5a03ab4534561361.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8391d6adc634e8d38ea355a56b7e74135eb2cfb76be86c3d5a03ab4534561361.mp4",
+            "sha256": "8391d6adc634e8d38ea355a56b7e74135eb2cfb76be86c3d5a03ab4534561361",
+            "tamanho_bytes": 12219605,
+            "duracao_segundos": 42.762
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261024-7cd0203ee5",
+      "aprovado": true,
+      "data": "2026-10-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "934 - Você Não Troca Só Palavras Com Quem Ama. Troca Biologia ｜ ANA BEATRIZ.mp4",
+        "sha256": "7cd0203ee59e31912adc3f130fe148ab7b180bc3079ebb3b7f636974f039b879"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-cf2dbefb799a203da81c05e33c2709d7f130cccc070207434e16f2b31ac079b9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-cf2dbefb799a203da81c05e33c2709d7f130cccc070207434e16f2b31ac079b9.mp4",
+            "sha256": "cf2dbefb799a203da81c05e33c2709d7f130cccc070207434e16f2b31ac079b9",
+            "tamanho_bytes": 10789450,
+            "duracao_segundos": 49.621
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261025-5abf177b3d",
+      "aprovado": true,
+      "data": "2026-10-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "935 - Você não é um erro de projeto.mp4",
+        "sha256": "5abf177b3daec458808806fccd72c62c1a158b209e6370f87effdfa42e159701"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-c3c3efef2c5ae0aecd4dd4bb8015291286c4251449e9cb0ef1701b2ad1f6b3fa.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-c3c3efef2c5ae0aecd4dd4bb8015291286c4251449e9cb0ef1701b2ad1f6b3fa.mp4",
+            "sha256": "c3c3efef2c5ae0aecd4dd4bb8015291286c4251449e9cb0ef1701b2ad1f6b3fa",
+            "tamanho_bytes": 12611849,
+            "duracao_segundos": 46.144
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261026-436f5e083c",
+      "aprovado": true,
+      "data": "2026-10-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "936 - Você pode desenvolver esquizofrenia tomando cogumelo.mp4",
+        "sha256": "436f5e083c3d67829e5ced2afbe027c785936bcc2ca8da2d6f288f1a85267759"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-45340ada58f8d58bf2dfb14f64ec2ce4e3b55074b1e5ad7db95b66f5355e2902.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-45340ada58f8d58bf2dfb14f64ec2ce4e3b55074b1e5ad7db95b66f5355e2902.mp4",
+            "sha256": "45340ada58f8d58bf2dfb14f64ec2ce4e3b55074b1e5ad7db95b66f5355e2902",
+            "tamanho_bytes": 10690009,
+            "duracao_segundos": 57.856
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261027-08cd01b9b9",
+      "aprovado": true,
+      "data": "2026-10-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "937 - Você pode mudar o futuro do seu bebê antes dele fazer 1 ano.mp4",
+        "sha256": "08cd01b9b91334640faf170f4fc84ea3c3a102801a16e59234406b11641afbb2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-47d2f636da10a277d6e6f93b9aea23ec0ea533ad3caee2e65feb8dbcaac4cc49.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-47d2f636da10a277d6e6f93b9aea23ec0ea533ad3caee2e65feb8dbcaac4cc49.mp4",
+            "sha256": "47d2f636da10a277d6e6f93b9aea23ec0ea533ad3caee2e65feb8dbcaac4cc49",
+            "tamanho_bytes": 6778590,
+            "duracao_segundos": 43.3
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-e7231fb5ee072cf276e45038f13bb7a027421a2577c87b8937737cc573dc1c96.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-e7231fb5ee072cf276e45038f13bb7a027421a2577c87b8937737cc573dc1c96.mp4",
+            "sha256": "e7231fb5ee072cf276e45038f13bb7a027421a2577c87b8937737cc573dc1c96",
+            "tamanho_bytes": 7636542,
+            "duracao_segundos": 43.3
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-b62fcd0bd64ad1551ca8277fc5a8eedef035cc6ac03741cedc999be459b0c6f7.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b62fcd0bd64ad1551ca8277fc5a8eedef035cc6ac03741cedc999be459b0c6f7.mp4",
+            "sha256": "b62fcd0bd64ad1551ca8277fc5a8eedef035cc6ac03741cedc999be459b0c6f7",
+            "tamanho_bytes": 7768958,
+            "duracao_segundos": 43.299
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261028-e4bb14a39d",
+      "aprovado": true,
+      "data": "2026-10-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "938 - Você sabe a diferença entre amar e depender？ - Dra. Anahy D'Amico.mp4",
+        "sha256": "e4bb14a39d5f3d440223cd5f5ef38968b4aaa26530b2e08ec869dd5e78edd54b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-59c0bfb9527ce6701f39b09e46bbe134d5d5d8ebf374b4f490b4f338865504e3.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-59c0bfb9527ce6701f39b09e46bbe134d5d5d8ebf374b4f490b4f338865504e3.mp4",
+            "sha256": "59c0bfb9527ce6701f39b09e46bbe134d5d5d8ebf374b4f490b4f338865504e3",
+            "tamanho_bytes": 5494240,
+            "duracao_segundos": 30.366667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-8546861d8c7199a366c011c363db6e640c6cfd4bd3993b240b76e4798e0401a3.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8546861d8c7199a366c011c363db6e640c6cfd4bd3993b240b76e4798e0401a3.mp4",
+            "sha256": "8546861d8c7199a366c011c363db6e640c6cfd4bd3993b240b76e4798e0401a3",
+            "tamanho_bytes": 5108347,
+            "duracao_segundos": 30.336
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261029-aa7cb0a640",
+      "aprovado": true,
+      "data": "2026-10-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "939 - Você sabe qual é a sua missão？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "aa7cb0a640a75a5e87d016b368778f2fa3b9266c03696cab9735218b62e0d3a2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-99b3f903130abe4654579e313a0f332f779cb93048a0468d020535e0ab788ae5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-99b3f903130abe4654579e313a0f332f779cb93048a0468d020535e0ab788ae5.mp4",
+            "sha256": "99b3f903130abe4654579e313a0f332f779cb93048a0468d020535e0ab788ae5",
+            "tamanho_bytes": 4506532,
+            "duracao_segundos": 29.533008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-a10c568a8b0afb144b7aa2b2defa9ec77bccfc8b4af42cd41ef6ea997da223da.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a10c568a8b0afb144b7aa2b2defa9ec77bccfc8b4af42cd41ef6ea997da223da.mp4",
+            "sha256": "a10c568a8b0afb144b7aa2b2defa9ec77bccfc8b4af42cd41ef6ea997da223da",
+            "tamanho_bytes": 3751637,
+            "duracao_segundos": 29.504
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261030-b3f101aea0",
+      "aprovado": true,
+      "data": "2026-10-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "940 - Você sabe quem está educando o seu filho？ Se não é você, pode ter certeza de que é alguém.mp4",
+        "sha256": "b3f101aea0d1a51db0c16b3b02462bbc8f80a674e7631506e234452e02a66ccd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-c84745e4653e32a87224564af65a298fcdfe48218a35d523f621d70dcd2aeec1.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-c84745e4653e32a87224564af65a298fcdfe48218a35d523f621d70dcd2aeec1.mp4",
+            "sha256": "c84745e4653e32a87224564af65a298fcdfe48218a35d523f621d70dcd2aeec1",
+            "tamanho_bytes": 13086271,
+            "duracao_segundos": 53.466016
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-c3f6d820cda7920a69f1854dc07c1c3ed8718084c72b06461f6bb410618a9148.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-c3f6d820cda7920a69f1854dc07c1c3ed8718084c72b06461f6bb410618a9148.mp4",
+            "sha256": "c3f6d820cda7920a69f1854dc07c1c3ed8718084c72b06461f6bb410618a9148",
+            "tamanho_bytes": 12766720,
+            "duracao_segundos": 53.466667
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-c5f346ccdca2982e6e9a10be7af8a979d8778f25c03621c49f307f229fc26738.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-c5f346ccdca2982e6e9a10be7af8a979d8778f25c03621c49f307f229fc26738.mp4",
+            "sha256": "c5f346ccdca2982e6e9a10be7af8a979d8778f25c03621c49f307f229fc26738",
+            "tamanho_bytes": 12068402,
+            "duracao_segundos": 53.46
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261031-87ebf0eb16",
+      "aprovado": true,
+      "data": "2026-10-31",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "941 - Você sabe quem é seu amigo de verdade？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "87ebf0eb163843bc39774b5da436841d72b128c5764fac074fdb25e945f0ac7e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-0238cb6136da8a33797f1a7688ed7e423e6c686463cf6b6228e80a2cb76068c9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-0238cb6136da8a33797f1a7688ed7e423e6c686463cf6b6228e80a2cb76068c9.mp4",
+            "sha256": "0238cb6136da8a33797f1a7688ed7e423e6c686463cf6b6228e80a2cb76068c9",
+            "tamanho_bytes": 11970497,
+            "duracao_segundos": 57.621
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261101-ce5b34355a",
+      "aprovado": true,
+      "data": "2026-11-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "942 - Você se cobra um desempenho nota 1000 todo dia？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "ce5b34355a5c1a42309cb62b6ddb14e486954d3d3a8ec8f5cdeda7b53658742c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-402732b0accc2e8268bc0dc29aa00d041f016e9b8fd4972036699be3e6ff2b0d.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-402732b0accc2e8268bc0dc29aa00d041f016e9b8fd4972036699be3e6ff2b0d.mp4",
+            "sha256": "402732b0accc2e8268bc0dc29aa00d041f016e9b8fd4972036699be3e6ff2b0d",
+            "tamanho_bytes": 9119622,
+            "duracao_segundos": 49.429
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261102-9d6415f17f",
+      "aprovado": true,
+      "data": "2026-11-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "943 - Você Se Lembra da Sensação da sua Primeira Paixão？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "9d6415f17fb07cee4659f151479b9760eb25562f87e0f5814919dee0718bd5c3"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-76cf3b60677ee474a5052f19dbd982f93ee230e7e8932d361ef0357c3659d021.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-76cf3b60677ee474a5052f19dbd982f93ee230e7e8932d361ef0357c3659d021.mp4",
+            "sha256": "76cf3b60677ee474a5052f19dbd982f93ee230e7e8932d361ef0357c3659d021",
+            "tamanho_bytes": 7307635,
+            "duracao_segundos": 34.624
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261103-8d077940cc",
+      "aprovado": true,
+      "data": "2026-11-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "944 - Você tem aquele amigo que só te procura quando precisa de algo？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "8d077940cc0f0de37588e549463bc18a0931fcf08d875c512eb9547f6daab853"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-39b9e96b1f4a209d99fd5c185d8a32a8d67e03a79360a7f0a511d6e8073c8315.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-39b9e96b1f4a209d99fd5c185d8a32a8d67e03a79360a7f0a511d6e8073c8315.mp4",
+            "sha256": "39b9e96b1f4a209d99fd5c185d8a32a8d67e03a79360a7f0a511d6e8073c8315",
+            "tamanho_bytes": 4806750,
+            "duracao_segundos": 30.186
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261104-4e4c84082e",
+      "aprovado": true,
+      "data": "2026-11-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "945 - Você Tem Diploma, Mas Tem Prática？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "4e4c84082e5af07e4f5ac6723fb6776ae6f310c3c3389adbef237574f14d46a9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-8e307add0f3ad0d702d6744ef79e07a97199bb01bdf27d2a47f10d08b6631d03.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8e307add0f3ad0d702d6744ef79e07a97199bb01bdf27d2a47f10d08b6631d03.mp4",
+            "sha256": "8e307add0f3ad0d702d6744ef79e07a97199bb01bdf27d2a47f10d08b6631d03",
+            "tamanho_bytes": 12585209,
+            "duracao_segundos": 56.512
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261105-eab12f4bd4",
+      "aprovado": true,
+      "data": "2026-11-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "946 - Você vai pifar se continuar ignorando isso! - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "eab12f4bd494fb6f0fce7700db09857ebd41b7388be7eb989667bb7a5a43f234"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-7ed037ff5045b71657cdd6e68a467ba57f9cf9ba202cf5ae6dc12715b46c17cb.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-7ed037ff5045b71657cdd6e68a467ba57f9cf9ba202cf5ae6dc12715b46c17cb.mp4",
+            "sha256": "7ed037ff5045b71657cdd6e68a467ba57f9cf9ba202cf5ae6dc12715b46c17cb",
+            "tamanho_bytes": 5869912,
+            "duracao_segundos": 30.733008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-89a8c9959faf53c0c64acf1ff8d6ff8ae8ebb42c0e72bfd2c90e9831fb0eb593.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-89a8c9959faf53c0c64acf1ff8d6ff8ae8ebb42c0e72bfd2c90e9831fb0eb593.mp4",
+            "sha256": "89a8c9959faf53c0c64acf1ff8d6ff8ae8ebb42c0e72bfd2c90e9831fb0eb593",
+            "tamanho_bytes": 6078105,
+            "duracao_segundos": 30.709
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261106-24b9c902fe",
+      "aprovado": true,
+      "data": "2026-11-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "947 - Você vive pra você ou pra aprovação dos outros？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "24b9c902fe2d37371720afcc2e936b7c95f90427087b0ac541d57eaae2e08e81"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-28535e357d64ffd881d9bfaa2942e40ef32064337e0664f11dde49d3e32dd03b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-28535e357d64ffd881d9bfaa2942e40ef32064337e0664f11dde49d3e32dd03b.mp4",
+            "sha256": "28535e357d64ffd881d9bfaa2942e40ef32064337e0664f11dde49d3e32dd03b",
+            "tamanho_bytes": 6203925,
+            "duracao_segundos": 31.04
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261107-0938a850f9",
+      "aprovado": true,
+      "data": "2026-11-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "948 - Você é PERFEITO. Não perca pra você mesmo!.mp4",
+        "sha256": "0938a850f921dd867a0a2188ff140e1287c90950292ef05a1c519118345e72c7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-13465de3746cea5f85c78530c37d945c9eb67c123a57ceb7b5141ddf261b20f5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-13465de3746cea5f85c78530c37d945c9eb67c123a57ceb7b5141ddf261b20f5.mp4",
+            "sha256": "13465de3746cea5f85c78530c37d945c9eb67c123a57ceb7b5141ddf261b20f5",
+            "tamanho_bytes": 9987935,
+            "duracao_segundos": 46.933008
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-9d7ed5ca01690c8e6385c7e9b6cd1dd7da2250974fba9cba7207451fd8a2a068.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9d7ed5ca01690c8e6385c7e9b6cd1dd7da2250974fba9cba7207451fd8a2a068.mp4",
+            "sha256": "9d7ed5ca01690c8e6385c7e9b6cd1dd7da2250974fba9cba7207451fd8a2a068",
+            "tamanho_bytes": 9710612,
+            "duracao_segundos": 46.901
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261108-9c45b5e28c",
+      "aprovado": true,
+      "data": "2026-11-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "949 - Vício do cigarro e ansiedade.mp4",
+        "sha256": "9c45b5e28c080b196f8608c26a279147136d0d268478cd8bc9e301da2eadfd8c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-74dc3ec8005b57b7e2fdea426713b7f8bf22dc8ad51efcf4038193e46ebc0320.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-74dc3ec8005b57b7e2fdea426713b7f8bf22dc8ad51efcf4038193e46ebc0320.mp4",
+            "sha256": "74dc3ec8005b57b7e2fdea426713b7f8bf22dc8ad51efcf4038193e46ebc0320",
+            "tamanho_bytes": 8692778,
+            "duracao_segundos": 53.717
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261109-36cdb89acb",
+      "aprovado": true,
+      "data": "2026-11-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "950 - Vício em dopamina.mp4",
+        "sha256": "36cdb89acbaf57179a0052055327113b4a5fc083b3dd511a21870fc56909197f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-600d220e07e6c30024b666fc02d4b54fb3fe3b46872bdac1f18b5583cb15e000.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-600d220e07e6c30024b666fc02d4b54fb3fe3b46872bdac1f18b5583cb15e000.mp4",
+            "sha256": "600d220e07e6c30024b666fc02d4b54fb3fe3b46872bdac1f18b5583cb15e000",
+            "tamanho_bytes": 7593484,
+            "duracao_segundos": 47.7
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "sha256-0bcb4ff6a0cf9313b87ed52fca8195f1038e6bd57163775070c30967fb1d113a.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-0bcb4ff6a0cf9313b87ed52fca8195f1038e6bd57163775070c30967fb1d113a.mp4",
+            "sha256": "0bcb4ff6a0cf9313b87ed52fca8195f1038e6bd57163775070c30967fb1d113a",
+            "tamanho_bytes": 7888114,
+            "duracao_segundos": 47.699675
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 3,
+          "midia": {
+            "asset": "sha256-05869cecbac8aaaa9c737d64c48a06b97de1adecf4cf6dee2477049c9632ca1b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-05869cecbac8aaaa9c737d64c48a06b97de1adecf4cf6dee2477049c9632ca1b.mp4",
+            "sha256": "05869cecbac8aaaa9c737d64c48a06b97de1adecf4cf6dee2477049c9632ca1b",
+            "tamanho_bytes": 8078465,
+            "duracao_segundos": 47.67
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261110-8772b63c1c",
+      "aprovado": true,
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "951 - Vício em Sexo： Como Saber se Você Passou dos Limites？ ｜ ANA BEATRIZ.mp4",
+        "sha256": "8772b63c1c5350f421fffe67db4e46fc466b1b775e47069a83fa3af4f3decc43"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-064064b915ed0e2660d0757bafe35975470910453cca4737931dfd21ab18c16a.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-064064b915ed0e2660d0757bafe35975470910453cca4737931dfd21ab18c16a.mp4",
+            "sha256": "064064b915ed0e2660d0757bafe35975470910453cca4737931dfd21ab18c16a",
+            "tamanho_bytes": 10176937,
+            "duracao_segundos": 40.746
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    }
+  ],
+  "estoque_minimo_dias": 1,
+  "estoque_alvo_dias": 60
 }
