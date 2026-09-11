@@ -89,11 +89,16 @@ def story(*, duracao: float = 59.0) -> dict:
 
 
 class TestFilasBase(unittest.TestCase):
-    def test_placeholders_explicitos_passam_somente_com_bases_vazias(self) -> None:
+    def test_bases_do_repositorio_validam(self) -> None:
+        # Ate 10/09/2026 as filas tinham placeholders "__CONFIGURAR__" e o teste provava
+        # que item com placeholder era recusado. A politica foi preenchida com os dados
+        # reais do projeto, entao o que se verifica agora e que as bases validam limpas.
         reels, stories = carregar_bases()
-
         self.assertEqual(validar_filas(reels, stories), [])
 
+    def test_placeholder_continua_recusando_item(self) -> None:
+        reels, stories = carregar_bases()
+        reels["politica"]["data_inicio_aquecimento"] = "__CONFIGURAR__"
         reels["conteudos"].append(reel())
         erros = validar_filas(reels, stories)
         self.assertTrue(any("placeholder" in mensagem for mensagem in erros))

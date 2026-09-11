@@ -4,12 +4,12 @@
   "canal": "instagram-facebook-stories",
   "timezone": "America/Sao_Paulo",
   "github": {
-    "repositorio": "__CONFIGURAR__",
+    "repositorio": "cristianoladik/mente-decifrada-igfb",
     "release_tag": "fila-instagram-facebook"
   },
   "politica": {
     "exigir_aprovacao_por_item": true,
-    "data_inicio_aquecimento": "__CONFIGURAR__",
+    "data_inicio_aquecimento": "2026-09-11",
     "reels": {
       "horarios": [
         "05:00",
@@ -27,9 +27,9 @@
       ],
       "quantidade_apos_semana_5": 5,
       "duracao_minima_segundos": 4,
-      "duracao_maxima_segundos": 60,
+      "duracao_maxima_segundos": 180,
       "compartilhar_no_feed_instagram": true,
-      "legenda": "__CONFIGURAR__",
+      "legenda": "Siga @mentedecifrada_br",
       "prefixos_de_arquivo_bloqueados": [
         "932 -"
       ]

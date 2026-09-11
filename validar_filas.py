@@ -30,7 +30,7 @@ RAMPA_REELS = (1, 2, 3, 4, 5)
 HORARIO_STORY = "09:00"
 LIMITE_STORY = Decimal("59")
 MINIMO_REEL = Decimal("4")
-MAXIMO_REEL = Decimal("60")
+MAXIMO_REEL = Decimal("180")  # 3 minutos, regra do Cristiano em 10/09/2026
 PREFIXO_BLOQUEADO = "932 -"
 
 HASH_RE = re.compile(r"^[0-9a-f]{64}$")
@@ -276,7 +276,7 @@ def _validar_politica(
         erros,
     )
     erro(minimo == MINIMO_REEL, f"{contexto}: duração mínima de Reel deve ser 4s", erros)
-    erro(maximo == MAXIMO_REEL, f"{contexto}: duração máxima de Reel deve ser 60s", erros)
+    erro(maximo == MAXIMO_REEL, f"{contexto}: duração máxima de Reel deve ser 180s", erros)
     erro(
         reels.get("compartilhar_no_feed_instagram") is True,
         f"{contexto}.politica.reels.compartilhar_no_feed_instagram deve ser true",
