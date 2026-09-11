@@ -90,7 +90,7 @@
       "aprovado": true,
       "data": "2026-09-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "002 - A gente pode acolher, mas a gente não pode dizer para de chorar.mp4",
         "sha256": "dfd5651aac9c8e79225cae2459038e9ab3115a9736625d23d6dbed9f4df42030"
@@ -121,7 +121,8 @@
         "id": "1080841378209605",
         "publicado_em": "2026-09-11T19:25:16.758627-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-11T19:25:18.085655-03:00"
     },
     {
       "id": "reel-20260914-0500-f1a6818477",
