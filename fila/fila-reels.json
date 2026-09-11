@@ -105,9 +105,12 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
-        "fase": "publicacao_solicitada",
-        "container_id": "18097868732181585"
+        "status": "publicado",
+        "fase": "publicacao_confirmada",
+        "container_id": "18097868732181585",
+        "id": "17905222470489345",
+        "publicado_em": "2026-09-11T19:24:54.788284-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
