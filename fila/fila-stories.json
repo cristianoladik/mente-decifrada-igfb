@@ -127,7 +127,7 @@
       "aprovado": true,
       "data": "2026-09-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "892 - Treine as pernas para evitar a demência! 🦵💡 ｜ ANA BEATRIZ.mp4",
         "sha256": "72215de6b3927189989fd9549d2c89dac3818ecf2cd6bd087722a22aab1e296a"
@@ -161,7 +161,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-12T23:08:01.617295-03:00"
     },
     {
       "id": "story-20260914-b0cb4624cf",
