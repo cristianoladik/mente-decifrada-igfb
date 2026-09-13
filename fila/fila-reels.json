@@ -6407,8 +6407,278 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261111-0500-393a95f168",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "235 - Ansiedade e depressão.mp4",
+        "sha256": "393a95f1681dd87c5bd0211ce17c47b1e8c97439089e80e0b7ba1563e1f9e0a3"
+      },
+      "midia": {
+        "asset": "sha256-393a95f1681dd87c5bd0211ce17c47b1e8c97439089e80e0b7ba1563e1f9e0a3.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-393a95f1681dd87c5bd0211ce17c47b1e8c97439089e80e0b7ba1563e1f9e0a3.mp4",
+        "sha256": "393a95f1681dd87c5bd0211ce17c47b1e8c97439089e80e0b7ba1563e1f9e0a3",
+        "tamanho_bytes": 24764080,
+        "duracao_segundos": 96.981
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-0900-9e33926de2",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "236 - Ansiedade e Exaustão.mp4",
+        "sha256": "9e33926de29191841048e48e81c7f583a7eb6cb0817193ca8968ab3e80f92f97"
+      },
+      "midia": {
+        "asset": "sha256-9e33926de29191841048e48e81c7f583a7eb6cb0817193ca8968ab3e80f92f97.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9e33926de29191841048e48e81c7f583a7eb6cb0817193ca8968ab3e80f92f97.mp4",
+        "sha256": "9e33926de29191841048e48e81c7f583a7eb6cb0817193ca8968ab3e80f92f97",
+        "tamanho_bytes": 4431017,
+        "duracao_segundos": 36.222993
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-1300-f78750dc06",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "237 - Ansiedade Não é Medo： Entenda a Diferença ｜ ANA BEATRIZ.mp4",
+        "sha256": "f78750dc067aaedb853ca467e307031196a2a40fab122c897a025592c728a86a"
+      },
+      "midia": {
+        "asset": "sha256-f78750dc067aaedb853ca467e307031196a2a40fab122c897a025592c728a86a.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-f78750dc067aaedb853ca467e307031196a2a40fab122c897a025592c728a86a.mp4",
+        "sha256": "f78750dc067aaedb853ca467e307031196a2a40fab122c897a025592c728a86a",
+        "tamanho_bytes": 18703068,
+        "duracao_segundos": 45.162
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-1700-8ee23f0b7e",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "238 - Ansiedade： a respiração que acalma em 3 respirações ｜ ANA BEATRIZ.mp4",
+        "sha256": "8ee23f0b7e6e750fd7d57c00a1578c34d9eb0689fa428f4cac92905390911563"
+      },
+      "midia": {
+        "asset": "sha256-8ee23f0b7e6e750fd7d57c00a1578c34d9eb0689fa428f4cac92905390911563.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8ee23f0b7e6e750fd7d57c00a1578c34d9eb0689fa428f4cac92905390911563.mp4",
+        "sha256": "8ee23f0b7e6e750fd7d57c00a1578c34d9eb0689fa428f4cac92905390911563",
+        "tamanho_bytes": 23798640,
+        "duracao_segundos": 64.746
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-2100-678d347af6",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "239 - Análise da música Pais e Filhos do Legião Urbana.mp4",
+        "sha256": "678d347af6aff1160d3e409e4daf7327e8fdb7f35bc7825ae292dbb898a9122c"
+      },
+      "midia": {
+        "asset": "sha256-678d347af6aff1160d3e409e4daf7327e8fdb7f35bc7825ae292dbb898a9122c.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-678d347af6aff1160d3e409e4daf7327e8fdb7f35bc7825ae292dbb898a9122c.mp4",
+        "sha256": "678d347af6aff1160d3e409e4daf7327e8fdb7f35bc7825ae292dbb898a9122c",
+        "tamanho_bytes": 48090353,
+        "duracao_segundos": 149.140998
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-0500-d18c92c96f",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "240 - Aos 13 anos, ele fugiu de casa por causa de um amigo do Roblox ｜ ANA BEATRIZ.mp4",
+        "sha256": "d18c92c96fd38dc6c77d48fe079ccf7cfaeaceef239627f48d74b64bde74755d"
+      },
+      "midia": {
+        "asset": "sha256-d18c92c96fd38dc6c77d48fe079ccf7cfaeaceef239627f48d74b64bde74755d.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-d18c92c96fd38dc6c77d48fe079ccf7cfaeaceef239627f48d74b64bde74755d.mp4",
+        "sha256": "d18c92c96fd38dc6c77d48fe079ccf7cfaeaceef239627f48d74b64bde74755d",
+        "tamanho_bytes": 54659735,
+        "duracao_segundos": 171.626
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-0900-9455a72124",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "241 - Aprender com todas as gerações： Uma equipe que inova!.mp4",
+        "sha256": "9455a7212441640e80c62e49a52abc35cc58e7a0f8a84fc96cf324f0a790862d"
+      },
+      "midia": {
+        "asset": "sha256-9455a7212441640e80c62e49a52abc35cc58e7a0f8a84fc96cf324f0a790862d.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9455a7212441640e80c62e49a52abc35cc58e7a0f8a84fc96cf324f0a790862d.mp4",
+        "sha256": "9455a7212441640e80c62e49a52abc35cc58e7a0f8a84fc96cf324f0a790862d",
+        "tamanho_bytes": 4805060,
+        "duracao_segundos": 16.597
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-1300-75d99b1f43",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "242 - AS PESSOAS NÃO SABEM QUE DORMEM MAL.mp4",
+        "sha256": "75d99b1f43886526c5cce3fa82667b2608bf29952a5efe886b58fb31cec7d34b"
+      },
+      "midia": {
+        "asset": "sha256-75d99b1f43886526c5cce3fa82667b2608bf29952a5efe886b58fb31cec7d34b.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-75d99b1f43886526c5cce3fa82667b2608bf29952a5efe886b58fb31cec7d34b.mp4",
+        "sha256": "75d99b1f43886526c5cce3fa82667b2608bf29952a5efe886b58fb31cec7d34b",
+        "tamanho_bytes": 8525157,
+        "duracao_segundos": 53.010998
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-1700-233b0fd22b",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "243 - As pessoas te enganam e você nem percebe.mp4",
+        "sha256": "233b0fd22b191bd5e18affc8c4cb29c51c32b1d6c21c74a47979ba116abaf020"
+      },
+      "midia": {
+        "asset": "sha256-233b0fd22b191bd5e18affc8c4cb29c51c32b1d6c21c74a47979ba116abaf020.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-233b0fd22b191bd5e18affc8c4cb29c51c32b1d6c21c74a47979ba116abaf020.mp4",
+        "sha256": "233b0fd22b191bd5e18affc8c4cb29c51c32b1d6c21c74a47979ba116abaf020",
+        "tamanho_bytes": 27853723,
+        "duracao_segundos": 94.458005
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-2100-b2b6669932",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "244 - Atleta profissional como motivador.mp4",
+        "sha256": "b2b6669932303a9732d6281ced99135aec2130727b97309c7f7a1b387db89e69"
+      },
+      "midia": {
+        "asset": "sha256-b2b6669932303a9732d6281ced99135aec2130727b97309c7f7a1b387db89e69.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b2b6669932303a9732d6281ced99135aec2130727b97309c7f7a1b387db89e69.mp4",
+        "sha256": "b2b6669932303a9732d6281ced99135aec2130727b97309c7f7a1b387db89e69",
+        "tamanho_bytes": 3883312,
+        "duracao_segundos": 28.141995
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
     }
   ],
-  "estoque_minimo_dias": 1,
+  "estoque_minimo_dias": 60,
   "estoque_alvo_dias": 60
 }

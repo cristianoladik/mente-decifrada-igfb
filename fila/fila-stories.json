@@ -2361,8 +2361,66 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261111-a06a7e9c0c",
+      "aprovado": true,
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "952 - When the body becomes the only project.mp4",
+        "sha256": "a06a7e9c0c28f2f84f2aedd3f81c2370724fa4e8bb43d55e367a5e85ce870a3c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-d54e094bfdde7d59bdb26c0ddb39799a9cc0a9055de728d89a0494d92ddb480a.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-d54e094bfdde7d59bdb26c0ddb39799a9cc0a9055de728d89a0494d92ddb480a.mp4",
+            "sha256": "d54e094bfdde7d59bdb26c0ddb39799a9cc0a9055de728d89a0494d92ddb480a",
+            "tamanho_bytes": 3778767,
+            "duracao_segundos": 19.562
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261112-562d7069af",
+      "aprovado": true,
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "953 - Why They Keep Going Despite the Damage.mp4",
+        "sha256": "562d7069afa9467ca6aede614ee556aa47cef7324df985483d5dd1ea9453d844"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-87249d13a7f7697978c267a841444ce44a636ebaa14cffea924fd4c2780622e9.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-87249d13a7f7697978c267a841444ce44a636ebaa14cffea924fd4c2780622e9.mp4",
+            "sha256": "87249d13a7f7697978c267a841444ce44a636ebaa14cffea924fd4c2780622e9",
+            "tamanho_bytes": 2100171,
+            "duracao_segundos": 10.922
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
-  "estoque_minimo_dias": 1,
+  "estoque_minimo_dias": 60,
   "estoque_alvo_dias": 60
 }
