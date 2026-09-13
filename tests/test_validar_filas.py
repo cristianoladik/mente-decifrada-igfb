@@ -129,6 +129,11 @@ class TestPoliticaVersionada(unittest.TestCase):
     def setUp(self) -> None:
         self.reels, self.stories = carregar_bases()
         operacionalizar(self.reels, self.stories)
+        # As bases reais acumulam itens concluídos com datas anteriores ao D0
+        # de teste (2026-09-14). Limpar aqui evita que esses itens passados
+        # poluam testes que só querem verificar regras de validação.
+        self.reels["conteudos"] = []
+        self.stories["pacotes"] = []
 
     def test_fila_operacional_valida_aceita_reel_60_e_story_59(self) -> None:
         self.reels["conteudos"] = [reel(duracao=60.0)]

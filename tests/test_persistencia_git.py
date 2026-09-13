@@ -35,6 +35,10 @@ def _filas_base() -> tuple[dict, dict]:
         fila["github"] = {"repositorio": REPOSITORIO, "release_tag": TAG}
         fila["politica"]["data_inicio_aquecimento"] = D0
         fila["politica"]["reels"]["legenda"] = LEGENDA
+    # Itens concluídos acumulados na fila real têm datas anteriores ao D0 de
+    # teste (2026-09-14); limpar garante que cada teste parta de estado neutro.
+    reels["conteudos"] = []
+    stories["pacotes"] = []
     return reels, stories
 
 
