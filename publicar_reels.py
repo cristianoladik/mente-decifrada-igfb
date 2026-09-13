@@ -39,6 +39,11 @@ from retomada_meta import (
     video_facebook_falhou,
 )
 
+# O conferidor da fila agora só AVISA sobre item com defeito, para um vídeo ruim lá
+# no fim da fila não calar o canal inteiro. Quem barra o item ruim é aqui, na hora
+# de publicar, e só o horário dele fica sem publicar (incidente de 12/09/2026).
+from validar_filas import CANAL_REELS, defeito_do_reel, politica_da_fila
+
 
 FILA_FILE = ROOT / "fila" / "fila-reels.json"
 
@@ -345,6 +350,14 @@ def main() -> None:
     if not item:
         print("Nenhum Reel pendente no slot solicitado.")
         return
+    defeito = defeito_do_reel(
+        item,
+        f"Reel {item.get('id', '')}".strip(),
+        politica_da_fila(fila, CANAL_REELS),
+    )
+    if defeito:
+        # Falha só esta execução: os outros horários e os outros dias seguem normais.
+        raise SystemExit(f"Reel do slot recusado por defeito: {defeito}")
     if item.get("aprovado") is not True:
         raise RuntimeError("O Reel do slot não possui aprovação explícita.")
 

@@ -778,10 +778,20 @@ def _validar_mescla_semantica(
     # Import local evita acoplar a publicação normal ao CLI do validador.
     from validar_filas import validar_filas
 
+    # Só erro estrutural bloqueia o push. Defeito de um item não pode impedir de
+    # SALVAR o estado de uma publicação que já aconteceu, senão o incidente de
+    # 12/09/2026 voltaria pelo avesso: o vídeo no ar e a fila sem registrar isso.
+    defeitos: dict[str, str] = {}
     erros = validar_filas(
         filas["fila/fila-reels.json"],
         filas["fila/fila-stories.json"],
+        defeitos_por_item=defeitos,
     )
+    if defeitos:
+        print(
+            f"AVISO: {len(defeitos)} item(ns) com defeito nas filas mescladas; "
+            "serão recusados no slot deles, não aqui."
+        )
     if erros:
         resumo = "; ".join(erros[:10])
         if len(erros) > 10:

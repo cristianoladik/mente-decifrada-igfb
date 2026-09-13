@@ -39,6 +39,10 @@ from retomada_meta import (
     video_facebook_falhou,
 )
 
+# Mesmo acordo do publicar_reels.py: o conferidor só avisa, quem recusa o pacote
+# com defeito é este publicador, no dia dele (incidente de 12/09/2026).
+from validar_filas import CANAL_STORIES, defeito_do_story, politica_da_fila
+
 
 FILA_FILE = ROOT / "fila" / "fila-stories.json"
 
@@ -378,6 +382,15 @@ def main() -> None:
     if not pacote:
         print("Nenhum pacote de Stories pendente no slot solicitado.")
         return
+    defeito = defeito_do_story(
+        pacote,
+        f"Story {pacote.get('id', '')}".strip(),
+        politica_da_fila(fila, CANAL_STORIES),
+    )
+    if defeito:
+        # Uma parte ruim reprova o pacote do dia inteiro, porque Story quebrado no
+        # meio é pior que Story nenhum. Os outros dias seguem normais.
+        raise SystemExit(f"Story do slot recusado por defeito: {defeito}")
     if pacote.get("aprovado") is not True:
         raise RuntimeError("O pacote de Stories não possui aprovação explícita.")
 

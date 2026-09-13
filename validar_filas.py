@@ -549,7 +549,12 @@ def _validar_midia(
     maximo: Decimal,
     confirmado: bool,
     erros: list[str],
+    duplicidades: list[str] | None = None,
 ) -> Decimal | None:
+    # Duplicidade nunca é culpa de um item só: são sempre dois itens brigando pelo
+    # mesmo arquivo. Por isso ela sai por uma lista à parte e continua derrubando a
+    # fila inteira, mesmo quando o resto das conferências daqui vira aviso.
+    repetidos = erros if duplicidades is None else duplicidades
     midia = _mapa(midia_bruta, f"{contexto}.midia", erros)
     asset_bruto = midia.get("asset")
     asset = asset_bruto.strip() if isinstance(asset_bruto, str) else ""
@@ -559,14 +564,14 @@ def _validar_midia(
         erros,
     )
     if asset:
-        _registrar_unico(asset, unicidade.assets, contexto, "asset", erros)
+        _registrar_unico(asset, unicidade.assets, contexto, "asset", repetidos)
 
     sha_bruto = midia.get("sha256")
     sha = sha_bruto if isinstance(sha_bruto, str) else ""
     sha_valido = bool(HASH_RE.fullmatch(sha))
     erro(sha_valido, f"{contexto}: SHA-256 deve ter 64 caracteres hexadecimais minúsculos", erros)
     if sha:
-        _registrar_unico(sha, unicidade.shas_midias, contexto, "SHA-256 de mídia", erros)
+        _registrar_unico(sha, unicidade.shas_midias, contexto, "SHA-256 de mídia", repetidos)
     if sha_valido and asset:
         erro(
             asset == f"sha256-{sha}.mp4",
@@ -636,7 +641,11 @@ def _validar_origem(
     contexto: str,
     unicidade: Unicidade,
     erros: list[str],
+    *,
+    duplicidades: list[str] | None = None,
 ) -> tuple[str, str]:
+    # Mesmo motivo do _validar_midia: SHA repetido acusa dois itens, não um.
+    repetidos = erros if duplicidades is None else duplicidades
     origem = _mapa(origem_bruta, f"{contexto}.origem", erros)
     arquivo = origem.get("arquivo")
     arquivo_valido = (
@@ -650,22 +659,151 @@ def _validar_origem(
     sha = origem.get("sha256") if isinstance(origem.get("sha256"), str) else ""
     erro(bool(HASH_RE.fullmatch(sha)), f"{contexto}: origem.sha256 inválido", erros)
     if sha:
-        _registrar_unico(sha, unicidade.shas_origens, contexto, "SHA-256 de origem", erros)
+        _registrar_unico(sha, unicidade.shas_origens, contexto, "SHA-256 de origem", repetidos)
     return (str(arquivo) if isinstance(arquivo, str) else "", sha)
 
 
-def _validar_status_item(
+def _validar_status_permitido(
+    item: Mapping[str, Any],
+    contexto: str,
+    erros: list[str],
+) -> None:
+    """Status fora da lista é erro estrutural: a fila deixa de ser legível."""
+
+    erro(
+        item.get("status") in STATUS_ITENS,
+        f"{contexto}: status deve ser 'pendente' ou 'concluido'",
+        erros,
+    )
+
+
+def _validar_conclusao_confirmada(
     item: Mapping[str, Any],
     contexto: str,
     *,
     todos_publicados: bool,
     erros: list[str],
 ) -> None:
-    status = item.get("status")
-    erro(status in STATUS_ITENS, f"{contexto}: status deve ser 'pendente' ou 'concluido'", erros)
-    if status == "concluido":
-        erro(todos_publicados, f"{contexto}: concluído exige publicação nas duas plataformas", erros)
-        _timestamp(item.get("concluido_em"), f"{contexto}.concluido_em", erros)
+    """'Concluído' sem as duas confirmações estraga só este item, não a fila."""
+
+    if item.get("status") != "concluido":
+        return
+    erro(todos_publicados, f"{contexto}: concluído exige publicação nas duas plataformas", erros)
+    _timestamp(item.get("concluido_em"), f"{contexto}.concluido_em", erros)
+
+
+def _registrar_defeitos(
+    chave: str,
+    defeitos_do_item: list[str],
+    erros: list[str],
+    defeitos: dict[str, str] | None,
+) -> None:
+    """Manda o defeito de um item para o canal de aviso, ou para os erros fatais.
+
+    Sem o dicionário de saída vale o comportamento antigo: tudo cai na mesma lista
+    e o conferidor derruba. Quem quer a separação pede por ela.
+    """
+
+    if not defeitos_do_item:
+        return
+    if defeitos is None:
+        erros.extend(defeitos_do_item)
+        return
+    motivo = "; ".join(defeitos_do_item)
+    anterior = defeitos.get(chave)
+    defeitos[chave] = f"{anterior}; {motivo}" if anterior else motivo
+
+
+def _defeitos_do_reel(
+    item: Mapping[str, Any],
+    contexto: str,
+    politica: PoliticaValidada,
+    unicidade: Unicidade,
+    duplicidades: list[str],
+) -> list[str]:
+    """Junta tudo que estraga SÓ este Reel, sem tocar no que é da fila inteira."""
+
+    defeitos: list[str] = []
+    erro(item.get("aprovado") is True, f"{contexto}: aprovado deve ser true", defeitos)
+
+    arquivo_origem, _ = _validar_origem(
+        item.get("origem"),
+        contexto,
+        unicidade,
+        defeitos,
+        duplicidades=duplicidades,
+    )
+    if arquivo_origem:
+        erro(
+            not arquivo_origem.casefold().startswith(PREFIXO_BLOQUEADO.casefold()),
+            f"{contexto}: origem com prefixo bloqueado {PREFIXO_BLOQUEADO!r}",
+            defeitos,
+        )
+
+    status_instagram = _validar_estado_plataforma(item, "instagram", contexto, defeitos)
+    status_facebook = _validar_estado_plataforma(item, "facebook", contexto, defeitos)
+    ambos_publicados = status_instagram == status_facebook == "publicado"
+    _validar_conclusao_confirmada(
+        item,
+        contexto,
+        todos_publicados=ambos_publicados,
+        erros=defeitos,
+    )
+
+    instagram = item.get("instagram") if isinstance(item.get("instagram"), Mapping) else {}
+    facebook = item.get("facebook") if isinstance(item.get("facebook"), Mapping) else {}
+    legenda_ig = instagram.get("legenda")
+    legenda_fb = facebook.get("legenda")
+    erro(
+        isinstance(legenda_ig, str)
+        and legenda_ig == legenda_fb
+        and bool(LEGENDA_RE.fullmatch(legenda_ig)),
+        f"{contexto}: legendas devem ser idênticas e usar exatamente 'Siga @handle'",
+        defeitos,
+    )
+    if politica.legenda_reels is not None:
+        erro(
+            legenda_ig == politica.legenda_reels,
+            f"{contexto}: legenda diverge da política versionada",
+            defeitos,
+        )
+    erro(
+        instagram.get("share_to_feed") is True,
+        f"{contexto}: instagram.share_to_feed deve ser true",
+        defeitos,
+    )
+    _validar_midia(
+        item.get("midia"),
+        contexto,
+        politica,
+        unicidade,
+        minimo=MINIMO_REEL,
+        maximo=MAXIMO_REEL,
+        confirmado=ambos_publicados,
+        erros=defeitos,
+        duplicidades=duplicidades,
+    )
+    return defeitos
+
+
+def defeito_do_reel(
+    item: Mapping[str, Any],
+    contexto: str,
+    politica: PoliticaValidada,
+) -> str | None:
+    """Devolve o motivo que reprova SÓ este Reel, ou None quando ele está bom.
+
+    Serve para o publicador recusar o item na hora exata do slot dele. Antes,
+    um vídeo com defeito lá no fim da fila derrubava o conferidor e a publicação
+    do dia nem chegava a ser tentada: em 12/09/2026 foi assim que cinco vídeos
+    agendados para novembro deixaram um canal sem publicar de manhã.
+    """
+
+    # Unicidade nova e vazia: aqui existe um item só, então ele não pode se acusar
+    # de duplicado de si mesmo. Duplicidade entre itens continua sendo conferida
+    # na passagem pela fila inteira, e lá ela é fatal.
+    defeitos = _defeitos_do_reel(item, contexto, politica, Unicidade(), [])
+    return "; ".join(defeitos) if defeitos else None
 
 
 def _validar_itens_reels(
@@ -673,6 +811,7 @@ def _validar_itens_reels(
     politica: PoliticaValidada,
     unicidade: Unicidade,
     erros: list[str],
+    defeitos: dict[str, str] | None = None,
 ) -> None:
     conteudos = _lista(fila.get("conteudos"), "fila-reels.conteudos", erros)
     slots: set[tuple[str, str]] = set()
@@ -680,7 +819,6 @@ def _validar_itens_reels(
     for indice, bruto in enumerate(conteudos, 1):
         contexto = f"Reel #{indice}"
         item = _mapa(bruto, contexto, erros)
-        erro(item.get("aprovado") is True, f"{contexto}: aprovado deve ser true", erros)
 
         identificador = item.get("id") if isinstance(item.get("id"), str) else ""
         _registrar_unico(identificador, unicidade.ids, contexto, "ID", erros)
@@ -693,56 +831,15 @@ def _validar_itens_reels(
         slots.add(slot)
         if data_item is not None and horario in HORARIOS_REELS:
             horarios_por_data.setdefault(data_item, set()).add(horario)
+        _validar_status_permitido(item, contexto, erros)
 
-        arquivo_origem, _ = _validar_origem(item.get("origem"), contexto, unicidade, erros)
-        if arquivo_origem:
-            erro(
-                not arquivo_origem.casefold().startswith(PREFIXO_BLOQUEADO.casefold()),
-                f"{contexto}: origem com prefixo bloqueado {PREFIXO_BLOQUEADO!r}",
-                erros,
-            )
-
-        status_instagram = _validar_estado_plataforma(item, "instagram", contexto, erros)
-        status_facebook = _validar_estado_plataforma(item, "facebook", contexto, erros)
-        ambos_publicados = status_instagram == status_facebook == "publicado"
-        _validar_status_item(
-            item,
-            contexto,
-            todos_publicados=ambos_publicados,
-            erros=erros,
-        )
-
-        instagram = item.get("instagram") if isinstance(item.get("instagram"), Mapping) else {}
-        facebook = item.get("facebook") if isinstance(item.get("facebook"), Mapping) else {}
-        legenda_ig = instagram.get("legenda")
-        legenda_fb = facebook.get("legenda")
-        erro(
-            isinstance(legenda_ig, str)
-            and legenda_ig == legenda_fb
-            and bool(LEGENDA_RE.fullmatch(legenda_ig)),
-            f"{contexto}: legendas devem ser idênticas e usar exatamente 'Siga @handle'",
+        # O que estraga só este Reel sai pelo canal de aviso; quem o recusa é o
+        # publicador, no slot dele, para o resto do dia seguir publicando.
+        _registrar_defeitos(
+            identificador or contexto,
+            _defeitos_do_reel(item, contexto, politica, unicidade, erros),
             erros,
-        )
-        if politica.legenda_reels is not None:
-            erro(
-                legenda_ig == politica.legenda_reels,
-                f"{contexto}: legenda diverge da política versionada",
-                erros,
-            )
-        erro(
-            instagram.get("share_to_feed") is True,
-            f"{contexto}: instagram.share_to_feed deve ser true",
-            erros,
-        )
-        _validar_midia(
-            item.get("midia"),
-            contexto,
-            politica,
-            unicidade,
-            minimo=MINIMO_REEL,
-            maximo=MAXIMO_REEL,
-            confirmado=ambos_publicados,
-            erros=erros,
+            defeitos,
         )
 
     if politica.d0 is None:
@@ -761,11 +858,99 @@ def _validar_itens_reels(
             )
 
 
+def _defeitos_do_story(
+    pacote: Mapping[str, Any],
+    contexto: str,
+    politica: PoliticaValidada,
+    unicidade: Unicidade,
+    duplicidades: list[str],
+) -> list[str]:
+    """Junta tudo que estraga SÓ este pacote de Stories.
+
+    Uma parte ruim reprova o pacote inteiro daquele dia, e é isso mesmo: o Story
+    é publicado em sequência, então metade dele no ar seria pior que nada.
+    """
+
+    defeitos: list[str] = []
+    erro(pacote.get("aprovado") is True, f"{contexto}: aprovado deve ser true", defeitos)
+    _validar_origem(
+        pacote.get("origem"),
+        contexto,
+        unicidade,
+        defeitos,
+        duplicidades=duplicidades,
+    )
+    partes = _lista(pacote.get("partes"), f"{contexto}.partes", defeitos)
+    erro(bool(partes), f"{contexto}: pacote não pode ficar vazio", defeitos)
+    ordens = [parte.get("ordem") if isinstance(parte, Mapping) else None for parte in partes]
+    erro(
+        ordens == list(range(1, len(partes) + 1)),
+        f"{contexto}: partes devem estar em ordem contínua a partir de 1",
+        defeitos,
+    )
+
+    todas_publicadas = True
+    duracoes: list[Decimal] = []
+    for numero, parte_bruta in enumerate(partes, 1):
+        parte = _mapa(parte_bruta, f"{contexto}, parte {numero}", defeitos)
+        ordem = parte.get("ordem", numero)
+        pctx = f"{contexto}, parte {ordem}"
+        status_instagram = _validar_estado_plataforma(
+            parte, "instagram", pctx, defeitos, story=True
+        )
+        status_facebook = _validar_estado_plataforma(
+            parte, "facebook", pctx, defeitos, story=True
+        )
+        confirmada = status_instagram == status_facebook == "publicado"
+        todas_publicadas = todas_publicadas and confirmada
+        duracao = _validar_midia(
+            parte.get("midia"),
+            pctx,
+            politica,
+            unicidade,
+            minimo=Decimal("0.000001"),
+            maximo=min(politica.limite_story, LIMITE_STORY),
+            confirmado=confirmada,
+            erros=defeitos,
+            duplicidades=duplicidades,
+        )
+        if duracao is not None and duracao > 0:
+            duracoes.append(duracao)
+
+    if len(duracoes) > 1:
+        erro(
+            max(duracoes) - min(duracoes) <= Decimal("0.25"),
+            f"{contexto}: partes não estão iguais dentro da tolerância de 0,25s",
+            defeitos,
+        )
+    _validar_conclusao_confirmada(
+        pacote,
+        contexto,
+        todos_publicados=todas_publicadas and bool(partes),
+        erros=defeitos,
+    )
+    return defeitos
+
+
+def defeito_do_story(
+    pacote: Mapping[str, Any],
+    contexto: str,
+    politica: PoliticaValidada,
+) -> str | None:
+    """Devolve o motivo que reprova SÓ este pacote de Stories, ou None."""
+
+    # Mesma regra do defeito_do_reel: unicidade vazia porque aqui só existe um
+    # pacote, e a briga por arquivo repetido é conferida na fila inteira.
+    defeitos = _defeitos_do_story(pacote, contexto, politica, Unicidade(), [])
+    return "; ".join(defeitos) if defeitos else None
+
+
 def _validar_itens_stories(
     fila: Mapping[str, Any],
     politica: PoliticaValidada,
     unicidade: Unicidade,
     erros: list[str],
+    defeitos: dict[str, str] | None = None,
 ) -> None:
     pacotes = _lista(fila.get("pacotes"), "fila-stories.pacotes", erros)
     datas: set[str] = set()
@@ -773,7 +958,6 @@ def _validar_itens_stories(
     for indice, bruto in enumerate(pacotes, 1):
         contexto = f"Story #{indice}"
         pacote = _mapa(bruto, contexto, erros)
-        erro(pacote.get("aprovado") is True, f"{contexto}: aprovado deve ser true", erros)
 
         identificador = pacote.get("id") if isinstance(pacote.get("id"), str) else ""
         _registrar_unico(identificador, unicidade.ids, contexto, "ID", erros)
@@ -793,62 +977,40 @@ def _validar_itens_stories(
                 f"{contexto}: data anterior ao D0 {politica.d0}",
                 erros,
             )
+        _validar_status_permitido(pacote, contexto, erros)
 
-        _validar_origem(pacote.get("origem"), contexto, unicidade, erros)
-        partes = _lista(pacote.get("partes"), f"{contexto}.partes", erros)
-        erro(bool(partes), f"{contexto}: pacote não pode ficar vazio", erros)
-        ordens = [parte.get("ordem") if isinstance(parte, Mapping) else None for parte in partes]
-        erro(
-            ordens == list(range(1, len(partes) + 1)),
-            f"{contexto}: partes devem estar em ordem contínua a partir de 1",
+        _registrar_defeitos(
+            identificador or contexto,
+            _defeitos_do_story(pacote, contexto, politica, unicidade, erros),
             erros,
+            defeitos,
         )
 
-        todas_publicadas = True
-        duracoes: list[Decimal] = []
-        for numero, parte_bruta in enumerate(partes, 1):
-            parte = _mapa(parte_bruta, f"{contexto}, parte {numero}", erros)
-            ordem = parte.get("ordem", numero)
-            pctx = f"{contexto}, parte {ordem}"
-            status_instagram = _validar_estado_plataforma(
-                parte, "instagram", pctx, erros, story=True
-            )
-            status_facebook = _validar_estado_plataforma(
-                parte, "facebook", pctx, erros, story=True
-            )
-            confirmada = status_instagram == status_facebook == "publicado"
-            todas_publicadas = todas_publicadas and confirmada
-            duracao = _validar_midia(
-                parte.get("midia"),
-                pctx,
-                politica,
-                unicidade,
-                minimo=Decimal("0.000001"),
-                maximo=min(politica.limite_story, LIMITE_STORY),
-                confirmado=confirmada,
-                erros=erros,
-            )
-            if duracao is not None and duracao > 0:
-                duracoes.append(duracao)
 
-        if len(duracoes) > 1:
-            erro(
-                max(duracoes) - min(duracoes) <= Decimal("0.25"),
-                f"{contexto}: partes não estão iguais dentro da tolerância de 0,25s",
-                erros,
-            )
-        _validar_status_item(
-            pacote,
-            contexto,
-            todos_publicados=todas_publicadas and bool(partes),
-            erros=erros,
-        )
+def politica_da_fila(fila: Mapping[str, Any], canal: str) -> PoliticaValidada:
+    """Lê a política versionada de dentro da própria fila, sem derrubar nada.
+
+    O publicador precisa dela para conferir um item só. Erro de cabeçalho não é
+    tratado aqui porque já é fatal no conferidor e no validar_fila_operacional.
+    """
+
+    descartados: list[str] = []
+    return _validar_politica(fila, canal, operacional=True, erros=descartados)
 
 
 def validar_filas(
-    fila_reels: Mapping[str, Any], fila_stories: Mapping[str, Any]
+    fila_reels: Mapping[str, Any],
+    fila_stories: Mapping[str, Any],
+    defeitos_por_item: dict[str, str] | None = None,
 ) -> list[str]:
-    """Valida as duas filas em conjunto, incluindo unicidade entre canais."""
+    """Valida as duas filas em conjunto, incluindo unicidade entre canais.
+
+    Devolve os erros que derrubam a fila inteira. Quando `defeitos_por_item` é
+    informado, o que estraga um item só sai por ali (id -> motivo) em vez de
+    entrar na lista fatal, porque item ruim não pode calar o canal inteiro
+    (incidente de 12/09/2026). Sem o dicionário, o retorno continua sendo tudo
+    junto, como sempre foi.
+    """
 
     erros: list[str] = []
     operacional = bool(fila_reels.get("conteudos")) or bool(fila_stories.get("pacotes"))
@@ -875,12 +1037,16 @@ def validar_filas(
         erros,
     )
     unicidade = Unicidade()
-    _validar_itens_reels(fila_reels, politica_reels, unicidade, erros)
-    _validar_itens_stories(fila_stories, politica_stories, unicidade, erros)
+    _validar_itens_reels(fila_reels, politica_reels, unicidade, erros, defeitos_por_item)
+    _validar_itens_stories(fila_stories, politica_stories, unicidade, erros, defeitos_por_item)
     return erros
 
 
-def validar_reels(fila: Mapping[str, Any], erros: list[str]) -> None:
+def validar_reels(
+    fila: Mapping[str, Any],
+    erros: list[str],
+    defeitos_por_item: dict[str, str] | None = None,
+) -> None:
     """Compatibilidade para validações unitárias de uma fila de Reels."""
 
     politica = _validar_politica(
@@ -889,10 +1055,14 @@ def validar_reels(fila: Mapping[str, Any], erros: list[str]) -> None:
         operacional=bool(fila.get("conteudos")),
         erros=erros,
     )
-    _validar_itens_reels(fila, politica, Unicidade(), erros)
+    _validar_itens_reels(fila, politica, Unicidade(), erros, defeitos_por_item)
 
 
-def validar_stories(fila: Mapping[str, Any], erros: list[str]) -> None:
+def validar_stories(
+    fila: Mapping[str, Any],
+    erros: list[str],
+    defeitos_por_item: dict[str, str] | None = None,
+) -> None:
     """Compatibilidade para validações unitárias de uma fila de Stories."""
 
     politica = _validar_politica(
@@ -901,7 +1071,7 @@ def validar_stories(fila: Mapping[str, Any], erros: list[str]) -> None:
         operacional=bool(fila.get("pacotes")),
         erros=erros,
     )
-    _validar_itens_stories(fila, politica, Unicidade(), erros)
+    _validar_itens_stories(fila, politica, Unicidade(), erros, defeitos_por_item)
 
 
 def _carregar(caminho: Path) -> Mapping[str, Any]:
@@ -914,20 +1084,33 @@ def _carregar(caminho: Path) -> Mapping[str, Any]:
     return dados
 
 
+def _avisar_defeitos(defeitos: Mapping[str, str]) -> None:
+    if not defeitos:
+        return
+    print(f"AVISO: {len(defeitos)} item(ns) com defeito; serão pulados na publicação:")
+    for identificador, motivo in defeitos.items():
+        print(f"  - {identificador}: {motivo}")
+
+
 def main(argv: Sequence[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Valida offline as filas IG/FB.")
     parser.add_argument("--raiz", type=Path, default=Path(__file__).resolve().parent)
     args = parser.parse_args(argv)
     reels = _carregar(args.raiz / "fila" / "fila-reels.json")
     stories = _carregar(args.raiz / "fila" / "fila-stories.json")
-    erros = validar_filas(reels, stories)
+    # Defeito de item é aviso e não derruba: quem recusa o item ruim é o
+    # publicador, no slot dele. Erro estrutural continua saindo diferente de zero.
+    defeitos: dict[str, str] = {}
+    erros = validar_filas(reels, stories, defeitos_por_item=defeitos)
     if erros:
+        _avisar_defeitos(defeitos)
         print("\n".join(erros), file=sys.stderr)
         return 1
     print(
         f"OK: {len(reels.get('conteudos', []))} Reels e "
         f"{len(stories.get('pacotes', []))} pacotes de Stories válidos."
     )
+    _avisar_defeitos(defeitos)
     return 0
 
 
@@ -948,8 +1131,11 @@ __all__ = [
     "RAMPA_REELS",
     "SCHEMA_VERSION",
     "TIMEZONE",
+    "defeito_do_reel",
+    "defeito_do_story",
     "erro",
     "main",
+    "politica_da_fila",
     "validar_filas",
     "validar_reels",
     "validar_stories",
