@@ -173,7 +173,7 @@
       "aprovado": true,
       "data": "2026-09-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "893 - TREINO EXCENTRICO.mp4",
         "sha256": "b0cb4624cfff06904eb63ee04e9b6a9841d79c97404f9214505759385da84a02"
@@ -207,7 +207,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-14T14:07:53.110640-03:00"
     },
     {
       "id": "story-20260915-9a0a603c8a",
