@@ -243,7 +243,10 @@
             "confirmacao": "media_publish"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "enviando",
+            "fase": "sessao_criada",
+            "video_id": "1555649262379350",
+            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1555649262379350"
           }
         },
         {
