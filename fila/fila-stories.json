@@ -219,7 +219,7 @@
       "aprovado": true,
       "data": "2026-09-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "894 - Tremembé e a glamourização do agressor.mp4",
         "sha256": "9a0a603c8a045312e29c2952276bad0956e3458390ae6a66e8b174d4502e3732"
@@ -281,7 +281,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-15T12:48:13.607197-03:00"
     },
     {
       "id": "story-20260916-5733ef082b",
