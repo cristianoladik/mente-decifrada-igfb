@@ -6677,6 +6677,141 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261113-0500-861c1f8d3f",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "245 - Até quantos anos você quer viver ？.mp4",
+        "sha256": "861c1f8d3f44b6e539c6f6a351908b059a0e9b1018fa6215344d18c70e7cc570"
+      },
+      "midia": {
+        "asset": "sha256-861c1f8d3f44b6e539c6f6a351908b059a0e9b1018fa6215344d18c70e7cc570.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-861c1f8d3f44b6e539c6f6a351908b059a0e9b1018fa6215344d18c70e7cc570.mp4",
+        "sha256": "861c1f8d3f44b6e539c6f6a351908b059a0e9b1018fa6215344d18c70e7cc570",
+        "tamanho_bytes": 26726799,
+        "duracao_segundos": 88.96
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-0900-c840c4deb9",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "246 - Aumento de Imposto Sobre a Bebida.mp4",
+        "sha256": "c840c4deb98ec75052cd2c634b6daf3dd4c29da9ae36780908cc06abb5d12393"
+      },
+      "midia": {
+        "asset": "sha256-c840c4deb98ec75052cd2c634b6daf3dd4c29da9ae36780908cc06abb5d12393.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-c840c4deb98ec75052cd2c634b6daf3dd4c29da9ae36780908cc06abb5d12393.mp4",
+        "sha256": "c840c4deb98ec75052cd2c634b6daf3dd4c29da9ae36780908cc06abb5d12393",
+        "tamanho_bytes": 7549633,
+        "duracao_segundos": 51.013991
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-1300-b42b82719f",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "247 - Ausência de sentido.mp4",
+        "sha256": "b42b82719f90f776437b92ad77d0211c1152a55b5d193350203501e12d88bab9"
+      },
+      "midia": {
+        "asset": "sha256-b42b82719f90f776437b92ad77d0211c1152a55b5d193350203501e12d88bab9.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-b42b82719f90f776437b92ad77d0211c1152a55b5d193350203501e12d88bab9.mp4",
+        "sha256": "b42b82719f90f776437b92ad77d0211c1152a55b5d193350203501e12d88bab9",
+        "tamanho_bytes": 19073993,
+        "duracao_segundos": 89.792
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-1700-80c05d0c8a",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "248 - Autismo não é doença, é sistema operacional diferente.mp4",
+        "sha256": "80c05d0c8aab13c4257ee826e343fe17df3501334296347968e41154ffe2c343"
+      },
+      "midia": {
+        "asset": "sha256-80c05d0c8aab13c4257ee826e343fe17df3501334296347968e41154ffe2c343.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-80c05d0c8aab13c4257ee826e343fe17df3501334296347968e41154ffe2c343.mp4",
+        "sha256": "80c05d0c8aab13c4257ee826e343fe17df3501334296347968e41154ffe2c343",
+        "tamanho_bytes": 31268440,
+        "duracao_segundos": 102.464
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-2100-eca78744ff",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "249 - Autocompaixão não é preguiça! - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "eca78744ffabc4968f0ccb44feb7aab294f393728f7b7e68be6fbf7dbcb893ad"
+      },
+      "midia": {
+        "asset": "sha256-eca78744ffabc4968f0ccb44feb7aab294f393728f7b7e68be6fbf7dbcb893ad.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-eca78744ffabc4968f0ccb44feb7aab294f393728f7b7e68be6fbf7dbcb893ad.mp4",
+        "sha256": "eca78744ffabc4968f0ccb44feb7aab294f393728f7b7e68be6fbf7dbcb893ad",
+        "tamanho_bytes": 12945994,
+        "duracao_segundos": 39.381
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,

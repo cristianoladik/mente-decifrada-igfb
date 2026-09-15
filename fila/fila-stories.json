@@ -2436,6 +2436,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261113-fdfe02e157",
+      "aprovado": true,
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "954 - Your Nervous System Is Crying for Help!.mp4",
+        "sha256": "fdfe02e157b1693efa4108d7e8b8422055539e3312fbdf47aeb58469f6f93b4f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-80acec2da8ed620cbfd0d944e695633f002510a789071849dd4bc0b30fb6355b.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-80acec2da8ed620cbfd0d944e695633f002510a789071849dd4bc0b30fb6355b.mp4",
+            "sha256": "80acec2da8ed620cbfd0d944e695633f002510a789071849dd4bc0b30fb6355b",
+            "tamanho_bytes": 3215327,
+            "duracao_segundos": 17.429
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
   "estoque_minimo_dias": 60,
