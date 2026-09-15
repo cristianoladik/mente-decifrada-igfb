@@ -38,7 +38,7 @@ REPOSITORIO_RE = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
 LEGENDA_RE = re.compile(r"^Siga @[A-Za-z0-9._]{1,30}$")
 ESTADOS_INSTAGRAM = {"pendente", "processando", "publicado", "erro"}
 ESTADOS_FACEBOOK = {"pendente", "enviando", "processando", "publicado", "erro"}
-STATUS_ITENS = {"pendente", "concluido"}
+STATUS_ITENS = {"pendente", "concluido", "pulado"}
 FASES_INSTAGRAM = {
     "container_criado",
     "publicacao_solicitada",
