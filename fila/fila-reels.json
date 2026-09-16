@@ -246,7 +246,7 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "processando",
         "tentativas": 1,
-        "fase": "upload_concluido",
+        "fase": "publicacao_solicitada",
         "video_id": "3995780500730418",
         "upload_url": "https://rupload.facebook.com/video-upload/v26.0/3995780500730418"
       }
