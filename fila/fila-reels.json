@@ -219,7 +219,7 @@
       "aprovado": true,
       "data": "2026-09-16",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "005 - café ou cafeína, ou cortisol alto próximo de dormir, o que atrapalha mais as duas coisas.mp4",
         "sha256": "f234ffe7708deb220ab19babf204f165d13d4058ad43a8f75e0c74bfe6101f25"
@@ -252,7 +252,8 @@
         "id": "3995780500730418",
         "publicado_em": "2026-09-16T10:23:04.358804-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-16T10:23:07.211483-03:00"
     },
     {
       "id": "reel-20260917-0500-c5987dbc42",
