@@ -315,7 +315,7 @@
           "instagram": {
             "status": "processando",
             "tentativas": 1,
-            "fase": "container_criado",
+            "fase": "publicacao_solicitada",
             "container_id": "18099013907181585"
           },
           "facebook": {
