@@ -2498,6 +2498,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261114-fbc923f97e",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "955 - Às vezes o ópio é bom.mp4",
+        "sha256": "fbc923f97e207ca69afba2dceff2bc141188a24a72739c84d9aee0e6c9e0e8f8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-fb99d71971cfdb1b1d994a71270952d4889ce7bb0b5a71bbf00b81c86bc3cde5.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-fb99d71971cfdb1b1d994a71270952d4889ce7bb0b5a71bbf00b81c86bc3cde5.mp4",
+            "sha256": "fb99d71971cfdb1b1d994a71270952d4889ce7bb0b5a71bbf00b81c86bc3cde5",
+            "tamanho_bytes": 5997942,
+            "duracao_segundos": 36.618005
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
   "estoque_minimo_dias": 60,

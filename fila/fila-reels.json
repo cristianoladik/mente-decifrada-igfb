@@ -6828,6 +6828,141 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261114-0500-91552d3b66",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "250 - Autoconhecimento é saber responder duas perguntas： O que eu quero e o que eu não quero.mp4",
+        "sha256": "91552d3b66083e1cad31fbf709e0ebec6dfa52326a09d6da5f73989c6c75c0d4"
+      },
+      "midia": {
+        "asset": "sha256-91552d3b66083e1cad31fbf709e0ebec6dfa52326a09d6da5f73989c6c75c0d4.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-91552d3b66083e1cad31fbf709e0ebec6dfa52326a09d6da5f73989c6c75c0d4.mp4",
+        "sha256": "91552d3b66083e1cad31fbf709e0ebec6dfa52326a09d6da5f73989c6c75c0d4",
+        "tamanho_bytes": 22076884,
+        "duracao_segundos": 62.345011
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-0900-8c0be6837f",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "251 - Autoridade e afeto.mp4",
+        "sha256": "8c0be6837fc2a6b1946ad733ceb8b8e753c1256d7b7bce71004735c467bee895"
+      },
+      "midia": {
+        "asset": "sha256-8c0be6837fc2a6b1946ad733ceb8b8e753c1256d7b7bce71004735c467bee895.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8c0be6837fc2a6b1946ad733ceb8b8e753c1256d7b7bce71004735c467bee895.mp4",
+        "sha256": "8c0be6837fc2a6b1946ad733ceb8b8e753c1256d7b7bce71004735c467bee895",
+        "tamanho_bytes": 21366803,
+        "duracao_segundos": 73.305011
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-1300-84f0adcf33",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "252 - Autoridade, afeto e proteção.mp4",
+        "sha256": "84f0adcf3391df36482f399e3e346bf35725711450398bf8d3241b667c8ba431"
+      },
+      "midia": {
+        "asset": "sha256-84f0adcf3391df36482f399e3e346bf35725711450398bf8d3241b667c8ba431.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-84f0adcf3391df36482f399e3e346bf35725711450398bf8d3241b667c8ba431.mp4",
+        "sha256": "84f0adcf3391df36482f399e3e346bf35725711450398bf8d3241b667c8ba431",
+        "tamanho_bytes": 37151928,
+        "duracao_segundos": 128.746
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-1700-296bf1c8f6",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "253 - Baixa Autoestima Não Se Resolve Só Na Terapia - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "296bf1c8f627c49b3b8e4de5c292545dab15d63cb87a19b02a6711b0af6b501c"
+      },
+      "midia": {
+        "asset": "sha256-296bf1c8f627c49b3b8e4de5c292545dab15d63cb87a19b02a6711b0af6b501c.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-296bf1c8f627c49b3b8e4de5c292545dab15d63cb87a19b02a6711b0af6b501c.mp4",
+        "sha256": "296bf1c8f627c49b3b8e4de5c292545dab15d63cb87a19b02a6711b0af6b501c",
+        "tamanho_bytes": 19306869,
+        "duracao_segundos": 52.949
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-2100-a402e95fcb",
+      "aprovado": true,
+      "data": "2026-11-14",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "254 - Beba com Moderação.mp4",
+        "sha256": "a402e95fcb16b52caeaf3998ca936dbedf7115b97818d342db33ce0b2c81fe93"
+      },
+      "midia": {
+        "asset": "sha256-a402e95fcb16b52caeaf3998ca936dbedf7115b97818d342db33ce0b2c81fe93.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a402e95fcb16b52caeaf3998ca936dbedf7115b97818d342db33ce0b2c81fe93.mp4",
+        "sha256": "a402e95fcb16b52caeaf3998ca936dbedf7115b97818d342db33ce0b2c81fe93",
+        "tamanho_bytes": 7774160,
+        "duracao_segundos": 54.125011
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,
