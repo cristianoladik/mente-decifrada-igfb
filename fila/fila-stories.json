@@ -297,7 +297,7 @@
       "aprovado": true,
       "data": "2026-09-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "895 - Triste Notícia： Cachorro Resgatado de Tentativa de Afogamento ｜ ANA BEATRIZ.mp4",
         "sha256": "5733ef082b5db6ce4197b4c13a3cd302f8aa20195131cca963222f64d2e411a0"
@@ -363,7 +363,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-16T12:40:15.943826-03:00"
     },
     {
       "id": "story-20260917-2f5b70fed8",
