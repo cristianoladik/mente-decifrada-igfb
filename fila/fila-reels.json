@@ -6981,6 +6981,141 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261115-0500-0d6713485a",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "255 - Bebê Abandonada： Reflexão Urgente Sobre Maternidade e Proteção ｜ ANA BEATRIZ.mp4",
+        "sha256": "0d6713485a82c6f0ac272a8438b963905d09641d18070c0deb1bbf28b412dfd0"
+      },
+      "midia": {
+        "asset": "sha256-0d6713485a82c6f0ac272a8438b963905d09641d18070c0deb1bbf28b412dfd0.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-0d6713485a82c6f0ac272a8438b963905d09641d18070c0deb1bbf28b412dfd0.mp4",
+        "sha256": "0d6713485a82c6f0ac272a8438b963905d09641d18070c0deb1bbf28b412dfd0",
+        "tamanho_bytes": 31585972,
+        "duracao_segundos": 105.664
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-0900-833cbe6bfd",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "256 - Bebê e Cachorro： Instinto de Proteção Real Revelado! ｜ ANA BEATRIZ.mp4",
+        "sha256": "833cbe6bfd13a38e163acceda0e993045f546cafe09608e8233dee64cf21b099"
+      },
+      "midia": {
+        "asset": "sha256-833cbe6bfd13a38e163acceda0e993045f546cafe09608e8233dee64cf21b099.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-833cbe6bfd13a38e163acceda0e993045f546cafe09608e8233dee64cf21b099.mp4",
+        "sha256": "833cbe6bfd13a38e163acceda0e993045f546cafe09608e8233dee64cf21b099",
+        "tamanho_bytes": 16551260,
+        "duracao_segundos": 55.573
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-1300-7c95c9c3b1",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "257 - behaviorismo e o reforço positivo.mp4",
+        "sha256": "7c95c9c3b17ef1a3fc562e80502b3778018c2b65b3e2580adb9ff89baaa3c23d"
+      },
+      "midia": {
+        "asset": "sha256-7c95c9c3b17ef1a3fc562e80502b3778018c2b65b3e2580adb9ff89baaa3c23d.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-7c95c9c3b17ef1a3fc562e80502b3778018c2b65b3e2580adb9ff89baaa3c23d.mp4",
+        "sha256": "7c95c9c3b17ef1a3fc562e80502b3778018c2b65b3e2580adb9ff89baaa3c23d",
+        "tamanho_bytes": 11469641,
+        "duracao_segundos": 48.832
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-1700-36b44bb9e9",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "258 - Bipolaridade x Borderline： você sabe a diferença？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
+        "sha256": "36b44bb9e98315e4bb4eaecae14074b2dff9b1f41b9a85d163c550ffb49e032d"
+      },
+      "midia": {
+        "asset": "sha256-36b44bb9e98315e4bb4eaecae14074b2dff9b1f41b9a85d163c550ffb49e032d.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-36b44bb9e98315e4bb4eaecae14074b2dff9b1f41b9a85d163c550ffb49e032d.mp4",
+        "sha256": "36b44bb9e98315e4bb4eaecae14074b2dff9b1f41b9a85d163c550ffb49e032d",
+        "tamanho_bytes": 13838308,
+        "duracao_segundos": 45.589
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-2100-9415d1409b",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "259 - Boneca Natasha： A Polêmica Viral que Chocou o Mundo ｜ ANA BEATRIZ.mp4",
+        "sha256": "9415d1409b034c851e47233d8d8d0fd3b8b09e76ec6e2f7e22b9a7442ed18dc0"
+      },
+      "midia": {
+        "asset": "sha256-9415d1409b034c851e47233d8d8d0fd3b8b09e76ec6e2f7e22b9a7442ed18dc0.mp4",
+        "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-9415d1409b034c851e47233d8d8d0fd3b8b09e76ec6e2f7e22b9a7442ed18dc0.mp4",
+        "sha256": "9415d1409b034c851e47233d8d8d0fd3b8b09e76ec6e2f7e22b9a7442ed18dc0",
+        "tamanho_bytes": 65512394,
+        "duracao_segundos": 171.754
+      },
+      "instagram": {
+        "legenda": "Siga @mentedecifrada_br",
+        "share_to_feed": true,
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @mentedecifrada_br",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,

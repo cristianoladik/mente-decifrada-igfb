@@ -2564,6 +2564,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261115-06fb248079",
+      "aprovado": true,
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "956 - Álcool para Pessoas ao Redor.mp4",
+        "sha256": "06fb248079c4005e5d1817afddae05e44531b6f11c7492ee0ad75b6e148eb0a0"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "sha256-11129b3fb62f03124645ab6a859b95ce84413c76e99d36b507f1f67388598d84.mp4",
+            "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-11129b3fb62f03124645ab6a859b95ce84413c76e99d36b507f1f67388598d84.mp4",
+            "sha256": "11129b3fb62f03124645ab6a859b95ce84413c76e99d36b507f1f67388598d84",
+            "tamanho_bytes": 3237486,
+            "duracao_segundos": 34.806009
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
   "estoque_minimo_dias": 60,
