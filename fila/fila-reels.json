@@ -264,7 +264,7 @@
       "aprovado": true,
       "data": "2026-09-17",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "006 - Você viu essa cozinheira que foi na empresa de energia elétrica e quebrou tudo.mp4",
         "sha256": "c5987dbc42a90c2520dfdda3ef1f1a2bc284bb7e455521d61da2a240217c91de"
@@ -297,7 +297,8 @@
         "id": "1101411405957995",
         "publicado_em": "2026-09-17T10:18:39.595794-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-17T10:18:41.383528-03:00"
     },
     {
       "id": "reel-20260918-0500-3591e5a331",
