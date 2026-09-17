@@ -379,7 +379,7 @@
       "aprovado": true,
       "data": "2026-09-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "896 - Tristeza tem endereço, depressão não.mp4",
         "sha256": "2f5b70fed85008fc54a9825b6c3a4a6b727ee5a6fa5a9c6637bfd9ae0a365c53"
@@ -415,7 +415,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-17T12:45:10.761521-03:00"
     },
     {
       "id": "story-20260918-b3521a9aaa",
