@@ -309,7 +309,7 @@
       "aprovado": true,
       "data": "2026-09-18",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "007 - Depois desse vídeo, esse menino disse, pai, essa memória vai durar pra sempre.mp4",
         "sha256": "3591e5a331c3e6acea9c9ba6a1f9a4d52061aff15d6a445d0677dd759f99eb79"
@@ -342,7 +342,8 @@
         "id": "1020236021033978",
         "publicado_em": "2026-09-18T09:53:41.454196-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-18T09:53:43.390470-03:00"
     },
     {
       "id": "reel-20260918-0900-cbe4b38937",
