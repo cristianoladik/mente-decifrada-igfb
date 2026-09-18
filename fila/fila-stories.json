@@ -427,7 +427,7 @@
       "aprovado": true,
       "data": "2026-09-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "897 - Tudo isso foi armação pra vender mais？.mp4",
         "sha256": "b3521a9aaa02058365ec229681e6641a234613f9c55d740d3753f2acd3545226"
@@ -463,7 +463,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-18T12:16:45.778851-03:00"
     },
     {
       "id": "story-20260919-26934acaf2",
