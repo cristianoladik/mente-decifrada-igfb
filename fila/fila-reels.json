@@ -444,7 +444,7 @@
       "aprovado": true,
       "data": "2026-09-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "010 - Você viu esse cara que derrubou a bandeja de um garçom de propósito.mp4",
         "sha256": "909521299899a9f67279933aea221821f093400ff63be5545fb64b932ec3edf5"
@@ -477,7 +477,8 @@
         "id": "1313385720734853",
         "publicado_em": "2026-09-19T12:52:59.617125-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-19T12:53:01.291238-03:00"
     },
     {
       "id": "reel-20260920-0500-1d1a5df1fd",
