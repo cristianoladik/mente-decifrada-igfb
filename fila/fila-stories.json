@@ -475,7 +475,7 @@
       "aprovado": true,
       "data": "2026-09-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "898 - Tylenol e dor sentimental.mp4",
         "sha256": "26934acaf2e410900b7d322c2bb9a778cdb700f06d5e46f420d0b1f6d3cc66dc"
@@ -511,7 +511,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-19T11:54:10.477552-03:00"
     },
     {
       "id": "story-20260920-4bb5d67ab1",
