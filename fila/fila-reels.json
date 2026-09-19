@@ -399,7 +399,7 @@
       "aprovado": true,
       "data": "2026-09-19",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "009 - Você precisa aprender inglês para ontem.mp4",
         "sha256": "3fe407fafa45ac2deab497afe76ec797fe267b59098ffdc74af52128523d8d44"
@@ -432,7 +432,8 @@
         "id": "1548846503234695",
         "publicado_em": "2026-09-19T09:26:04.302863-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-19T09:26:05.999459-03:00"
     },
     {
       "id": "reel-20260919-0900-9095212998",
