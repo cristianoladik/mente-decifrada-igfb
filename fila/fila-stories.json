@@ -523,7 +523,7 @@
       "aprovado": true,
       "data": "2026-09-20",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "899 - Um cachorro de rua protegeu uma bebê em Vila Velha ｜ ANA BEATRIZ.mp4",
         "sha256": "4bb5d67ab122e7c7ca4c00d5b70e98e17aea961d6ef26e11ad61f1d7a2c9867f"
@@ -619,7 +619,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-20T12:02:06.314027-03:00"
     },
     {
       "id": "story-20260921-4ce551d775",
