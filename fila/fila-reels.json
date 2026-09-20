@@ -534,7 +534,7 @@
       "aprovado": true,
       "data": "2026-09-20",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "012 - Saber se comunicar te dá malandragem.mp4",
         "sha256": "e340115af9cd9a08a345a2de3d070fdaa1d4e8fd2f4f2c123c367d51999956d1"
@@ -567,7 +567,8 @@
         "id": "1083528224323900",
         "publicado_em": "2026-09-20T13:01:34.694795-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-20T13:01:36.273424-03:00"
     },
     {
       "id": "reel-20260921-0500-c9b13bb741",
