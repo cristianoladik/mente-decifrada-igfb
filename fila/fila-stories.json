@@ -536,7 +536,10 @@
             "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-a53627da7d7987b0f9a7103803680a668cd45dc353d06c0060b5774753f4b856.mp4",
             "sha256": "a53627da7d7987b0f9a7103803680a668cd45dc353d06c0060b5774753f4b856",
             "tamanho_bytes": 10526567,
-            "duracao_segundos": 56.533008
+            "duracao_segundos": 56.533008,
+            "remocao_solicitada_em": "2026-09-20T12:02:10.077798-03:00",
+            "remocao_repositorio": "cristianoladik/mente-decifrada-igfb",
+            "remocao_release_tag": "fila-instagram-facebook"
           },
           "instagram": {
             "status": "publicado",
@@ -566,7 +569,10 @@
             "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-8f3edebfedc136e85d4d15dd87e0de35f3ed7e13e1cdae0984ee9d21276b2ebc.mp4",
             "sha256": "8f3edebfedc136e85d4d15dd87e0de35f3ed7e13e1cdae0984ee9d21276b2ebc",
             "tamanho_bytes": 10289615,
-            "duracao_segundos": 56.533008
+            "duracao_segundos": 56.533008,
+            "remocao_solicitada_em": "2026-09-20T12:02:10.077798-03:00",
+            "remocao_repositorio": "cristianoladik/mente-decifrada-igfb",
+            "remocao_release_tag": "fila-instagram-facebook"
           },
           "instagram": {
             "status": "publicado",
@@ -596,7 +602,10 @@
             "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-039ca8d33bc18d6216c1035912919f1d611afce8207e71484043b493aaaf1471.mp4",
             "sha256": "039ca8d33bc18d6216c1035912919f1d611afce8207e71484043b493aaaf1471",
             "tamanho_bytes": 10855951,
-            "duracao_segundos": 56.504
+            "duracao_segundos": 56.504,
+            "remocao_solicitada_em": "2026-09-20T12:02:10.077798-03:00",
+            "remocao_repositorio": "cristianoladik/mente-decifrada-igfb",
+            "remocao_release_tag": "fila-instagram-facebook"
           },
           "instagram": {
             "status": "publicado",
