@@ -489,7 +489,7 @@
       "aprovado": true,
       "data": "2026-09-20",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "011 - É curioso como o Big Brother Brasil pode gerar tanta audiência e tanto interesse na população.mp4",
         "sha256": "1d1a5df1fd4d374932bc5ac5c2c0a602562c7480d0530913dbf2573ccd6cb7a9"
@@ -522,7 +522,8 @@
         "id": "1986067785441285",
         "publicado_em": "2026-09-20T10:00:07.726074-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-20T10:00:09.412313-03:00"
     },
     {
       "id": "reel-20260920-0900-e340115af9",
