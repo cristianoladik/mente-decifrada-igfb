@@ -639,7 +639,7 @@
       "aprovado": true,
       "data": "2026-09-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "900 - Um homem pode ser um pai extraordinário, presente, cuidadoso e afetivamente implicado.mp4",
         "sha256": "4ce551d775ff9043e0073d738b71f1dbb0dfdd272c3e0c42f181b18b6b4c2c24"
@@ -705,7 +705,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-21T15:14:48.025543-03:00"
     },
     {
       "id": "story-20260922-1a4a484d7b",
