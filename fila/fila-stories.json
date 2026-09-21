@@ -687,7 +687,7 @@
           "instagram": {
             "status": "processando",
             "tentativas": 1,
-            "fase": "container_criado",
+            "fase": "publicacao_solicitada",
             "container_id": "18100188215181585"
           },
           "facebook": {
