@@ -624,7 +624,7 @@
       "aprovado": true,
       "data": "2026-09-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "014 - Isso é inaceitável.mp4",
         "sha256": "0a2a7fe63494de37fad2931c4d47f82b5c8fc48fd0466464f635cfbf97ff8b95"
@@ -657,7 +657,8 @@
         "id": "962820256862163",
         "publicado_em": "2026-09-21T14:17:34.995204-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-21T14:17:36.560467-03:00"
     },
     {
       "id": "reel-20260922-0500-1d4495e4b0",
