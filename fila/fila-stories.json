@@ -721,7 +721,7 @@
       "aprovado": true,
       "data": "2026-09-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "901 - Universo Infinito： A Criação Divina Revelada ｜ ANA BEATRIZ.mp4",
         "sha256": "1a4a484d7b87d468e0d12287f1c80758d755d16c3995f68038920d6b2f8a540a"
@@ -757,7 +757,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-22T12:49:16.874480-03:00"
     },
     {
       "id": "story-20260923-04050d4db5",
