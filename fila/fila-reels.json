@@ -669,7 +669,7 @@
       "aprovado": true,
       "data": "2026-09-22",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "015 - Cochileta russa.mp4",
         "sha256": "1d4495e4b0fd46560c6a7216d8fd7dbea8ef29295f9dc8a9ea4626b37d06e295"
@@ -702,7 +702,8 @@
         "id": "3610736785745783",
         "publicado_em": "2026-09-22T10:19:59.006483-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-22T10:20:00.830208-03:00"
     },
     {
       "id": "reel-20260922-0900-aaeb33dfa5",
