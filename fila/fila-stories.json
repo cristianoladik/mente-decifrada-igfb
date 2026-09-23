@@ -769,7 +769,7 @@
       "aprovado": true,
       "data": "2026-09-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "902 - Vai ter dor. Vai ter rejeição. E tá ótimo. ｜ ANA BEATRIZ.mp4",
         "sha256": "04050d4db58b3dcf88585e782470f6084aee5d65a1e5e4297518f4a47b4b8299"
@@ -805,7 +805,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-23T13:53:30.299187-03:00"
     },
     {
       "id": "story-20260924-06b4e425a7",
