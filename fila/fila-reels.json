@@ -804,7 +804,7 @@
       "aprovado": true,
       "data": "2026-09-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "018 - Trecho de uma aula que tenho no Reservatório de Dopamina.mp4",
         "sha256": "77f2262fcd27e8ebc53af5985cdd348f89320d22098e4c9f48d01849061a049f"
@@ -837,7 +837,8 @@
         "id": "1824598745201233",
         "publicado_em": "2026-09-23T12:39:08.691683-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-23T12:39:10.374134-03:00"
     },
     {
       "id": "reel-20260924-0500-824f923ad6",
