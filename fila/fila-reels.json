@@ -849,7 +849,7 @@
       "aprovado": true,
       "data": "2026-09-24",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "019 - AUTOMATIZE O PROCESSO.mp4",
         "sha256": "824f923ad69249cc44a92c5b359997f2cd752e67bc90d3e1e852472fe82c6f40"
@@ -882,7 +882,8 @@
         "id": "1318553046885506",
         "publicado_em": "2026-09-24T10:28:56.884716-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-24T10:29:00.490643-03:00"
     },
     {
       "id": "reel-20260924-0900-6ca0431cc5",
