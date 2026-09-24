@@ -817,7 +817,7 @@
       "aprovado": true,
       "data": "2026-09-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "903 - Vape vicia o cérebro do adolescente antes dos pais perceberem ｜ ANA BEATRIZ.mp4",
         "sha256": "06b4e425a783e74ec4feae49472f24d19f9207419c5f615800627daa23f1ce36"
@@ -853,7 +853,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-24T13:00:32.314978-03:00"
     },
     {
       "id": "story-20260925-5f9ed56c18",
