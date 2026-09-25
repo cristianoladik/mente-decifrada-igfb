@@ -1029,7 +1029,7 @@
       "aprovado": true,
       "data": "2026-09-25",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "023 - O QUE TRAZ FELICIDADE？.mp4",
         "sha256": "669b17755537a8baf1d133717a3e8291623e8dc050c954f26acbb0eaa07b37a3"
@@ -1062,7 +1062,8 @@
         "id": "1266354628959879",
         "publicado_em": "2026-09-25T16:57:05.090301-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-25T16:57:07.086053-03:00"
     },
     {
       "id": "reel-20260926-0500-fcc4c3b952",
