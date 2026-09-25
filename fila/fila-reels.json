@@ -984,7 +984,7 @@
       "aprovado": true,
       "data": "2026-09-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "022 - O esgoto que as pessoas consomem….mp4",
         "sha256": "1737cb5d3c5976e6cc3444e73ac85ae5051d737b7b2f74243d9a59ebde18f0b9"
@@ -1017,7 +1017,8 @@
         "id": "1611189837021157",
         "publicado_em": "2026-09-25T13:00:42.189090-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-25T13:00:43.852621-03:00"
     },
     {
       "id": "reel-20260925-1300-669b177555",
