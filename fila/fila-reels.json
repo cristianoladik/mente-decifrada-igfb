@@ -939,7 +939,7 @@
       "aprovado": true,
       "data": "2026-09-25",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "021 - O CONTEÚDO DESSE VIDEO PODE MUDAR SUA VIDA.mp4",
         "sha256": "0c418c9b04bb5b028e29ac330b05ccf23f3c37fd7afab520c8e89b5cd7e206ea"
@@ -972,7 +972,8 @@
         "id": "1621143646057308",
         "publicado_em": "2026-09-25T10:34:12.597573-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-25T10:34:14.089028-03:00"
     },
     {
       "id": "reel-20260925-0900-1737cb5d3c",
