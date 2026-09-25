@@ -865,7 +865,7 @@
       "aprovado": true,
       "data": "2026-09-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "904 - Vencer na vida não é só sobre chegar mais longe, é sobre quem você leva junto quando chega.mp4",
         "sha256": "5f9ed56c18d2146748e7c493719984a37100313ea0ff4212d8febe5425a125df"
@@ -931,7 +931,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-25T14:09:07.608208-03:00"
     },
     {
       "id": "story-20260926-e23113fe0f",
