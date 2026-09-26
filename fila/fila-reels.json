@@ -1119,7 +1119,7 @@
       "aprovado": true,
       "data": "2026-09-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "025 - Cuidado com essas pessoas….mp4",
         "sha256": "1b58f840d106873a3669caca6cdb6f46837a3c42c772f57420535bb0f6fed439"
@@ -1152,7 +1152,8 @@
         "id": "1604721571353503",
         "publicado_em": "2026-09-26T12:13:01.357750-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-26T12:13:02.917290-03:00"
     },
     {
       "id": "reel-20260926-1300-6987740e1d",
