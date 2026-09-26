@@ -1164,7 +1164,7 @@
       "aprovado": true,
       "data": "2026-09-26",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "026 - USO DE DROGAS.mp4",
         "sha256": "6987740e1d0f4b94c21ab62e6df3e8160364e3b994663869d498432a6b1f6734"
@@ -1197,7 +1197,8 @@
         "id": "1078584528293364",
         "publicado_em": "2026-09-26T16:08:08.899968-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-26T16:08:10.303316-03:00"
     },
     {
       "id": "reel-20260927-0500-3ab5e30d3d",
