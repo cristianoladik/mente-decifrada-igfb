@@ -1209,7 +1209,7 @@
       "aprovado": true,
       "data": "2026-09-27",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "027 - ADOLESCENTE NÃO PODE USAR CANNABIS.mp4",
         "sha256": "3ab5e30d3da58986a84316aa846126203b17d687682a550b84ae2ad2939c9b81"
@@ -1242,7 +1242,8 @@
         "id": "2198226434909081",
         "publicado_em": "2026-09-27T10:48:33.583226-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-27T10:48:35.375524-03:00"
     },
     {
       "id": "reel-20260927-0900-ef4a2715c5",
