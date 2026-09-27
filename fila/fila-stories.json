@@ -1029,7 +1029,7 @@
       "aprovado": true,
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "906 - Vingança é coisa de narcisista ou de psicopata？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "87e3812a29ab2fcd37c92b84ef8acb75bb8bb71f07f29af2dab3cacd6377d68c"
@@ -1065,7 +1065,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-27T12:53:50.860029-03:00"
     },
     {
       "id": "story-20260928-3318e5811c",
