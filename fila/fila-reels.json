@@ -1299,7 +1299,7 @@
       "aprovado": true,
       "data": "2026-09-27",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "029 - NÃO SOFRA MAIS COM O TOC.mp4",
         "sha256": "8a02e98d47d3a36dd48bd1b7c04ffabcecb9e160bbccb66d2e0576fd0cd8a310"
@@ -1332,7 +1332,8 @@
         "id": "1793569795071064",
         "publicado_em": "2026-09-27T16:40:38.544974-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-27T16:40:40.297922-03:00"
     },
     {
       "id": "reel-20260928-0500-c4b95b522f",
