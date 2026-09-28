@@ -1434,7 +1434,7 @@
       "aprovado": true,
       "data": "2026-09-28",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "032 - Pare de se SUJEITAR A ISSO….mp4",
         "sha256": "f725d5567f960791f5c880a182fa61758f299b59ba6dac102c0d46891c16c3e4"
@@ -1467,7 +1467,8 @@
         "id": "1097441552684874",
         "publicado_em": "2026-09-28T18:44:13.447801-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-28T18:44:15.151046-03:00"
     },
     {
       "id": "reel-20260929-0500-46f4316377",
