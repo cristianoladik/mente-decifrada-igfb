@@ -1077,7 +1077,7 @@
       "aprovado": true,
       "data": "2026-09-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "907 - Violência Digital： Marcas Emocionais e o Papel da Escola ｜ ANA BEATRIZ.mp4",
         "sha256": "3318e5811c51c7d1674a57aa2c1028558c63853177cba23ea15cd76dbfb479e7"
@@ -1143,7 +1143,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-28T16:41:57.823565-03:00"
     },
     {
       "id": "story-20260929-2e58084a60",
