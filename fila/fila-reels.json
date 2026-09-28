@@ -1344,7 +1344,7 @@
       "aprovado": true,
       "data": "2026-09-28",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "030 - Pare de ver o lado bom de quem NÃO MERECE VOCÊ….mp4",
         "sha256": "c4b95b522fd56864c0188296bdb1887ceefa6634becef94da00f434df0560ac5"
@@ -1377,7 +1377,8 @@
         "id": "1066611322810052",
         "publicado_em": "2026-09-28T13:41:59.871326-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-28T13:42:02.029334-03:00"
     },
     {
       "id": "reel-20260928-0900-d9b6a32b3b",
