@@ -1357,7 +1357,8 @@
         "duracao_segundos": 76.021995,
         "remocao_solicitada_em": "2026-09-28T13:42:06.629317-03:00",
         "remocao_repositorio": "cristianoladik/mente-decifrada-igfb",
-        "remocao_release_tag": "fila-instagram-facebook"
+        "remocao_release_tag": "fila-instagram-facebook",
+        "removido_da_release_em": "2026-09-28T13:42:08.693765-03:00"
       },
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
