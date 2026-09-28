@@ -1389,7 +1389,7 @@
       "aprovado": true,
       "data": "2026-09-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "031 - NOSSO CÉREBRO É PLÁSTICO.mp4",
         "sha256": "d9b6a32b3b72344cf2c82e229f4a3b3327656f7706f48d4351ec2175198dd7da"
@@ -1422,7 +1422,8 @@
         "id": "28482219284740278",
         "publicado_em": "2026-09-28T15:49:57.904840-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-28T15:49:59.557937-03:00"
     },
     {
       "id": "reel-20260928-1300-f725d5567f",
