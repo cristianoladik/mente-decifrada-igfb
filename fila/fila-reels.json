@@ -1524,7 +1524,7 @@
       "aprovado": true,
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "034 - É BOM SER LÍDER？.mp4",
         "sha256": "386b8d81bae6e1edbb165fe6d052e22e721f2e89e4935fcf6a70f33a9a7dbe9c"
@@ -1557,7 +1557,8 @@
         "id": "1815916282736673",
         "publicado_em": "2026-09-29T14:06:42.693484-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-29T14:06:44.315827-03:00"
     },
     {
       "id": "reel-20260929-1300-31699217d1",
