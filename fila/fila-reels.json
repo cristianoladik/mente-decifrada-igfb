@@ -1479,7 +1479,7 @@
       "aprovado": true,
       "data": "2026-09-29",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "033 - A FARSA da força de vontade….mp4",
         "sha256": "46f4316377381f94c9f661f30c4d5ae6b359031d549864d95d3ff0cba023cc10"
@@ -1512,7 +1512,8 @@
         "id": "1650349156718124",
         "publicado_em": "2026-09-29T11:47:29.748048-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-29T11:47:31.613781-03:00"
     },
     {
       "id": "reel-20260929-0900-386b8d81ba",
