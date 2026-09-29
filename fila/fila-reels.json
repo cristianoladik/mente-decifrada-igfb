@@ -1569,7 +1569,7 @@
       "aprovado": true,
       "data": "2026-09-29",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "035 - MENTE COMPETITIVA.mp4",
         "sha256": "31699217d15a8b2cef8d5d044d77f8f3268748e1e312afb2940e02338b6a332c"
@@ -1602,7 +1602,8 @@
         "id": "28094192233616286",
         "publicado_em": "2026-09-29T17:36:41.398698-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-29T17:36:42.929064-03:00"
     },
     {
       "id": "reel-20260930-0500-145017299b",
