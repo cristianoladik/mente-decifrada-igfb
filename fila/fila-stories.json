@@ -1159,7 +1159,7 @@
       "aprovado": true,
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "908 - Violência Silenciosa Contra o Professor： O Que Ninguém Fala ｜ ANA BEATRIZ.mp4",
         "sha256": "2e58084a608450a40a6fa470878d6629d8b3064153664fca147392897aa21de4"
@@ -1225,7 +1225,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-29T15:06:06.933575-03:00"
     },
     {
       "id": "story-20260930-b0a2892d3a",
