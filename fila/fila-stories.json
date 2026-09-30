@@ -1241,7 +1241,7 @@
       "aprovado": true,
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "909 - Vizinha fofoqueira： vilã ou heroína？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "b0a2892d3ad867cb2a7b82151c0db90bb66cca69fc88e12dccb0c9681a606d33"
@@ -1277,7 +1277,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-09-30T14:04:27.830949-03:00"
     },
     {
       "id": "story-20261001-b36895d662",
