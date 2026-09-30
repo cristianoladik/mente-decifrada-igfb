@@ -1704,7 +1704,7 @@
       "aprovado": true,
       "data": "2026-09-30",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "038 - O tempo e a vida….mp4",
         "sha256": "87335ca59a4e829823bcc5111e8c7679d7fe8de3504d8ae42bab8df6d58f8809"
@@ -1737,7 +1737,8 @@
         "id": "1099927769074183",
         "publicado_em": "2026-09-30T17:41:14.747929-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-30T17:41:16.451035-03:00"
     },
     {
       "id": "reel-20261001-0500-5fd763dffa",
