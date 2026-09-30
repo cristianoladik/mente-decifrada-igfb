@@ -1659,7 +1659,7 @@
       "aprovado": true,
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "037 - CONTROLE EMOCIONAL.mp4",
         "sha256": "81f2dcc3cc3b535a9b517846c7debcb1d45fa37c2bd79c9bfc5662f4dfe43c52"
@@ -1692,7 +1692,8 @@
         "id": "1507308161208096",
         "publicado_em": "2026-09-30T15:00:16.642110-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-09-30T15:00:18.420414-03:00"
     },
     {
       "id": "reel-20260930-1300-87335ca59a",
