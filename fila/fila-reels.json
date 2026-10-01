@@ -1749,7 +1749,7 @@
       "aprovado": true,
       "data": "2026-10-01",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "039 - ADOLESCENTES SÃO MAIS IMPULSIVOS？.mp4",
         "sha256": "5fd763dffab8ba37f5ce3930fc6bc4d2e498d1aac51d371e0594cf51c64712ac"
@@ -1782,7 +1782,8 @@
         "id": "2132927767300737",
         "publicado_em": "2026-10-01T12:20:56.143469-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-01T12:20:57.732008-03:00"
     },
     {
       "id": "reel-20261001-0900-5d55a00190",
