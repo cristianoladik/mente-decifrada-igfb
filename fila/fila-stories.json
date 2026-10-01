@@ -1289,7 +1289,7 @@
       "aprovado": true,
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "910 - Você acha que decidiu. Mas quem decidiu foi o seu trauma.mp4",
         "sha256": "b36895d662d7751d6e57bbe404214ed92d630ac88447fb4936b2c52376fe9534"
@@ -1385,7 +1385,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-01T15:27:47.462805-03:00"
     },
     {
       "id": "story-20261002-213d64bfa6",
