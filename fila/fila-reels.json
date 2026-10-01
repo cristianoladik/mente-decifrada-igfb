@@ -1839,7 +1839,7 @@
       "aprovado": true,
       "data": "2026-10-01",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "041 - NÓS NÃO ESTAMOS PRONTOS PARA OS TEMPOS ATUAIS.mp4",
         "sha256": "0c37e192ab03d26aeadffc906c18895d336dd66bc1f0705534863c26df8f1cc7"
@@ -1872,7 +1872,8 @@
         "id": "1690596096017973",
         "publicado_em": "2026-10-01T17:55:48.709969-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-01T17:55:50.084069-03:00"
     },
     {
       "id": "reel-20261002-0500-138f15c62e",
