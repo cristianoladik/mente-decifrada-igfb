@@ -1794,7 +1794,7 @@
       "aprovado": true,
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "040 - As FEZES da internet.mp4",
         "sha256": "5d55a001901cc1b185d4d0a94e4cb97c5cf5a0c136ad8985929666b870ac3da0"
@@ -1827,7 +1827,8 @@
         "id": "2191429921439377",
         "publicado_em": "2026-10-01T14:36:02.458358-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-01T14:36:03.981809-03:00"
     },
     {
       "id": "reel-20261001-1300-0c37e192ab",
