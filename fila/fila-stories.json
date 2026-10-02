@@ -1405,7 +1405,7 @@
       "aprovado": true,
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "911 - Você acha que obesidade é apenas falta de força de vontade？.mp4",
         "sha256": "213d64bfa6c4392bd8af3581d16ebbdab4ccca7e7fcf2b8219068059ba60980a"
@@ -1471,7 +1471,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-02T14:54:01.257779-03:00"
     },
     {
       "id": "story-20261003-0c23572273",
