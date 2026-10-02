@@ -1929,7 +1929,7 @@
       "aprovado": true,
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "043 - NICOTINA AUMENTA O FOCO？.mp4",
         "sha256": "cc3c67265826ad1010cc0f439a45f4c036b7577a295876b443e433d99786c2c1"
@@ -1962,7 +1962,8 @@
         "id": "1542175267664605",
         "publicado_em": "2026-10-02T13:53:57.798734-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-02T13:53:59.245790-03:00"
     },
     {
       "id": "reel-20261002-1300-f944f01004",
