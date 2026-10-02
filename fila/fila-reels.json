@@ -1974,7 +1974,7 @@
       "aprovado": true,
       "data": "2026-10-02",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "044 - É por isso que relações terminam.mp4",
         "sha256": "f944f01004267ee6cec3a0172c3204e725d2cbd233d84830ac4518181f91bcda"
@@ -2007,7 +2007,8 @@
         "id": "2276307373155148",
         "publicado_em": "2026-10-02T17:32:48.064498-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-02T17:32:49.755850-03:00"
     },
     {
       "id": "reel-20261002-1700-4b49c3568e",
