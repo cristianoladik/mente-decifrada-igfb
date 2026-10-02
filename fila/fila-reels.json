@@ -2019,7 +2019,7 @@
       "aprovado": true,
       "data": "2026-10-02",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "045 - COMO ACABAR COM A INSÔNIA.mp4",
         "sha256": "4b49c3568e3447daa4e1d5593f23a4bc6d3c6c0837e24b779357d262c20b4b87"
@@ -2052,7 +2052,8 @@
         "id": "1621314466337376",
         "publicado_em": "2026-10-02T20:40:22.123785-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-02T20:40:24.033608-03:00"
     },
     {
       "id": "reel-20261003-0500-072d83fdc7",
