@@ -1884,7 +1884,7 @@
       "aprovado": true,
       "data": "2026-10-02",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "042 - O poder do DESAPEGO.mp4",
         "sha256": "138f15c62edc855c94f790d571bee311e3dfd778e1dbdc0b14e7d43ca0f22e88"
@@ -1917,7 +1917,8 @@
         "id": "1647884936967288",
         "publicado_em": "2026-10-02T11:40:53.624449-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-02T11:40:55.210756-03:00"
     },
     {
       "id": "reel-20261002-0900-cc3c672658",
