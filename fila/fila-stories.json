@@ -1487,7 +1487,7 @@
       "aprovado": true,
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "912 - Você acostuma ser enganado.mp4",
         "sha256": "0c235722733bce87259508e64c5de605319f6db9a4478489ade3aaf547b555cf"
@@ -1553,7 +1553,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-03T12:19:32.555441-03:00"
     },
     {
       "id": "story-20261004-ef2e42b7d3",
