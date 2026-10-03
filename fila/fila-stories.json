@@ -1512,7 +1512,11 @@
             "confirmacao": "media_publish"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "enviando",
+            "tentativas": 1,
+            "fase": "sessao_criada",
+            "video_id": "2152481942343266",
+            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/2152481942343266"
           }
         },
         {
