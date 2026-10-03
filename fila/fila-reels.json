@@ -2064,7 +2064,7 @@
       "aprovado": true,
       "data": "2026-10-03",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "046 - Se depender disso, sua vida nunca mudará.mp4",
         "sha256": "072d83fdc72ae541b635fccf5781c73ee1fc534728427f1a80726abb01d49fe1"
@@ -2097,7 +2097,8 @@
         "id": "1817866275947127",
         "publicado_em": "2026-10-03T10:15:53.999695-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-03T10:15:55.308552-03:00"
     },
     {
       "id": "reel-20261003-0900-532a8cca9a",
