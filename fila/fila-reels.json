@@ -2109,7 +2109,7 @@
       "aprovado": true,
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "047 - A HISTÓRIA DO WHEY.mp4",
         "sha256": "532a8cca9a15c7eca46f4f5d4794c12413d83bc2356966bb03ac86ea29383606"
@@ -2142,7 +2142,8 @@
         "id": "4436965493208389",
         "publicado_em": "2026-10-03T13:14:33.627801-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-03T13:14:35.008639-03:00"
     },
     {
       "id": "reel-20261003-1300-f82afa2eb5",
