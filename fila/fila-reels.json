@@ -2244,7 +2244,7 @@
       "aprovado": true,
       "data": "2026-10-04",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "050 - RECEITA MATINAL SAUDÁVEL E GOSTOSA.mp4",
         "sha256": "73c851081f4a1b34b2d6aea390186b486a3cb94c225a8185c5e4b1887eca95ab"
@@ -2277,7 +2277,8 @@
         "id": "1106448965249862",
         "publicado_em": "2026-10-04T10:53:13.529579-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-04T10:53:14.892441-03:00"
     },
     {
       "id": "reel-20261004-0900-8a8777036c",
