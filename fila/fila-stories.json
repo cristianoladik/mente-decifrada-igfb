@@ -1569,7 +1569,7 @@
       "aprovado": true,
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "913 - Você ainda tem um Neandertal dentro de você？.mp4",
         "sha256": "ef2e42b7d32bdd50ade2946fc62fbebf2713c9faca600d032b77737f781204a6"
@@ -1605,7 +1605,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-04T13:02:43.648614-03:00"
     },
     {
       "id": "story-20261005-2046742c40",
