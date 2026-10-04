@@ -2289,7 +2289,7 @@
       "aprovado": true,
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "051 - Isso ACABA com sua autoestima.mp4",
         "sha256": "8a8777036c299f319f840171f7244da178cbfc9ff2dc268b76662c7cab27042a"
@@ -2322,7 +2322,8 @@
         "id": "981436494207867",
         "publicado_em": "2026-10-04T13:51:46.713235-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-04T13:51:48.382315-03:00"
     },
     {
       "id": "reel-20261004-1300-d673f93948",
