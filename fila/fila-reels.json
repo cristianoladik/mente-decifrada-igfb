@@ -2379,7 +2379,7 @@
       "aprovado": true,
       "data": "2026-10-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "053 - CONVIVAM COM O TÉDIO!.mp4",
         "sha256": "f908943e6a61309eac237d6cc725e6a735e3841ff40cc59e02e25b6648eb8f53"
@@ -2412,7 +2412,8 @@
         "id": "1114606074396807",
         "publicado_em": "2026-10-04T19:57:58.347497-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-04T19:57:59.868138-03:00"
     },
     {
       "id": "reel-20261005-0500-003a5aee8c",
