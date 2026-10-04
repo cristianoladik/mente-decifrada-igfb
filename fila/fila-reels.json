@@ -2334,7 +2334,7 @@
       "aprovado": true,
       "data": "2026-10-04",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "052 - RELAÇÃO ENTRE USO DE D＊ROGAS E DOPAMINA.mp4",
         "sha256": "d673f9394868b343819b8cbb9e8977b250b478db35fd478e45bf225a9020deee"
@@ -2367,7 +2367,8 @@
         "id": "4518717091727500",
         "publicado_em": "2026-10-04T16:21:26.503101-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-04T16:21:28.091276-03:00"
     },
     {
       "id": "reel-20261004-1700-f908943e6a",
