@@ -2496,7 +2496,7 @@
       "aprovado": true,
       "data": "2026-10-05",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "056 - Por que temos INSULINA no CÉREBRO？.mp4",
         "sha256": "febed2d29a2423f53dc50e61f4e105735f5169e59ead47dd6f6e3485fb5571cc"
@@ -2529,7 +2529,8 @@
         "id": "1643577883946863",
         "publicado_em": "2026-10-05T19:25:37.920929-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-05T19:25:39.465858-03:00"
     },
     {
       "id": "reel-20261005-1700-fd2fd224c0",
