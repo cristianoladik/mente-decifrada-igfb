@@ -2568,7 +2568,7 @@
       "aprovado": true,
       "data": "2026-10-06",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "058 - Por que as pessoas vão na ACADEMIA？.mp4",
         "sha256": "df0fba3f7b9401017a3e54e5abc3d0405c2cbf0b60a7a51c3b51b8a3c113e112"
@@ -2601,7 +2601,8 @@
         "id": "1084063757553266",
         "publicado_em": "2026-10-06T11:59:07.132659-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-06T11:59:08.732006-03:00"
     },
     {
       "id": "reel-20261006-0900-26019d1476",
