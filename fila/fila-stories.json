@@ -1699,7 +1699,7 @@
       "aprovado": true,
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "915 - Você aprendeu a ser forte cedo demais？.mp4",
         "sha256": "85a9728b633180be1162eb7d5ace8600dc594b7962f804b06d6e1ace85629ca5"
@@ -1765,7 +1765,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-06T15:21:03.492075-03:00"
     },
     {
       "id": "story-20261007-c7237ed148",
