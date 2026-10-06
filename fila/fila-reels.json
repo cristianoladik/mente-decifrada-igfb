@@ -2649,7 +2649,7 @@
       "aprovado": true,
       "data": "2026-10-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "061 - A dura verdade sobre o amor.mp4",
         "sha256": "6717ac634371e25eaeee70bf2f2ed3477cd89510faf5c55c652ac07615091c15"
@@ -2682,7 +2682,8 @@
         "id": "991962393936717",
         "publicado_em": "2026-10-05T22:15:38.743691-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-05T22:15:40.139746-03:00"
     },
     {
       "id": "reel-20261007-0500-3cc5ff097a",
