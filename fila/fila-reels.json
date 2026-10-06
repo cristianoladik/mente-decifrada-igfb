@@ -2613,7 +2613,7 @@
       "aprovado": true,
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "059 - COMPORTAMENTOS TAMBÉM DÃO ＂BARATOS＂.mp4",
         "sha256": "26019d14763a7afa3e70785a76c3e9770cf1b3c3a83e6f2342f83bd2c4b11d95"
@@ -2646,7 +2646,8 @@
         "id": "968293842990284",
         "publicado_em": "2026-10-06T14:28:57.852314-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-06T14:28:59.390473-03:00"
     },
     {
       "id": "reel-20261006-1300-567455c013",
