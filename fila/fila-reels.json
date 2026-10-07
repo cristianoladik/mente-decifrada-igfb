@@ -2748,7 +2748,7 @@
       "aprovado": true,
       "data": "2026-10-07",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "062 - O QUE TE MOTIVA？.mp4",
         "sha256": "3cc5ff097a85702665e73a541491d0e3ec5d1a51bd2ca7d8d35b5eae67098c2b"
@@ -2781,7 +2781,8 @@
         "id": "1311530194331129",
         "publicado_em": "2026-10-07T12:27:07.379106-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-07T12:27:10.309029-03:00"
     },
     {
       "id": "reel-20261007-0900-76cf11c221",
