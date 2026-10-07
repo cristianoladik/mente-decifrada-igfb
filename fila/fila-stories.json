@@ -1781,7 +1781,7 @@
       "aprovado": true,
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "916 - Você carrega todas as idades que já viveu.mp4",
         "sha256": "c7237ed1483a470183dad5a81b816dea7a9da5c9624dc380843212df6ce17f3e"
@@ -1877,7 +1877,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-07T15:59:50.611342-03:00"
     },
     {
       "id": "story-20261008-b029f40252",
