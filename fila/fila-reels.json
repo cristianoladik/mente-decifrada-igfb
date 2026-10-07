@@ -2838,7 +2838,7 @@
       "aprovado": true,
       "data": "2026-10-07",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "064 - O SISTEMA DE RECOMPENSA e a NEUROPLASTICIDADE.mp4",
         "sha256": "adda27306b774e089a7668778438a13e18687cb90ca43d61f67e4b768784bdc9"
@@ -2871,7 +2871,8 @@
         "id": "1104595392123590",
         "publicado_em": "2026-10-07T18:08:28.841232-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-07T18:08:30.328046-03:00"
     },
     {
       "id": "reel-20261007-1700-3806fdcb47",
