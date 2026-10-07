@@ -2793,7 +2793,7 @@
       "aprovado": true,
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "063 - Esses são os verdadeiros monstros.mp4",
         "sha256": "76cf11c22193be9acb5dbde9177c3a26109d28f28fcfc80ab33f42e1e704144e"
@@ -2826,7 +2826,8 @@
         "id": "1678511327166125",
         "publicado_em": "2026-10-07T15:01:13.325501-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-07T15:01:15.006234-03:00"
     },
     {
       "id": "reel-20261007-1300-adda27306b",
