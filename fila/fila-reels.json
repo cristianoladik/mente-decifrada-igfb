@@ -3000,7 +3000,7 @@
       "aprovado": true,
       "data": "2026-10-08",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "068 - Isso NÃO vai mudar sua vida.mp4",
         "sha256": "d95dee2eb2a8f4c7315987eb9ee877ab9946bf450c2e8db3d0212548f7bdc193"
@@ -3033,7 +3033,8 @@
         "id": "1664204315067282",
         "publicado_em": "2026-10-08T18:12:09.204687-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-08T18:12:11.980864-03:00"
     },
     {
       "id": "reel-20261008-1700-d972c3e9d7",
