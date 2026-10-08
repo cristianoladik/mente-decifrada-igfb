@@ -2910,7 +2910,7 @@
       "aprovado": true,
       "data": "2026-10-08",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "066 - Fuja desse tipo de relacionamento!.mp4",
         "sha256": "a4562c13b2130be7bc0fff8bfc843a538be22a731426323e85d5d9fae542e39e"
@@ -2943,7 +2943,8 @@
         "id": "1691379036030683",
         "publicado_em": "2026-10-08T12:28:58.324000-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-08T12:29:00.095092-03:00"
     },
     {
       "id": "reel-20261008-0900-253039222b",
