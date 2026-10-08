@@ -2991,7 +2991,7 @@
       "aprovado": true,
       "data": "2026-10-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "069 - Uma dura verdade sobre a paixão.mp4",
         "sha256": "d972c3e9d7490a5cfe07378a7ae259968aceac6c2e07ef7d2d647b7203687375"
@@ -3024,7 +3024,8 @@
         "id": "1483391900266560",
         "publicado_em": "2026-10-07T21:08:14.164162-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-07T21:08:15.882461-03:00"
     },
     {
       "id": "reel-20261009-0500-2169d166e3",
