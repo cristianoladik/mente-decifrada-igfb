@@ -2955,7 +2955,7 @@
       "aprovado": true,
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "067 - Isso está destruindo sua paz.mp4",
         "sha256": "253039222b02904a73b7cea360144f629eb6a4013682e94c89fbb3b86fb440dc"
@@ -2988,7 +2988,8 @@
         "id": "2543405936068985",
         "publicado_em": "2026-10-08T15:04:02.858188-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-08T15:04:04.529856-03:00"
     },
     {
       "id": "reel-20261008-1300-d95dee2eb2",
