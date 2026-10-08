@@ -1897,7 +1897,7 @@
       "aprovado": true,
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "918 - Você Conhece Seu Pai ou Só a Versão que a Dor te Mostrou？.mp4",
         "sha256": "b029f402527ca6b9b045995b91698b820e0527d455aab5df27cea57d9443f1d6"
@@ -1933,7 +1933,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-08T15:50:18.416336-03:00"
     },
     {
       "id": "story-20261009-f4034cf003",
