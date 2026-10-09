@@ -1945,7 +1945,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "919 - Você encontrou Deus na Religião ou encontrou Culpa？.mp4",
         "sha256": "f4034cf0034cb950b40d391705768b8ba1da41ef8558550050d2eeca6962d1f5"
@@ -2011,7 +2011,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-09T15:21:58.586504-03:00"
     },
     {
       "id": "story-20261010-b082d31606",
