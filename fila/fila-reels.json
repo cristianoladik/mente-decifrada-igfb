@@ -3180,7 +3180,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "072 - Cuidado para não cair nessa armadilha.mp4",
         "sha256": "c5ddc34c3e1b7c60d84b7c42427525a6e4fe4f05fb665354f2f294cb4d311c27"
@@ -3213,7 +3213,8 @@
         "id": "1847342569966256",
         "publicado_em": "2026-10-09T17:42:27.294084-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-09T17:42:28.757069-03:00"
     },
     {
       "id": "reel-20261009-1700-5b77ec7020",
