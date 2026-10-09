@@ -3135,7 +3135,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "071 - Roncar pode ser sinal de ALERTA.mp4",
         "sha256": "ab8601ff87f963815e0c50adf61e6a93bad0655303e46571f5e4ce2a9ceef594"
@@ -3168,7 +3168,8 @@
         "id": "4755020478059996",
         "publicado_em": "2026-10-09T14:37:57.468497-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-09T14:37:59.271076-03:00"
     },
     {
       "id": "reel-20261009-1300-c5ddc34c3e",
