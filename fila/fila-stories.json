@@ -1972,9 +1972,10 @@
           "facebook": {
             "status": "processando",
             "tentativas": 1,
-            "fase": "upload_concluido",
+            "fase": "publicacao_solicitada",
             "video_id": "1064897939934098",
-            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1064897939934098"
+            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1064897939934098",
+            "finish_solicitado_em": "2026-10-09T15:20:44.231709-03:00"
           }
         },
         {
