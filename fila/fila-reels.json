@@ -3171,7 +3171,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "073 - Pare de se importar com isso.mp4",
         "sha256": "5b77ec7020cd736aac8821f5f1cc4b9638a65fc25d2b38e1af7bc12e0951432d"
@@ -3204,7 +3204,8 @@
         "id": "2021230035476651",
         "publicado_em": "2026-10-08T21:15:19.055598-03:00",
         "confirmacao": "finish_facebook_reconciliado"
-      }
+      },
+      "concluido_em": "2026-10-08T21:15:20.614975-03:00"
     },
     {
       "id": "reel-20261009-2100-67bc75180d",
