@@ -3090,7 +3090,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "070 - Como não se importar com o que pensam sobre você？.mp4",
         "sha256": "2169d166e31a966bcb94ff893247e5f1fd0b50db5022699a430020864c7675bf"
@@ -3123,7 +3123,8 @@
         "id": "1416076511580876",
         "publicado_em": "2026-10-09T12:11:42.347120-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-09T12:11:43.815132-03:00"
     },
     {
       "id": "reel-20261009-0900-ab8601ff87",
