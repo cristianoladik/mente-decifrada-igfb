@@ -1991,7 +1991,10 @@
             "duracao_segundos": 37.514
           },
           "instagram": {
-            "status": "pendente"
+            "status": "processando",
+            "tentativas": 1,
+            "fase": "container_criado",
+            "container_id": "18104088296181585"
           },
           "facebook": {
             "status": "pendente"
