@@ -3405,7 +3405,7 @@
       "aprovado": true,
       "data": "2026-10-10",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "077 - Diga adeus a tudo que não merece sua energia….mp4",
         "sha256": "5a87cb0b5e121d6de0732f98ef0cdd607b8d6b7953aa1cc8c5f1d34cd0bf3a5d"
@@ -3438,7 +3438,8 @@
         "id": "4289153398053066",
         "publicado_em": "2026-10-10T16:55:29.611447-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-10T16:55:30.871998-03:00"
     },
     {
       "id": "reel-20261010-1700-f9e6863584",
