@@ -3360,7 +3360,7 @@
       "aprovado": true,
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "076 - Uma saudade dolorosa.mp4",
         "sha256": "ef9c826bc4133b358c74cab46445e42bd2dc7c26792b91cb6ef321f15e4b1432"
@@ -3393,7 +3393,8 @@
         "id": "1548639603732038",
         "publicado_em": "2026-10-10T13:27:00.571734-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-10T13:27:02.158730-03:00"
     },
     {
       "id": "reel-20261010-1300-5a87cb0b5e",
