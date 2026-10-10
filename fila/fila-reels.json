@@ -3270,7 +3270,7 @@
       "aprovado": true,
       "data": "2026-10-09",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "074 - O pior gesto de amor.mp4",
         "sha256": "67bc75180d135844e75919da266ba76996cd89bc3aa39b6876c4437672b19ec3"
@@ -3303,7 +3303,8 @@
         "id": "1802794927405354",
         "publicado_em": "2026-10-10T00:25:29.958267-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-10T00:25:31.545225-03:00"
     },
     {
       "id": "reel-20261010-0500-ef2f91979c",
