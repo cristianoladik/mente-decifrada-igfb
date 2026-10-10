@@ -3315,7 +3315,7 @@
       "aprovado": true,
       "data": "2026-10-10",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "075 - Isto NÃO é grosseria.mp4",
         "sha256": "ef2f91979c9dee48459bc8e4199f14414b6589658f93ee0d9535676ca65857b6"
@@ -3348,7 +3348,8 @@
         "id": "2067005020608599",
         "publicado_em": "2026-10-10T11:24:34.438943-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-10T11:24:35.840805-03:00"
     },
     {
       "id": "reel-20261010-0900-ef9c826bc4",
