@@ -2027,7 +2027,7 @@
       "aprovado": true,
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "920 - Você está buscando o cargo errado？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "b082d31606d3469929d051b9bfcd00753ecd4dcbb353c077458dac39765a3aad"
@@ -2063,7 +2063,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-10T14:20:28.448032-03:00"
     },
     {
       "id": "story-20261011-c506902b72",
