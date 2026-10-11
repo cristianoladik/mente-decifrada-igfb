@@ -3540,7 +3540,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "080 - Fugir de si mesmo é inútil.mp4",
         "sha256": "1fd7951cd25d5fabb05a361a5ab8f76ad570d99edda884bfaa5c246fd2542f4c"
@@ -3573,7 +3573,8 @@
         "id": "1647542116829061",
         "publicado_em": "2026-10-11T11:51:31.475441-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-11T11:51:32.676499-03:00"
     },
     {
       "id": "reel-20261011-0900-5710f7be46",
