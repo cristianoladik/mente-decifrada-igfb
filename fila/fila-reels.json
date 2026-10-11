@@ -3495,7 +3495,7 @@
       "aprovado": true,
       "data": "2026-10-10",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "079 - Ser humilde não significa ser trouxa.mp4",
         "sha256": "852f4b096ae437dab7d2152f6f89e1915e722c657a5c0efac20f894983076541"
@@ -3528,7 +3528,8 @@
         "id": "1355271403136010",
         "publicado_em": "2026-10-10T23:58:10.745132-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-10T23:58:11.996626-03:00"
     },
     {
       "id": "reel-20261011-0500-1fd7951cd2",
