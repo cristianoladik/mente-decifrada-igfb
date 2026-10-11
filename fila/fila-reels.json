@@ -3675,7 +3675,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "083 - O Intestino é o 2º Cérebro？.mp4",
         "sha256": "f40b07362e982e351d59a381343e3f9fe42a45bb8d0738492e3dc2dae1a0364c"
@@ -3708,7 +3708,8 @@
         "id": "2060268198027529",
         "publicado_em": "2026-10-11T20:33:30.024757-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-11T20:33:31.351549-03:00"
     },
     {
       "id": "reel-20261011-2100-9cfdeccd5c",
