@@ -2075,7 +2075,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "921 - Você Está Presente ou Só Aparece Para Gravar？.mp4",
         "sha256": "c506902b723b1fa653df42b1c33f5f496b2ca1f3d5b6822b5e2cfdc31f2d4f2d"
@@ -2111,7 +2111,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-11T13:51:36.740234-03:00"
     },
     {
       "id": "story-20261012-191bcffcf3",
