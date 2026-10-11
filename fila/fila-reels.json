@@ -3630,7 +3630,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "082 - O perigo de promessas vazias.mp4",
         "sha256": "f17a044e11592653a77b2dfd0658ae458f5712db80dff8a68343f1e81ff878e8"
@@ -3663,7 +3663,8 @@
         "id": "1796894124679606",
         "publicado_em": "2026-10-11T17:04:57.436427-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-11T17:04:58.814223-03:00"
     },
     {
       "id": "reel-20261011-1700-f40b07362e",
