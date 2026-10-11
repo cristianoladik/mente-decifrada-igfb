@@ -3585,7 +3585,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "081 - Nunca peça desculpas por isso.mp4",
         "sha256": "5710f7be46278b330b0f09b1b2f4dcfe383f8819665be6c120463a2a32964d21"
@@ -3618,7 +3618,8 @@
         "id": "1379488363949311",
         "publicado_em": "2026-10-11T14:41:16.818746-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-11T14:41:18.231505-03:00"
     },
     {
       "id": "reel-20261011-1300-f17a044e11",
