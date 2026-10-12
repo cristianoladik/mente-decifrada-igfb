@@ -2123,7 +2123,7 @@
       "aprovado": true,
       "data": "2026-10-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "922 - Você Está Preso na Matrix？ ｜ ANA BEATRIZ.mp4",
         "sha256": "191bcffcf339bd10f62d6bb615a89ed7dd793b2f0848936a7fd5203c920b1c9e"
@@ -2159,7 +2159,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-12T18:15:54.362471-03:00"
     },
     {
       "id": "story-20261013-0e68771c05",
