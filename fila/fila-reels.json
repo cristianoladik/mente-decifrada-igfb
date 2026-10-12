@@ -3720,7 +3720,7 @@
       "aprovado": true,
       "data": "2026-10-11",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "084 - O pior conselho que alguém pode te dar.mp4",
         "sha256": "9cfdeccd5cf548da9faba06f2d63ee11ab868ad9c65b0e14009401a3adcd9e59"
@@ -3753,7 +3753,8 @@
         "id": "1080663108067111",
         "publicado_em": "2026-10-12T00:22:16.946209-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-12T00:22:18.508622-03:00"
     },
     {
       "id": "reel-20261012-0500-79b89e9ddc",
