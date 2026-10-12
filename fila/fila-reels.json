@@ -3810,7 +3810,7 @@
       "aprovado": true,
       "data": "2026-10-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "086 - A verdade sobre palavras cruzadas e o cérebro.mp4",
         "sha256": "960dc6ae065cf6236240dea3732fb005ca557767f25a01ea53dd7e979145faa9"
@@ -3843,7 +3843,8 @@
         "id": "1784480842601241",
         "publicado_em": "2026-10-12T17:29:15.439403-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-12T17:29:17.204421-03:00"
     },
     {
       "id": "reel-20261012-1300-4aeec55a57",
