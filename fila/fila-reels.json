@@ -3765,7 +3765,7 @@
       "aprovado": true,
       "data": "2026-10-12",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "085 - Sem isso, nenhum relacionamento funciona.mp4",
         "sha256": "79b89e9ddc73e69bc39e881492a311f9ca117b1fe120164b4d4ee6ddaced8330"
@@ -3798,7 +3798,8 @@
         "id": "1094023813349116",
         "publicado_em": "2026-10-12T14:41:48.008148-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-12T14:41:49.429874-03:00"
     },
     {
       "id": "reel-20261012-0900-960dc6ae06",
