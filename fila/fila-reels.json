@@ -3855,7 +3855,7 @@
       "aprovado": true,
       "data": "2026-10-12",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "087 - Dois fatos sobre a depressão (que ninguém te conta).mp4",
         "sha256": "4aeec55a577f83b4a8df96be84968ce3d3e34cafc7de72f3bf28ad34210537da"
@@ -3888,7 +3888,8 @@
         "id": "2377825809621315",
         "publicado_em": "2026-10-12T19:49:47.933977-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-12T19:49:49.660906-03:00"
     },
     {
       "id": "reel-20261012-1700-fd6a0daeb0",
