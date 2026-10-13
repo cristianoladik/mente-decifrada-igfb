@@ -3972,7 +3972,7 @@
       "aprovado": true,
       "data": "2026-10-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "090 - É isso que ninguém te fala sobre mudança.mp4",
         "sha256": "4090828c7af463a47693cdd490cb4cc36c6fdc0d251532dc5d5a0a9014e1ceaf"
@@ -4005,7 +4005,8 @@
         "id": "2674420739675680",
         "publicado_em": "2026-10-13T12:50:29.190984-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-13T12:50:30.746710-03:00"
     },
     {
       "id": "reel-20261013-0900-0197adc658",
