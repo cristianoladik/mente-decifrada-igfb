@@ -4035,7 +4035,7 @@
       "aprovado": true,
       "data": "2026-10-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "093 - Cérebro e intestino： existe relação？.mp4",
         "sha256": "b591516a0aae9b0db076441b8c3aa04f7bea234f07f54c9a7fa7b8a403071eee"
@@ -4068,7 +4068,8 @@
         "id": "1093957023240234",
         "publicado_em": "2026-10-12T22:57:08.995828-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-12T22:57:10.523344-03:00"
     },
     {
       "id": "reel-20261013-2100-aed796b148",
