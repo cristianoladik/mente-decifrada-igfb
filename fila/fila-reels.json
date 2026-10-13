@@ -4017,7 +4017,7 @@
       "aprovado": true,
       "data": "2026-10-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "091 - Afaste-se de pessoas assim.mp4",
         "sha256": "0197adc65810d9556f5bfae62a97421ca0fb2ce71fa1d5bc04f485889c2b83cb"
@@ -4050,7 +4050,8 @@
         "id": "2195496791029040",
         "publicado_em": "2026-10-13T15:35:02.459176-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-13T15:35:04.392968-03:00"
     },
     {
       "id": "reel-20261013-1300-2bd8b2d267",
