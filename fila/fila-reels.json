@@ -3927,7 +3927,7 @@
       "aprovado": true,
       "data": "2026-10-12",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "089 - A vida é curta demais, não faça isso.mp4",
         "sha256": "e0feb18354a202edb220068190ba5e59109015a441396cc18f3a7dde4c4c118e"
@@ -3960,7 +3960,8 @@
         "id": "1086218504276111",
         "publicado_em": "2026-10-13T01:36:16.211643-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-13T01:36:17.685529-03:00"
     },
     {
       "id": "reel-20261013-0500-4090828c7a",
