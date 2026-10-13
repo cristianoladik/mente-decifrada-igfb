@@ -4062,7 +4062,7 @@
       "aprovado": true,
       "data": "2026-10-13",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "092 - Cuidado com pessoas assim.mp4",
         "sha256": "2bd8b2d267e066032be71a333db57ac365755cb5b0683cba815a67d8832726bb"
@@ -4095,7 +4095,8 @@
         "id": "1661535545639383",
         "publicado_em": "2026-10-13T18:06:36.577208-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-13T18:06:38.467173-03:00"
     },
     {
       "id": "reel-20261013-1700-b591516a0a",
