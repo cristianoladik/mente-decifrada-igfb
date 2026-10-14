@@ -4287,7 +4287,7 @@
       "aprovado": true,
       "data": "2026-10-14",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "097 - Os PERIGOS das redes sociais.mp4",
         "sha256": "bbc4f3fc8c7ec118cd1ac476b41911ab5e6a26b046e1d50c9dc7be21f1541026"
@@ -4320,7 +4320,8 @@
         "id": "1875739626917011",
         "publicado_em": "2026-10-14T17:04:44.384278-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-14T17:04:46.179813-03:00"
     },
     {
       "id": "reel-20261014-1700-0be26ad0be",
