@@ -2219,7 +2219,7 @@
       "aprovado": true,
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "924 - Você gosta de criança de VERDADE？.mp4",
         "sha256": "2ff5c71fcec6928b7c48f95fd3da7d78b618fcc2641c3f6299a448276b20b0ee"
@@ -2285,7 +2285,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-14T14:08:38.093070-03:00"
     },
     {
       "id": "story-20261015-18b978863a",
