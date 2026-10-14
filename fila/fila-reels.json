@@ -4152,7 +4152,7 @@
       "aprovado": true,
       "data": "2026-10-13",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "094 - Latas de lixo emocionais.mp4",
         "sha256": "aed796b1486732a6d748966bd44be5bff1247078b8ef625b28b4564c784d8f0e"
@@ -4185,7 +4185,8 @@
         "id": "2364562244361969",
         "publicado_em": "2026-10-13T23:45:40.206322-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-13T23:45:41.864490-03:00"
     },
     {
       "id": "reel-20261014-0500-9e8d640d75",
