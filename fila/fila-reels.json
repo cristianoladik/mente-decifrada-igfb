@@ -4197,7 +4197,7 @@
       "aprovado": true,
       "data": "2026-10-14",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "095 - Não desista nunca é um PÉSSIMO conselho.mp4",
         "sha256": "9e8d640d755812714bebe55cac34574135353aa746b649ca5dfa22c9bc19f137"
@@ -4230,7 +4230,8 @@
         "id": "28644753251891385",
         "publicado_em": "2026-10-14T10:34:53.975932-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-14T10:34:55.568526-03:00"
     },
     {
       "id": "reel-20261014-0900-41005d110c",
