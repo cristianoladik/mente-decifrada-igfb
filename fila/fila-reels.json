@@ -4332,7 +4332,7 @@
       "aprovado": true,
       "data": "2026-10-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "098 - Cuidado： isto NÃO é sinal de amor.mp4",
         "sha256": "0be26ad0be68ca8be5cd63230d2bd8aeef1f73e3fe05612ce93e070c8f98098a"
@@ -4365,7 +4365,8 @@
         "id": "2211223422759597",
         "publicado_em": "2026-10-14T20:06:34.739227-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-14T20:06:36.375473-03:00"
     },
     {
       "id": "reel-20261014-2100-490fbc7223",
