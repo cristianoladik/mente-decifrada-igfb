@@ -4467,7 +4467,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "101 - 5 passos para vencer o narcisismo.mp4",
         "sha256": "4600b8239d2c8007828ec76b53b6fa13c24317ab8a23af0d663fd2c7cc0c9d45"
@@ -4500,7 +4500,8 @@
         "id": "28560268856987252",
         "publicado_em": "2026-10-15T13:57:03.293085-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-15T13:57:04.925504-03:00"
     },
     {
       "id": "reel-20261015-1300-a5b61111e2",
