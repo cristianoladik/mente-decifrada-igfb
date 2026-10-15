@@ -4377,7 +4377,7 @@
       "aprovado": true,
       "data": "2026-10-14",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "099 - 2 critérios para identificar ultraprocessados.mp4",
         "sha256": "490fbc72231da617a0ecf4ea11709b902444588c420cb4ee5748323cc8968335"
@@ -4410,7 +4410,8 @@
         "id": "1701266674754224",
         "publicado_em": "2026-10-14T23:24:49.205074-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-14T23:24:50.747333-03:00"
     },
     {
       "id": "reel-20261015-0500-6f434db65f",
