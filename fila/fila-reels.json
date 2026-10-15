@@ -4557,7 +4557,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "103 - 8 Anos Sem Mãe： Força, Fé e Amor Incondicional ｜ ANA BEATRIZ.mp4",
         "sha256": "53d5ac2b800e55de313c556b4ebe5a6f01b08419b4a5e13f6b6c67b9f964fcba"
@@ -4590,7 +4590,8 @@
         "id": "1821601859020102",
         "publicado_em": "2026-10-15T19:59:51.588524-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-15T19:59:53.322953-03:00"
     },
     {
       "id": "reel-20261015-2100-5d7d391bad",
