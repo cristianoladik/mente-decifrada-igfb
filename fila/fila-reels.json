@@ -4512,7 +4512,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "102 - 61 anos Fugiu de Casamento Tóxico e Renasceu!.mp4",
         "sha256": "a5b61111e2c589241d78cda8c434c9eb3abc76fc3d350f73be4457cfa5a8e05d"
@@ -4545,7 +4545,8 @@
         "id": "1635373414645573",
         "publicado_em": "2026-10-15T16:47:50.134635-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-15T16:47:51.518558-03:00"
     },
     {
       "id": "reel-20261015-1700-53d5ac2b80",
