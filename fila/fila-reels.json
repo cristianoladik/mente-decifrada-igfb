@@ -4422,7 +4422,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "100 - 3 passos inegociáveis para construir uma vida plena.mp4",
         "sha256": "6f434db65f45e480e90952914c35758ceabc04fb2a12c1faffd88f34b058b858"
@@ -4455,7 +4455,8 @@
         "id": "2318485022223311",
         "publicado_em": "2026-10-15T10:17:58.018998-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-15T10:17:59.766656-03:00"
     },
     {
       "id": "reel-20261015-0900-4600b8239d",
