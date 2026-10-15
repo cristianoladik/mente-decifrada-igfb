@@ -2301,7 +2301,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "925 - Você já ouviu falar no ＂Otrovertido＂？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "18b978863ab7a81e32a0b6f498650ba07524cac769a6c718a05e298243790da5"
@@ -2367,7 +2367,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-15T12:52:09.384628-03:00"
     },
     {
       "id": "story-20261016-6f9564655b",
