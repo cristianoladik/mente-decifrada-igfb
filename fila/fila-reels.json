@@ -4782,7 +4782,7 @@
       "aprovado": true,
       "data": "2026-10-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "108 - A armadilha de morar com os pais depois de casado.mp4",
         "sha256": "1c89bf0600f256ad776217154141990f0b7b0ecd45049ed8a3d790c2b28bf59a"
@@ -4815,7 +4815,8 @@
         "id": "1388093689976523",
         "publicado_em": "2026-10-16T19:43:59.882306-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-16T19:44:01.569563-03:00"
     },
     {
       "id": "reel-20261016-2100-607e7046f8",
