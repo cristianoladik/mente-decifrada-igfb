@@ -4737,7 +4737,7 @@
       "aprovado": true,
       "data": "2026-10-16",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "107 - A ansiedade foi criada por nós.mp4",
         "sha256": "3eadd0627db360f72a85c62a227c69142d5f090af4727df1c842b553882e2947"
@@ -4770,7 +4770,8 @@
         "id": "1429410495821689",
         "publicado_em": "2026-10-16T16:28:49.022010-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-16T16:28:50.536363-03:00"
     },
     {
       "id": "reel-20261016-1700-1c89bf0600",
