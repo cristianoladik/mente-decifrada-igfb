@@ -4692,7 +4692,7 @@
       "aprovado": true,
       "data": "2026-10-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "106 - A ansiedade e a angústia como memórias não digeridas.mp4",
         "sha256": "dad6e656e683319c8eb3ecba07c8c7de1ff4f8b66039ff7fce0977e63d4cb4e4"
@@ -4725,7 +4725,8 @@
         "id": "2172417310287065",
         "publicado_em": "2026-10-16T12:40:03.402410-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-16T12:40:05.127356-03:00"
     },
     {
       "id": "reel-20261016-1300-3eadd0627d",
