@@ -2383,7 +2383,7 @@
       "aprovado": true,
       "data": "2026-10-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "926 - Você já pagou um coach e se arrependeu？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "6f9564655b809a991db3f0912585c5263110f14c615f4f801e4b24ce47ff6f19"
@@ -2419,7 +2419,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-16T13:35:11.605239-03:00"
     },
     {
       "id": "story-20261017-21cbaede03",
