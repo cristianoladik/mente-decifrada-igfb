@@ -2399,10 +2399,13 @@
             "duracao_segundos": 37.248
           },
           "instagram": {
-            "status": "processando",
+            "status": "publicado",
             "tentativas": 1,
-            "fase": "publicacao_solicitada",
-            "container_id": "18105626309181585"
+            "fase": "publicacao_confirmada",
+            "container_id": "18105626309181585",
+            "id": "17937897243399917",
+            "publicado_em": "2026-10-16T13:34:49.894752-03:00",
+            "confirmacao": "media_publish"
           },
           "facebook": {
             "status": "pendente"
