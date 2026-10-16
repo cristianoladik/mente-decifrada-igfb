@@ -2399,7 +2399,10 @@
             "duracao_segundos": 37.248
           },
           "instagram": {
-            "status": "pendente"
+            "status": "processando",
+            "tentativas": 1,
+            "fase": "container_criado",
+            "container_id": "18105626309181585"
           },
           "facebook": {
             "status": "pendente"
