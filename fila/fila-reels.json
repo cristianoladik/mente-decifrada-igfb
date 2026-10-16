@@ -4602,7 +4602,7 @@
       "aprovado": true,
       "data": "2026-10-15",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "104 - A agressividade que se esconde no silêncio.mp4",
         "sha256": "5d7d391bad63bc0dcd1d0ae4b7be04cba418664b7ec8cb9de2bcac4abfb71f3e"
@@ -4635,7 +4635,8 @@
         "id": "1160623139732334",
         "publicado_em": "2026-10-15T23:18:42.774059-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-15T23:18:44.359205-03:00"
     },
     {
       "id": "reel-20261016-0500-4bf6c5e3b1",
