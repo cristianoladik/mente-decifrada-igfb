@@ -4977,10 +4977,19 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "erro",
         "tentativas": 1,
-        "fase": "container_criado",
-        "container_id": "18105869264181585"
+        "fase": "identificador_abandonado",
+        "containers_abandonados": [
+          {
+            "id": "18105869264181585",
+            "abandonado_em": "2026-10-17T15:18:44.249809-03:00",
+            "motivo": "Instagram ERROR",
+            "estado_meta": "{\"id\": \"18105869264181585\", \"status\": \"Error: Media upload has failed with error code 2207082\", \"status_code\": \"ERROR\"}"
+          }
+        ],
+        "erro": "Instagram ERROR; identificador arquivado antes de nova sessão",
+        "ultima_tentativa_em": "2026-10-17T15:18:44.249809-03:00"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
