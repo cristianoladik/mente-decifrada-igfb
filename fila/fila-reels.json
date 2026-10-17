@@ -4977,9 +4977,9 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 2,
-        "fase": "publicacao_solicitada",
+        "fase": "publicacao_confirmada",
         "containers_abandonados": [
           {
             "id": "18105869264181585",
@@ -4988,9 +4988,10 @@
             "estado_meta": "{\"id\": \"18105869264181585\", \"status\": \"Error: Media upload has failed with error code 2207082\", \"status_code\": \"ERROR\"}"
           }
         ],
-        "erro": "O novo container do Instagram falhou conclusivamente; uma execução posterior poderá criar outra sessão.",
-        "ultima_tentativa_em": "2026-10-17T15:18:45.495451-03:00",
-        "container_id": "18105870599181585"
+        "container_id": "18105870599181585",
+        "id": "18096721898541326",
+        "publicado_em": "2026-10-17T15:28:59.434241-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
