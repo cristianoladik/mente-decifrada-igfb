@@ -4988,8 +4988,8 @@
             "estado_meta": "{\"id\": \"18105869264181585\", \"status\": \"Error: Media upload has failed with error code 2207082\", \"status_code\": \"ERROR\"}"
           }
         ],
-        "erro": "Instagram ERROR; identificador arquivado antes de nova sessão",
-        "ultima_tentativa_em": "2026-10-17T15:18:44.249809-03:00"
+        "erro": "O novo container do Instagram falhou conclusivamente; uma execução posterior poderá criar outra sessão.",
+        "ultima_tentativa_em": "2026-10-17T15:18:45.495451-03:00"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
