@@ -4962,7 +4962,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "112 - A autoestima de uma criança começa a ser construída no olhar de quem a cria.mp4",
         "sha256": "0b1b86f569b8f8898458360b4a83add24a5ec57e7f5509803db3685ae1bcfc45"
@@ -5003,7 +5003,8 @@
         "id": "2062748204218714",
         "publicado_em": "2026-10-17T15:19:00.701963-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-17T15:29:00.882230-03:00"
     },
     {
       "id": "reel-20261017-1700-4b0ddd3811",
