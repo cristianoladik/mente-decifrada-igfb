@@ -4917,7 +4917,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "111 - A autocrítica excessiva realmente te leva ao topo？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "4f65ebe1b20ecd2dd0f6b1082d49ac56270eef21119316bc13def4f03f52f541"
@@ -4950,7 +4950,8 @@
         "id": "1835614384135964",
         "publicado_em": "2026-10-17T11:31:17.933278-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-17T11:31:19.421524-03:00"
     },
     {
       "id": "reel-20261017-1300-0b1b86f569",
