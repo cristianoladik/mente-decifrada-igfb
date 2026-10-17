@@ -2431,7 +2431,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "927 - Você já plantou uma semente no coração de alguém？ ｜ ANA BEATRIZ.mp4",
         "sha256": "21cbaede03682dec6842c6eb50e7e6fc639d81f60378e68bb3d2f306904447ec"
@@ -2467,7 +2467,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-17T12:31:06.146840-03:00"
     },
     {
       "id": "story-20261018-2d65ec3e89",
