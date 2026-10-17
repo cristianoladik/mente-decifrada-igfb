@@ -5015,7 +5015,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "113 - A Barbárie Dentro de Nós.mp4",
         "sha256": "4b0ddd3811752b3ef4a269a30e58881a8b62cc61fc5959de5238066602d3873c"
@@ -5048,7 +5048,8 @@
         "id": "1123251463973824",
         "publicado_em": "2026-10-17T19:08:12.714830-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-17T19:08:13.970893-03:00"
     },
     {
       "id": "reel-20261017-2100-1138579dcc",
