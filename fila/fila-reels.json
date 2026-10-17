@@ -4977,9 +4977,9 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "erro",
-        "tentativas": 1,
-        "fase": "identificador_abandonado",
+        "status": "processando",
+        "tentativas": 2,
+        "fase": "container_criado",
         "containers_abandonados": [
           {
             "id": "18105869264181585",
@@ -4989,7 +4989,8 @@
           }
         ],
         "erro": "O novo container do Instagram falhou conclusivamente; uma execução posterior poderá criar outra sessão.",
-        "ultima_tentativa_em": "2026-10-17T15:18:45.495451-03:00"
+        "ultima_tentativa_em": "2026-10-17T15:18:45.495451-03:00",
+        "container_id": "18105870599181585"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
