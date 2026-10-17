@@ -4872,7 +4872,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "110 - A arte de se tornar inútil como pai.mp4",
         "sha256": "09167428a944cd5ba7168aba4b15a7f02d0100936ee314668c3c46abe3e54e36"
@@ -4905,7 +4905,8 @@
         "id": "1096607099820460",
         "publicado_em": "2026-10-17T09:06:47.915517-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-17T09:06:49.492506-03:00"
     },
     {
       "id": "reel-20261017-0900-4f65ebe1b2",
