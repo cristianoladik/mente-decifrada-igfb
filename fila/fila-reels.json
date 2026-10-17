@@ -4979,7 +4979,7 @@
         "share_to_feed": true,
         "status": "processando",
         "tentativas": 2,
-        "fase": "container_criado",
+        "fase": "publicacao_solicitada",
         "containers_abandonados": [
           {
             "id": "18105869264181585",
