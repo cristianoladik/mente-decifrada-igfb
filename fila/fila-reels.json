@@ -5240,7 +5240,7 @@
       "aprovado": true,
       "data": "2026-10-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "118 - A coragem de sustentar a própria verdade exige uma estrutura interna inabalável.mp4",
         "sha256": "c53965bf6e056b446c07c80f47b822ab684195799ed03d779ff7211a285a4c2d"
@@ -5273,7 +5273,8 @@
         "id": "971235035449045",
         "publicado_em": "2026-10-18T19:21:17.286663-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-18T19:21:18.634900-03:00"
     },
     {
       "id": "reel-20261018-2100-0eed1d832a",
