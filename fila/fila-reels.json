@@ -5150,7 +5150,7 @@
       "aprovado": true,
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "116 - A Confiança da Criança： Como Adultos Manipulam Vulneráveis ｜ ANA BEATRIZ.mp4",
         "sha256": "2e7fbdf013b867a24045a38c2254ee9c379e648a0630b4809179d01a3310a537"
@@ -5183,7 +5183,8 @@
         "id": "2635275910235433",
         "publicado_em": "2026-10-18T11:57:44.269926-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-18T11:57:45.668385-03:00"
     },
     {
       "id": "reel-20261018-1300-a7da4b51de",
