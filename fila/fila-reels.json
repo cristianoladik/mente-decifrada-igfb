@@ -5105,7 +5105,7 @@
       "aprovado": true,
       "data": "2026-10-18",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "115 - A cadela que fez o que NENHUM humano fez! ｜ ANA BEATRIZ.mp4",
         "sha256": "4f12151791d079577c91a58224dc92bc3510d199bc179000389136f66938be49"
@@ -5138,7 +5138,8 @@
         "id": "1130427113275814",
         "publicado_em": "2026-10-18T09:35:05.008173-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-18T09:35:06.764436-03:00"
     },
     {
       "id": "reel-20261018-0900-2e7fbdf013",
