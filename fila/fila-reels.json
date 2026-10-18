@@ -5060,7 +5060,7 @@
       "aprovado": true,
       "data": "2026-10-17",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "114 - A cadeia não pune um psicopata ｜ ANA BEATRIZ.mp4",
         "sha256": "1138579dccafa20372ce819d249d5e2748645d0d8e86824968d9a58ab1f011b5"
@@ -5093,7 +5093,8 @@
         "id": "1453156650283546",
         "publicado_em": "2026-10-17T23:11:50.225014-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-17T23:11:51.534201-03:00"
     },
     {
       "id": "reel-20261018-0500-4f12151791",
