@@ -5465,7 +5465,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "123 - A diferença entre trauma e frustração - Miriam Garcia e Andrea Vermont ｜ Divã Podcast.mp4",
         "sha256": "301d4421488c2c4ef4049237dbb0c13676677eb357f10c78126b8ca5f6e132e3"
@@ -5498,7 +5498,8 @@
         "id": "3397729997201214",
         "publicado_em": "2026-10-19T20:31:44.508777-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-19T20:31:46.064052-03:00"
     },
     {
       "id": "reel-20261019-2100-8f3961b7dc",
