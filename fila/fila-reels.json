@@ -5312,7 +5312,7 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "processando",
         "tentativas": 1,
-        "fase": "upload_concluido",
+        "fase": "publicacao_solicitada",
         "video_id": "1874506507317472",
         "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1874506507317472"
       }
