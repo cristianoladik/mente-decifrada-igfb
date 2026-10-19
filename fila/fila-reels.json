@@ -5355,11 +5355,13 @@
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
-        "status": "enviando",
+        "status": "erro",
         "tentativas": 1,
         "fase": "upload_em_andamento",
         "video_id": "1097538826215271",
-        "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1097538826215271"
+        "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1097538826215271",
+        "erro": "Git push falhou sem condição segura de retry: To https://github.com/cristianoladik/mente-decifrada-igfb\n ! [remote rejected] main -> main (failed)\nerror: failed to push some refs to 'https://github.com/cristianoladik/mente-decifrada-igfb'",
+        "ultima_tentativa_em": "2026-10-19T12:28:39.259693-03:00"
       }
     },
     {
