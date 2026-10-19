@@ -5420,7 +5420,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "122 - A diferença entre o veneno e o remédio é a dose.mp4",
         "sha256": "67fdd4c0ba22b3b54b99d2b76fa1d9d788f64fb2a945d7390ca83fbda8e83b9a"
@@ -5453,7 +5453,8 @@
         "id": "1617069323240702",
         "publicado_em": "2026-10-19T17:57:42.568770-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-19T17:57:44.053714-03:00"
     },
     {
       "id": "reel-20261019-1700-301d442148",
