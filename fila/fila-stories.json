@@ -2527,7 +2527,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "929 - Você mora junto ou convive com sua família.mp4",
         "sha256": "9dad37065d9a119059a126e7e7bb6e873aa7a78f28b6c013bcca6cd96116ce7b"
@@ -2563,7 +2563,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-19T14:51:35.276276-03:00"
     },
     {
       "id": "story-20261020-7ea0a51ae8",
