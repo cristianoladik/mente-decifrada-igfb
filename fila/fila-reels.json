@@ -5285,7 +5285,7 @@
       "aprovado": true,
       "data": "2026-10-18",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "119 - A Crueldade Por Trás dos Grupos Perigosos no Discord ｜ ANA BEATRIZ.mp4",
         "sha256": "0eed1d832a7875bd950b3ee7eb4b1599b62c337259ef13b9b0cd2cf1297384d4"
@@ -5318,7 +5318,8 @@
         "id": "1874506507317472",
         "publicado_em": "2026-10-18T23:28:43.747957-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-18T23:28:45.448910-03:00"
     },
     {
       "id": "reel-20261019-0500-c0a11e2974",
