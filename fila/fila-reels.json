@@ -5375,7 +5375,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "121 - A Culpa da Maternidade.mp4",
         "sha256": "2e2a4b50f5e9935b060fd11b1d7de8268a697257cefc44d122c0dcaf8ceb3167"
@@ -5408,7 +5408,8 @@
         "id": "1825490858777502",
         "publicado_em": "2026-10-19T15:43:31.759536-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-19T15:43:33.496284-03:00"
     },
     {
       "id": "reel-20261019-1300-67fdd4c0ba",
