@@ -5330,7 +5330,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "120 - A Culpa Cai Quando Você Entende Isso.mp4",
         "sha256": "c0a11e29748b955e7dbcd71b2d41dee8695880f9d2a8dac7655371e58cf1c0ae"
@@ -5363,7 +5363,8 @@
         "id": "1097538826215271",
         "publicado_em": "2026-10-19T12:33:47.940259-03:00",
         "confirmacao": "video_facebook_reconciliado"
-      }
+      },
+      "concluido_em": "2026-10-19T12:33:49.783325-03:00"
     },
     {
       "id": "reel-20261019-0900-2e2a4b50f5",
