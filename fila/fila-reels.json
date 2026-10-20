@@ -5555,7 +5555,7 @@
       "aprovado": true,
       "data": "2026-10-20",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "125 - A dor emocional não é falta de fé, nem de força.mp4",
         "sha256": "f766691df1d68e85a86a94bbb4da47d633ffd1fff16be65e3e065e07af77b81c"
@@ -5588,7 +5588,8 @@
         "id": "2951284825270593",
         "publicado_em": "2026-10-20T10:30:42.242802-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-20T10:30:44.226768-03:00"
     },
     {
       "id": "reel-20261020-0900-cf339e2fc7",
