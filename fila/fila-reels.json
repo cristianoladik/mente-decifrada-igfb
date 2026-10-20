@@ -5510,7 +5510,7 @@
       "aprovado": true,
       "data": "2026-10-19",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "124 - A dopamina não foi feita para viver em excesso contínuo.mp4",
         "sha256": "8f3961b7dc7288390e987871236dee7f57104a9cd96f23ea1f28bbc3f0694e94"
@@ -5543,7 +5543,8 @@
         "id": "1431351705797311",
         "publicado_em": "2026-10-19T23:41:54.138337-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-19T23:41:55.902556-03:00"
     },
     {
       "id": "reel-20261020-0500-f766691df1",
