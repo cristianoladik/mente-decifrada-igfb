@@ -5639,7 +5639,7 @@
       "aprovado": true,
       "data": "2026-10-20",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "127 - A epidemia de diagnósticos está ofuscando quem realmente precisa de ajuda.mp4",
         "sha256": "beb15dd8e0b0d16558aef9ceb861d00fe422e2f9af31fa4c9d9879e29bd5492c"
@@ -5672,7 +5672,8 @@
         "id": "1654569576362934",
         "publicado_em": "2026-10-20T16:57:05.862090-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-20T16:57:07.479645-03:00"
     },
     {
       "id": "reel-20261020-1700-390bca953b",
