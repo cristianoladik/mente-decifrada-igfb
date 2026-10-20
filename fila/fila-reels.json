@@ -5684,7 +5684,7 @@
       "aprovado": true,
       "data": "2026-10-20",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "128 - A escola sozinha não consegue： o papel do professor vai muito além da sala de aula ｜ ANA BEATRIZ.mp4",
         "sha256": "390bca953b763ba0b108802d8def193d9a6838dbb62991c4442f63bc1dd22ea2"
@@ -5717,7 +5717,8 @@
         "id": "4227372874060271",
         "publicado_em": "2026-10-20T20:05:39.346192-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-20T20:05:40.820605-03:00"
     },
     {
       "id": "reel-20261020-2100-edcaf8a78f",
