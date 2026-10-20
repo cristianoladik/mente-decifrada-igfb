@@ -5615,10 +5615,13 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 1,
-        "fase": "publicacao_solicitada",
-        "container_id": "18106582910181585"
+        "fase": "publicacao_confirmada",
+        "container_id": "18106582910181585",
+        "id": "18124320854285178",
+        "publicado_em": "2026-10-20T13:58:55.882365-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
