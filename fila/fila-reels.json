@@ -5864,7 +5864,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "132 - A Filosofia Pode Mudar Sua Vida (E Você Nem Percebeu) ｜ ANA BEATRIZ.mp4",
         "sha256": "f738ee4a2f9f2670fcfd2065a1cfe59a9a39b63b749986d65006fad9bf4c604d"
@@ -5897,7 +5897,8 @@
         "id": "2948274885526797",
         "publicado_em": "2026-10-21T17:00:27.907420-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-21T17:00:29.636342-03:00"
     },
     {
       "id": "reel-20261021-1700-66f4f924b7",
