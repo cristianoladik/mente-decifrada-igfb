@@ -5819,7 +5819,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "131 - A figura materna e paterna na criação.mp4",
         "sha256": "394e9fe63042cd4c08172f5caef22dd9b9b250db100657aba4403f0a3be0c85d"
@@ -5852,7 +5852,8 @@
         "id": "1627258185446305",
         "publicado_em": "2026-10-21T14:08:22.827348-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-21T14:08:24.317004-03:00"
     },
     {
       "id": "reel-20261021-1300-f738ee4a2f",
