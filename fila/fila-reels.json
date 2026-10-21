@@ -5934,13 +5934,14 @@
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
-        "status": "erro",
-        "tentativas": 1,
-        "fase": "publicacao_solicitada",
+        "status": "publicado",
+        "tentativas": 2,
+        "fase": "publicacao_confirmada",
         "video_id": "1447492464189026",
         "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1447492464189026",
-        "erro": "Git push falhou sem condição segura de retry: remote: error: unable to write file /data/repositories/6/nw/65/c6/70/1222839498/1365066003.git/objects/ghq_QcWuIDgIj4n/pack/pack-e5965145d9f49c9a23108e5d252fb57792b235f8.pack: No such file or directory        \nremote: fatal: unable to rename temporary '*.pack' file to '/data/repositories/6/nw/65/c6/70/1222839498/1365066003.git/objects/ghq_QcWuIDgIj4n/pack/pack-e5965145d9f49c9a23108e5d252fb57792b235f8.pack'        \nremote: Internal Server Error        \nremote: Request ID 7C01:ADA0A:1DF4:3AE5:6AD9462C        \nremote: Time 2026-10-21T23:09:39Z\nTo https://github.com/cristianoladik/mente-decifrada-igfb\n ! [remote rejected] main -> main (Internal Server Error)\nerror: failed to push some refs to 'https://github.com/cristianoladik/mente-decifrada-igfb'",
-        "ultima_tentativa_em": "2026-10-21T20:09:39.263542-03:00"
+        "id": "1447492464189026",
+        "publicado_em": "2026-10-21T20:17:13.169323-03:00",
+        "confirmacao": "video_facebook_reconciliado"
       }
     },
     {
