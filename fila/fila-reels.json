@@ -5774,7 +5774,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "130 - A Fama te deixa ＂Fresca＂？ O absurdo da influência.mp4",
         "sha256": "fc5156fb61b0cfbc3ef81bd15aed41b05f6b378c31e6fee958a8f321851cc07f"
@@ -5807,7 +5807,8 @@
         "id": "2370160040443613",
         "publicado_em": "2026-10-21T10:40:20.684160-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-21T10:40:22.519894-03:00"
     },
     {
       "id": "reel-20261021-0900-394e9fe630",
