@@ -2623,7 +2623,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "931 - Você NUNCA vai conseguir mudar uma mãe narcisista - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "07101f6b5466422c998116a28624e930cfb3ea18ab617a5c616b690f63670b1d"
@@ -2659,7 +2659,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-21T13:11:45.630959-03:00"
     },
     {
       "id": "story-20261022-77c92b256d",
