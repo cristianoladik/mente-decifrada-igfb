@@ -5909,7 +5909,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "133 - A Fragilidade da Nova Geração.mp4",
         "sha256": "66f4f924b7f57461a3062b4f3f7949f15c62216b26808c1acb8f7ea3d50a0a30"
@@ -5942,7 +5942,8 @@
         "id": "1447492464189026",
         "publicado_em": "2026-10-21T20:17:13.169323-03:00",
         "confirmacao": "video_facebook_reconciliado"
-      }
+      },
+      "concluido_em": "2026-10-21T20:17:15.010272-03:00"
     },
     {
       "id": "reel-20261021-2100-cd5ef041f6",
