@@ -2639,7 +2639,10 @@
             "duracao_segundos": 50.453
           },
           "instagram": {
-            "status": "pendente"
+            "status": "processando",
+            "tentativas": 1,
+            "fase": "container_criado",
+            "container_id": "18106802915181585"
           },
           "facebook": {
             "status": "pendente"
