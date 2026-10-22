@@ -5999,7 +5999,7 @@
       "aprovado": true,
       "data": "2026-10-22",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "135 - A Geração Z é a mais introvertida？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "d93a731d5202480c1efcad00039263ed796b293a3403cfc4ffcf602ed0b10114"
@@ -6032,7 +6032,8 @@
         "id": "1761505991572849",
         "publicado_em": "2026-10-22T10:42:07.212554-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-22T10:42:09.152790-03:00"
     },
     {
       "id": "reel-20261022-0900-2ae08ffc5c",
