@@ -6134,7 +6134,7 @@
       "aprovado": true,
       "data": "2026-10-22",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "138 - A IA pode te fazer feliz？ Descubra a verdade!.mp4",
         "sha256": "a75a4e83dbd8a964d9ebfc6df641baf392fd7fb51a82732aea70ebccafd8ad9d"
@@ -6167,7 +6167,8 @@
         "id": "1135692995809656",
         "publicado_em": "2026-10-22T20:10:06.356476-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-22T20:10:08.068693-03:00"
     },
     {
       "id": "reel-20261022-2100-213c6a118b",
