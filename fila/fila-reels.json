@@ -5954,7 +5954,7 @@
       "aprovado": true,
       "data": "2026-10-21",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "134 - A gente conhece alguém pela reação, não pela ação.mp4",
         "sha256": "cd5ef041f6fc03f5e8a398acca6e52602754857ea4795b2d795b3ad8038192f0"
@@ -5987,7 +5987,8 @@
         "id": "2007022216605137",
         "publicado_em": "2026-10-21T23:32:00.694778-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-21T23:32:02.558279-03:00"
     },
     {
       "id": "reel-20261022-0500-d93a731d52",
