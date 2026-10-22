@@ -6089,7 +6089,7 @@
       "aprovado": true,
       "data": "2026-10-22",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "137 - A humanização da saúde só será possível quando o sistema tratar todos com dignidade.mp4",
         "sha256": "a7298fc6f57c6056487c5b06394ff38bc5c17ce961742744ac314134deea8c41"
@@ -6122,7 +6122,8 @@
         "id": "1829629011398607",
         "publicado_em": "2026-10-22T16:53:18.787445-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-22T16:53:20.280138-03:00"
     },
     {
       "id": "reel-20261022-1700-a75a4e83db",
