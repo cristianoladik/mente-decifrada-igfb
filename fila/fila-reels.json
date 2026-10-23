@@ -6269,7 +6269,7 @@
       "aprovado": true,
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "141 - A inclusão verdadeira vai além de colocar alguém dentro de um espaço.mp4",
         "sha256": "bc7afccc628cccb58943f1862dbd57758e12b5a5ce442f1227cd86e30b57eb52"
@@ -6302,7 +6302,8 @@
         "id": "1435129755471876",
         "publicado_em": "2026-10-23T13:00:32.246577-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-23T13:00:33.978675-03:00"
     },
     {
       "id": "reel-20261023-1300-58ef3ef6d1",
