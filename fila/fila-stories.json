@@ -2729,7 +2729,7 @@
       "aprovado": true,
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "933 - Você não nasceu com software pré-instalado.mp4",
         "sha256": "fc98a6d8575455e31051acad3815fe8882c4ecb66f2730f2ef6d4dce9d149e9b"
@@ -2795,7 +2795,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-23T14:03:17.905100-03:00"
     },
     {
       "id": "story-20261024-7cd0203ee5",
