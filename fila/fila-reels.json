@@ -6224,7 +6224,7 @@
       "aprovado": true,
       "data": "2026-10-23",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "140 - A IMPORTANCIA DA PRÁTICA DE ATIVIDADE FÍSICA.mp4",
         "sha256": "de6392fba1df8d301ca8f2748265ff5143efc2ee3bbeb1e5a3ae3bcbbe55813e"
@@ -6257,7 +6257,8 @@
         "id": "1914054426390766",
         "publicado_em": "2026-10-23T10:17:51.316876-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-23T10:17:52.845766-03:00"
     },
     {
       "id": "reel-20261023-0900-bc7afccc62",
