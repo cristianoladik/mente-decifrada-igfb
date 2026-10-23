@@ -6179,7 +6179,7 @@
       "aprovado": true,
       "data": "2026-10-22",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "139 - A ilusão do sucesso instantâneo na medicina - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "213c6a118b054f5eccea9c9b609868846d9d8d82c492935845a8cf38bd8e9638"
@@ -6212,7 +6212,8 @@
         "id": "1867030640954093",
         "publicado_em": "2026-10-22T23:36:07.020256-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-22T23:36:08.575379-03:00"
     },
     {
       "id": "reel-20261023-0500-de6392fba1",
