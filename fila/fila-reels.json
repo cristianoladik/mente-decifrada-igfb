@@ -6314,7 +6314,7 @@
       "aprovado": true,
       "data": "2026-10-23",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "142 - A incrível transformação de James e o gato Bob ｜ ANA BEATRIZ.mp4",
         "sha256": "58ef3ef6d15255e70d687c18f7a063c75a95d5ff17d7a7a939a1fdd51dcd2d94"
@@ -6347,7 +6347,8 @@
         "id": "1081888704835179",
         "publicado_em": "2026-10-23T16:54:11.192120-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-23T16:54:12.711013-03:00"
     },
     {
       "id": "reel-20261023-1700-96ec5cb6e4",
