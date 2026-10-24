@@ -6539,7 +6539,7 @@
       "aprovado": true,
       "data": "2026-10-24",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "147 - A infância é uma terra que pisamos a vida toda.mp4",
         "sha256": "c2110028cabc86e5860d6f3f92dcf670c4ae7e6b1e55e1a9209d4f5836593901"
@@ -6572,7 +6572,8 @@
         "id": "1450781813814812",
         "publicado_em": "2026-10-24T15:41:10.911668-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-24T15:41:12.511137-03:00"
     },
     {
       "id": "reel-20261024-1700-70ad363e6c",
