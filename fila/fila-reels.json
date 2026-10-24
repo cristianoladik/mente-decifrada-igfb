@@ -6476,7 +6476,7 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "enviando",
         "tentativas": 1,
-        "fase": "sessao_criada",
+        "fase": "upload_em_andamento",
         "video_id": "28616002494718287",
         "upload_url": "https://rupload.facebook.com/video-upload/v26.0/28616002494718287"
       }
