@@ -2811,7 +2811,7 @@
       "aprovado": true,
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "934 - Você Não Troca Só Palavras Com Quem Ama. Troca Biologia ｜ ANA BEATRIZ.mp4",
         "sha256": "7cd0203ee59e31912adc3f130fe148ab7b180bc3079ebb3b7f636974f039b879"
@@ -2847,7 +2847,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-24T11:58:06.703125-03:00"
     },
     {
       "id": "story-20261025-5abf177b3d",
