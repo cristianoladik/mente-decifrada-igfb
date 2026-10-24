@@ -6494,7 +6494,7 @@
       "aprovado": true,
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "146 - A infância é o alicerce emocional da vida adulta. É ali que o edifício começa a ser sustentado.mp4",
         "sha256": "b021f13d2c6641d6c8fd4fd8f05542f65bdbdde4dccb611507013c888b880e18"
@@ -6527,7 +6527,8 @@
         "id": "29152721744322784",
         "publicado_em": "2026-10-24T12:53:42.211936-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-24T12:53:43.687098-03:00"
     },
     {
       "id": "reel-20261024-1300-c2110028ca",
