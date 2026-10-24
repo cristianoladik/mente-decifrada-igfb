@@ -6449,7 +6449,7 @@
       "aprovado": true,
       "data": "2026-10-24",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "145 - A Infância Na Tela Que Cria o Adulto Despreparado.mp4",
         "sha256": "d2e8f67dd59d50e7ace9ec643f8bece6d352b15f4af59c85801df998eca2564f"
@@ -6482,7 +6482,8 @@
         "id": "28616002494718287",
         "publicado_em": "2026-10-24T09:36:17.377759-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-24T09:36:18.737897-03:00"
     },
     {
       "id": "reel-20261024-0900-b021f13d2c",
