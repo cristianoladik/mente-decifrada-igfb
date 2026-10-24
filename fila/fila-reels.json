@@ -6584,7 +6584,7 @@
       "aprovado": true,
       "data": "2026-10-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "148 - A Inquietude de Ser Freira.mp4",
         "sha256": "70ad363e6c6f762f85362f5deb6a461ae72f1232b137e24ed59ff38b1f6b22e5"
@@ -6617,7 +6617,8 @@
         "id": "2025214311509199",
         "publicado_em": "2026-10-24T19:22:42.636616-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-24T19:22:44.052645-03:00"
     },
     {
       "id": "reel-20261024-2100-69129ab118",
