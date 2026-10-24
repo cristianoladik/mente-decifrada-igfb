@@ -6404,7 +6404,7 @@
       "aprovado": true,
       "data": "2026-10-23",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "144 - A Infância Ensina a Raiva a Sair Torta.mp4",
         "sha256": "6e291ca928faaae98478b784bd6b27de06490622306f8e088e59b13196b3c63e"
@@ -6437,7 +6437,8 @@
         "id": "2609000882878144",
         "publicado_em": "2026-10-23T23:35:37.095634-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-23T23:35:38.470761-03:00"
     },
     {
       "id": "reel-20261024-0500-d2e8f67dd5",
