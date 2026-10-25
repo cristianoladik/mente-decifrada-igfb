@@ -2859,7 +2859,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "935 - Você não é um erro de projeto.mp4",
         "sha256": "5abf177b3daec458808806fccd72c62c1a158b209e6370f87effdfa42e159701"
@@ -2895,7 +2895,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-25T12:07:58.262677-03:00"
     },
     {
       "id": "story-20261026-436f5e083c",
