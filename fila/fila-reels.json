@@ -6764,7 +6764,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "152 - A Lei do Feminicídio： por que quase ninguém é punido？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "6a7a207d605d22a4d051ad7b6312c0e5dae79b5ce15635438991e1c22acd84e3"
@@ -6797,7 +6797,8 @@
         "id": "1796735448226724",
         "publicado_em": "2026-10-25T15:49:49.240183-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-25T15:49:50.814649-03:00"
     },
     {
       "id": "reel-20261025-1700-913cfbb601",
