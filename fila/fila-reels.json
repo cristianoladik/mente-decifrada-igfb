@@ -6674,7 +6674,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "150 - A internet adora romantizar diagnósticos citando mentes bilionárias.mp4",
         "sha256": "29826c225c4538fca18acd7bb945e19c20dee0bc8d45324e01d89b2508dcbf6b"
@@ -6707,7 +6707,8 @@
         "id": "1771930680763519",
         "publicado_em": "2026-10-25T10:08:35.650690-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-25T10:08:37.280814-03:00"
     },
     {
       "id": "reel-20261025-0900-4c83412bab",
