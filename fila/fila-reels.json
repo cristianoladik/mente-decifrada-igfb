@@ -6809,7 +6809,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "153 - A ligação que revelou a manipulação de Jairo! ｜ ANA BEATRIZ.mp4",
         "sha256": "913cfbb60103e2ae6f127fcf2259b86d4c6ca48601dda43457521de94d10587a"
@@ -6842,7 +6842,8 @@
         "id": "2178578966054056",
         "publicado_em": "2026-10-25T19:25:12.909443-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-25T19:25:14.360493-03:00"
     },
     {
       "id": "reel-20261025-2100-642089d5b8",
