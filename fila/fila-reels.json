@@ -6719,7 +6719,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "151 - A invisibilidade dos profissionais de serviço.mp4",
         "sha256": "4c83412babd6e263e8aab82546bf97b3012b14100b7a768bd7eff0a30b7c82af"
@@ -6752,7 +6752,8 @@
         "id": "1592137582660406",
         "publicado_em": "2026-10-25T13:10:59.575821-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-25T13:11:01.405850-03:00"
     },
     {
       "id": "reel-20261025-1300-6a7a207d60",
