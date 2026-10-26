@@ -6899,7 +6899,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "155 - A Lição de Ana Maria Braga： Marketing e Empatia ｜ ANA BEATRIZ.mp4",
         "sha256": "4dc1a008350f5c0b61ea54f14ba7e41274ffd00775cce977ac53c7f083d704fd"
@@ -6932,7 +6932,8 @@
         "id": "2210437653019686",
         "publicado_em": "2026-10-26T12:04:52.273582-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-26T12:04:54.926687-03:00"
     },
     {
       "id": "reel-20261026-0900-e733756aa4",
