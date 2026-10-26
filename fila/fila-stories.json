@@ -2907,7 +2907,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "936 - Você pode desenvolver esquizofrenia tomando cogumelo.mp4",
         "sha256": "436f5e083c3d67829e5ced2afbe027c785936bcc2ca8da2d6f288f1a85267759"
@@ -2943,7 +2943,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-26T14:44:14.479837-03:00"
     },
     {
       "id": "story-20261027-08cd01b9b9",
