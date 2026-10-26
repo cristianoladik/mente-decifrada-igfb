@@ -6944,7 +6944,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "156 - A maior mentira que te contaram nos anos 80! - PODPEOPLE ｜ ANA BEATRIZ.mp4",
         "sha256": "e733756aa4a010ee71fa47aa92ceefe14ab926fe9154ece8f9669d16c80d075c"
@@ -6977,7 +6977,8 @@
         "id": "1670929641049477",
         "publicado_em": "2026-10-26T15:40:55.307748-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-26T15:40:56.868639-03:00"
     },
     {
       "id": "reel-20261026-1300-8aa477e9de",
