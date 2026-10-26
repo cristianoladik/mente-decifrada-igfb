@@ -6989,7 +6989,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "157 - A maldade na infância existe ou é apenas curiosidade？ ｜ ANA BEATRIZ.mp4",
         "sha256": "8aa477e9deef2f0d13adc52133919360a8f524e1b4bd42602d48e9e89ec21496"
@@ -7022,7 +7022,8 @@
         "id": "1454034956693816",
         "publicado_em": "2026-10-26T17:59:10.253648-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-26T17:59:13.482399-03:00"
     },
     {
       "id": "reel-20261026-1700-f42dbc84a4",
