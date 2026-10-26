@@ -6854,7 +6854,7 @@
       "aprovado": true,
       "data": "2026-10-25",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "154 - A linha que separa o cansaço natural do adoecimento severo reside na capacidade estrutural de.mp4",
         "sha256": "642089d5b82b4272efb9ca571a711c442450de6c0c1fc545b37f712d85fec59e"
@@ -6887,7 +6887,8 @@
         "id": "2040354980001903",
         "publicado_em": "2026-10-25T23:22:52.408408-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-25T23:22:53.992805-03:00"
     },
     {
       "id": "reel-20261026-0500-4dc1a00835",
