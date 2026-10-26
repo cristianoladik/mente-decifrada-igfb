@@ -7034,7 +7034,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "158 - A maturidade começa quando você deixa de.mp4",
         "sha256": "f42dbc84a42e087d69e7726bcce0667609a470f2fffd2b8a8313a5799ee3ab81"
@@ -7067,7 +7067,8 @@
         "id": "2189916431950309",
         "publicado_em": "2026-10-26T20:41:49.992843-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-26T20:41:51.703096-03:00"
     },
     {
       "id": "reel-20261026-2100-780208a39d",
