@@ -7169,7 +7169,7 @@
       "aprovado": true,
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "161 - A MELHOR PARTE DE SER CIENTISTA.mp4",
         "sha256": "ca9713977198fb7109bcd11b33108d460d48c6b1598c0c5b62b36e4a47d68da7"
@@ -7202,7 +7202,8 @@
         "id": "1788058712285136",
         "publicado_em": "2026-10-27T13:56:10.062338-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-27T13:56:12.306930-03:00"
     },
     {
       "id": "reel-20261027-1300-64e650eeee",
