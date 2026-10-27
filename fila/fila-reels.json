@@ -7079,7 +7079,7 @@
       "aprovado": true,
       "data": "2026-10-26",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "159 - A maturidade ensina： tudo passa, mesmo que não queiramos!.mp4",
         "sha256": "780208a39d2af166e16f491d0cac4228c75253b41164ceaae4b3771a7d96fd61"
@@ -7112,7 +7112,8 @@
         "id": "1627659068852508",
         "publicado_em": "2026-10-26T23:57:07.646371-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-26T23:57:09.428634-03:00"
     },
     {
       "id": "reel-20261027-0500-1d7d3137a6",
