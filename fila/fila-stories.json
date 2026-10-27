@@ -2955,7 +2955,7 @@
       "aprovado": true,
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "937 - Você pode mudar o futuro do seu bebê antes dele fazer 1 ano.mp4",
         "sha256": "08cd01b9b91334640faf170f4fc84ea3c3a102801a16e59234406b11641afbb2"
@@ -3051,7 +3051,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-27T15:01:08.610703-03:00"
     },
     {
       "id": "story-20261028-e4bb14a39d",
