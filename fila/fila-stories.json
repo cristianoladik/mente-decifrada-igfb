@@ -3098,9 +3098,10 @@
           "facebook": {
             "status": "processando",
             "tentativas": 1,
-            "fase": "upload_concluido",
+            "fase": "publicacao_solicitada",
             "video_id": "1365476668805855",
-            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1365476668805855"
+            "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1365476668805855",
+            "finish_solicitado_em": "2026-10-28T14:29:12.336795-03:00"
           }
         },
         {
