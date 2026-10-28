@@ -3096,12 +3096,14 @@
             "confirmacao": "media_publish"
           },
           "facebook": {
-            "status": "processando",
+            "status": "erro",
             "tentativas": 1,
             "fase": "publicacao_solicitada",
             "video_id": "1365476668805855",
             "upload_url": "https://rupload.facebook.com/video-upload/v26.0/1365476668805855",
-            "finish_solicitado_em": "2026-10-28T14:29:12.336795-03:00"
+            "finish_solicitado_em": "2026-10-28T14:29:12.336795-03:00",
+            "erro": "Git push falhou sem condição segura de retry: To https://github.com/cristianoladik/mente-decifrada-igfb\n ! [remote rejected] main -> main (failed)\nerror: failed to push some refs to 'https://github.com/cristianoladik/mente-decifrada-igfb'",
+            "ultima_tentativa_em": "2026-10-28T14:29:19.269167-03:00"
           }
         },
         {
