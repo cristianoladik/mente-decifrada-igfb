@@ -7394,7 +7394,7 @@
       "aprovado": true,
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "166 - A mulher que enganou milhares fingindo salvar animais ｜ ANA BEATRIZ.mp4",
         "sha256": "717057c6eb78128affb808185771b60239eb6dd960433521d0f4e182dd76d146"
@@ -7427,7 +7427,8 @@
         "id": "28724834837207916",
         "publicado_em": "2026-10-28T15:21:27.756209-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-28T15:21:29.742557-03:00"
     },
     {
       "id": "reel-20261028-1300-37dda01513",
