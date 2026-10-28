@@ -7349,7 +7349,7 @@
       "aprovado": true,
       "data": "2026-10-28",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "165 - a minha parceria com Deus.mp4",
         "sha256": "c35d6b6b47b6f3b5f9598f8ed9263a0ad8b90af5959cf8a2f8ed8660f28bc24f"
@@ -7382,7 +7382,8 @@
         "id": "29068234316149714",
         "publicado_em": "2026-10-28T12:01:01.572150-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-28T12:01:03.668647-03:00"
     },
     {
       "id": "reel-20261028-0900-717057c6eb",
