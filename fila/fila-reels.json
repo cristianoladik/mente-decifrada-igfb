@@ -7484,7 +7484,7 @@
       "aprovado": true,
       "data": "2026-10-28",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "168 - A Mãe Monique Medeiros Narcisista e a Frieza do Abuso Infantil ｜ ANA BEATRIZ.mp4",
         "sha256": "3f94c466f407098923f504597501442e1457f1b7da3916cda49ae2a128a1ac9b"
@@ -7517,7 +7517,8 @@
         "id": "1108443895121051",
         "publicado_em": "2026-10-28T20:58:22.064892-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-28T20:58:23.849823-03:00"
     },
     {
       "id": "reel-20261028-2100-e2eb9db8dd",
