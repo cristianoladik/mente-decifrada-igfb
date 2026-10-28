@@ -7304,7 +7304,7 @@
       "aprovado": true,
       "data": "2026-10-27",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "164 - A mente humana não foi projetada para suportar a violência silenciosa das pressões desmedidas.mp4",
         "sha256": "24ea7c8f2fb103cf9e343bb81c6ade30ac9d938cc3a082dc3eb27bbd9b44704b"
@@ -7337,7 +7337,8 @@
         "id": "40043646658566874",
         "publicado_em": "2026-10-28T00:08:21.699634-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-28T00:08:23.221176-03:00"
     },
     {
       "id": "reel-20261028-0500-c35d6b6b47",
