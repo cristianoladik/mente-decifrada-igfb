@@ -7439,7 +7439,7 @@
       "aprovado": true,
       "data": "2026-10-28",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "167 - A mulher que se fingiu de criança ｜ ANA BEATRIZ.mp4",
         "sha256": "37dda01513c3905181623195cfb23d916879a6ad54baf029ed9d65a015eab61d"
@@ -7472,7 +7472,8 @@
         "id": "1114507001288082",
         "publicado_em": "2026-10-28T17:54:08.867522-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-28T17:54:12.824405-03:00"
     },
     {
       "id": "reel-20261028-1700-3f94c466f4",
