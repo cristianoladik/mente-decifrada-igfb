@@ -3129,7 +3129,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "939 - Você sabe qual é a sua missão？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "aa7cb0a640a75a5e87d016b368778f2fa3b9266c03696cab9735218b62e0d3a2"
@@ -3195,7 +3195,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-29T14:41:48.633936-03:00"
     },
     {
       "id": "story-20261030-b3f101aea0",
