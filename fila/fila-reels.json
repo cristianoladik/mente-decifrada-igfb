@@ -7529,7 +7529,7 @@
       "aprovado": true,
       "data": "2026-10-28",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "169 - A música que não sai da sua cabeça é TOC？ ｜ ANA BEATRIZ.mp4",
         "sha256": "e2eb9db8dd2521f83d29d214930a079bde07f7e49ee8960fe0628c4ca950cdbd"
@@ -7562,7 +7562,8 @@
         "id": "2594165014435189",
         "publicado_em": "2026-10-29T00:35:23.859643-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-29T02:43:12.706313-03:00"
     },
     {
       "id": "reel-20261029-0500-3ea1d2fd0f",
