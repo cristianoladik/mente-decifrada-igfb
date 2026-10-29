@@ -7709,7 +7709,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "173 - A obesidade não é apenas uma questão estética.mp4",
         "sha256": "6e11928175c48e136ce807ba1cfbe80cff0535f404a566eae6d359bd22cb1436"
@@ -7742,7 +7742,8 @@
         "id": "3517098998471258",
         "publicado_em": "2026-10-29T20:53:41.748944-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-29T20:53:43.158969-03:00"
     },
     {
       "id": "reel-20261029-2100-42b70f15e4",
