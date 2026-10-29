@@ -7664,7 +7664,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "172 - A obesidade não é apenas uma questão de força de vontade.mp4",
         "sha256": "5da5fa0b4c4190030ed625181b5dac37c471f840ed5898c61ff626bf1d44d148"
@@ -7697,7 +7697,8 @@
         "id": "1146936484951127",
         "publicado_em": "2026-10-29T17:58:53.334166-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-29T17:58:56.163441-03:00"
     },
     {
       "id": "reel-20261029-1700-6e11928175",
