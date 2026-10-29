@@ -7574,7 +7574,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "170 - A música tem o poder de tocar a alma e revelar o inconsciente.mp4",
         "sha256": "3ea1d2fd0ffab2e440ef57b13b85c17f1c6775515ee4d6100c2ff1d430c9c7d5"
@@ -7607,7 +7607,8 @@
         "id": "1089437800754174",
         "publicado_em": "2026-10-29T12:09:22.936886-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-29T12:09:24.877156-03:00"
     },
     {
       "id": "reel-20261029-0900-6745693f04",
