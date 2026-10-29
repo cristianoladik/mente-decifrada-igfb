@@ -7619,7 +7619,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "171 - A neurociência não briga com a psicanálise, elas se completam.mp4",
         "sha256": "6745693f048726d879930603a12000815c3586d8be867b8abd5aecaf1c7c7421"
@@ -7652,7 +7652,8 @@
         "id": "1790187602218806",
         "publicado_em": "2026-10-29T15:27:19.135859-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-29T15:27:20.952394-03:00"
     },
     {
       "id": "reel-20261029-1300-5da5fa0b4c",
