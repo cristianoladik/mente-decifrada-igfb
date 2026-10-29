@@ -7544,8 +7544,8 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "erro",
-        "tentativas": 1,
+        "status": "processando",
+        "tentativas": 2,
         "fase": "publicacao_solicitada",
         "container_id": "18108611384181585",
         "erro": "Falha de rede ao chamar a Meta: HTTPSConnectionPool(host='graph.facebook.com', port=443): Max retries exceeded with url: /v26.0/17841435447539291/media_publish (Caused by NewConnectionError(\"HTTPSConnection(host='graph.facebook.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
