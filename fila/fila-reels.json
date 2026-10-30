@@ -7934,7 +7934,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "178 - A raiz da sua ansiedade não mora no presente, mas nas feridas de uma infância desprotegida.mp4",
         "sha256": "0760e7ee30350cc9457fa185af21bca29790f6ec564b469d290123788750556c"
@@ -7967,7 +7967,8 @@
         "id": "1491679356156771",
         "publicado_em": "2026-10-30T20:34:35.994964-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-30T20:34:37.634234-03:00"
     },
     {
       "id": "reel-20261030-2100-abb3fffc75",
