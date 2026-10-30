@@ -7844,7 +7844,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "176 - A polêmica da unha de gel proibida.mp4",
         "sha256": "ca7e45634c3565fe5b98a5f571e2f9fefb0803a86450266d4122035f459bf629"
@@ -7877,7 +7877,8 @@
         "id": "1482578727058298",
         "publicado_em": "2026-10-30T14:18:35.775285-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-30T14:18:37.221180-03:00"
     },
     {
       "id": "reel-20261030-1300-e7be35ab20",
