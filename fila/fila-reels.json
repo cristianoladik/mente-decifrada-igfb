@@ -7754,7 +7754,7 @@
       "aprovado": true,
       "data": "2026-10-29",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "174 - A paixão por uma função ou propósito jamais anula a necessidade primária de regulação do organismo.mp4",
         "sha256": "42b70f15e4dc9b0a1d2a5ce962ab479adac6571e6406b122cff7232847fd704e"
@@ -7787,7 +7787,8 @@
         "id": "994603073689253",
         "publicado_em": "2026-10-30T00:35:46.461244-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-30T00:35:48.002481-03:00"
     },
     {
       "id": "reel-20261030-0500-53e40943ca",
