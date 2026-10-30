@@ -7769,10 +7769,13 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 1,
-        "fase": "publicacao_solicitada",
-        "container_id": "18108849878181585"
+        "fase": "publicacao_confirmada",
+        "container_id": "18108849878181585",
+        "id": "17979331650150826",
+        "publicado_em": "2026-10-30T00:35:29.082490-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
