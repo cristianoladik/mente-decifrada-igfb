@@ -7824,11 +7824,14 @@
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 1,
-        "fase": "publicacao_aceita",
+        "fase": "publicacao_confirmada",
         "video_id": "28408215675523465",
-        "upload_url": "https://rupload.facebook.com/video-upload/v26.0/28408215675523465"
+        "upload_url": "https://rupload.facebook.com/video-upload/v26.0/28408215675523465",
+        "id": "28408215675523465",
+        "publicado_em": "2026-10-30T11:59:08.910914-03:00",
+        "confirmacao": "finish_facebook"
       }
     },
     {
