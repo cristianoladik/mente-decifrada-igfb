@@ -7799,7 +7799,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "175 - A pergunta é： você vai ser o caranguejo que puxa pra baixo ou o que luta pra sair？.mp4",
         "sha256": "53e40943cae2b447879e1731325ccf030df1768222f6f5fe5ea6393aed1cfe49"
@@ -7832,7 +7832,8 @@
         "id": "28408215675523465",
         "publicado_em": "2026-10-30T11:59:08.910914-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-30T11:59:10.572747-03:00"
     },
     {
       "id": "reel-20261030-0900-ca7e45634c",
