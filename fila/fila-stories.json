@@ -3211,7 +3211,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "940 - Você sabe quem está educando o seu filho？ Se não é você, pode ter certeza de que é alguém.mp4",
         "sha256": "b3f101aea0d1a51db0c16b3b02462bbc8f80a674e7631506e234452e02a66ccd"
@@ -3307,7 +3307,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-30T15:02:40.643479-03:00"
     },
     {
       "id": "story-20261031-87ebf0eb16",
