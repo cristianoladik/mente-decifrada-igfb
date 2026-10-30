@@ -7889,7 +7889,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "177 - A raiva te deixa burro e você nem percebe ｜ ANA BEATRIZ.mp4",
         "sha256": "e7be35ab207cd4aecff386e2e645772a1ffee23b9a3847bfd4faa64d3f1e6c9d"
@@ -7922,7 +7922,8 @@
         "id": "1829548761407579",
         "publicado_em": "2026-10-30T17:37:23.834383-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-30T17:37:26.674474-03:00"
     },
     {
       "id": "reel-20261030-1700-0760e7ee30",
