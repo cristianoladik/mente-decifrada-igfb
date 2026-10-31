@@ -8159,7 +8159,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "183 - A responsabilidade agora é sua.mp4",
         "sha256": "56a7c2b8417d9c9b4d343538275508e5d42ff931fa9e4a8978d0ae22b8961c23"
@@ -8192,7 +8192,8 @@
         "id": "2701346830380639",
         "publicado_em": "2026-10-31T20:16:32.126049-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-31T20:16:33.365793-03:00"
     },
     {
       "id": "reel-20261031-2100-b8bba7e1dd",
