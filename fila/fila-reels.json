@@ -7979,7 +7979,7 @@
       "aprovado": true,
       "data": "2026-10-30",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "179 - A realidade sobre a educação em casa e na escola.mp4",
         "sha256": "abb3fffc751809d3f7331dcad451536560bb211f741a0a5f900338bbcfadebf9"
@@ -8012,7 +8012,8 @@
         "id": "1099454212895716",
         "publicado_em": "2026-10-31T00:20:22.060856-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-31T00:20:23.472014-03:00"
     },
     {
       "id": "reel-20261031-0500-3cb2089a09",
