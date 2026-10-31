@@ -8114,7 +8114,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "182 - A reposição hormonal na pós-menopausa não é luxo estético, é sobrevivência.mp4",
         "sha256": "187b9a46e94969b7a8ba39bf149f160a9b51ebc3296c61a15f7357625b8cfba9"
@@ -8147,7 +8147,8 @@
         "id": "1503463761722470",
         "publicado_em": "2026-10-31T16:50:16.523108-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-31T16:50:18.107346-03:00"
     },
     {
       "id": "reel-20261031-1700-56a7c2b841",
