@@ -8069,7 +8069,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "181 - A religião que liga ou que devolve ao homem.mp4",
         "sha256": "072c2f318803516cb6da6699bf0e4b7b315bc1cce320e6d52d9d89b763149f70"
@@ -8102,7 +8102,8 @@
         "id": "1146105737865635",
         "publicado_em": "2026-10-31T14:15:40.827243-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-31T14:15:42.425467-03:00"
     },
     {
       "id": "reel-20261031-1300-187b9a46e9",
