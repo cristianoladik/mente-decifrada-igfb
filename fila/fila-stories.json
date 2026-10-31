@@ -3327,7 +3327,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "941 - Você sabe quem é seu amigo de verdade？ ｜ ANA BEATRIZ.mp4",
         "sha256": "87ebf0eb163843bc39774b5da436841d72b128c5764fac074fdb25e945f0ac7e"
@@ -3363,7 +3363,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-10-31T13:24:00.320495-03:00"
     },
     {
       "id": "story-20261101-ce5b34355a",
