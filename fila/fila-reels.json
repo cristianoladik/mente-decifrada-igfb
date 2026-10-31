@@ -8024,7 +8024,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "180 - A Regra dos 90 Segundos Para Retomar o Controle das Emoções ｜ ANA BEATRIZ.mp4",
         "sha256": "3cb2089a097aef98a53975197fa8321cdf70d78c8c3a42fd77ec6ab5bcf8ff26"
@@ -8057,7 +8057,8 @@
         "id": "1169759872256184",
         "publicado_em": "2026-10-31T11:27:58.680291-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-10-31T11:28:00.236117-03:00"
     },
     {
       "id": "reel-20261031-0900-072c2f3188",
