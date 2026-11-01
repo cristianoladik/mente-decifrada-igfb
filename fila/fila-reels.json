@@ -8294,7 +8294,7 @@
       "aprovado": true,
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "186 - A resposta para a complexidade da dor psíquica se resume a 4 ou 5 medicamentos.mp4",
         "sha256": "6573c215c71fc6da13f47aeb24c3c26860306c318be49e0e28d00ca19138d455"
@@ -8327,7 +8327,8 @@
         "id": "1064712549781402",
         "publicado_em": "2026-11-01T14:18:39.833875-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-01T14:18:41.415987-03:00"
     },
     {
       "id": "reel-20261101-1300-dcb79e9578",
