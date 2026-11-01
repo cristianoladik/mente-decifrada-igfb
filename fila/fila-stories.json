@@ -3375,7 +3375,7 @@
       "aprovado": true,
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "942 - Você se cobra um desempenho nota 1000 todo dia？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "ce5b34355a5c1a42309cb62b6ddb14e486954d3d3a8ec8f5cdeda7b53658742c"
@@ -3411,7 +3411,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-01T14:55:58.795340-03:00"
     },
     {
       "id": "story-20261102-9d6415f17f",
