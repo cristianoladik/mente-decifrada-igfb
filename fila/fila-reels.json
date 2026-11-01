@@ -8249,7 +8249,7 @@
       "aprovado": true,
       "data": "2026-11-01",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "185 - A Resposta Dessas Crianças Chocou Até o Juiz ｜ ANA BEATRIZ.mp4",
         "sha256": "b7c9b8f3b53543c116952d523f8eaab77d9c15dbb65e6563f15aebd360dbb11f"
@@ -8282,7 +8282,8 @@
         "id": "2241781446379178",
         "publicado_em": "2026-11-01T11:56:06.262508-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-01T11:56:08.105895-03:00"
     },
     {
       "id": "reel-20261101-0900-6573c215c7",
