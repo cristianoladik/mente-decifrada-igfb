@@ -8384,7 +8384,7 @@
       "aprovado": true,
       "data": "2026-11-01",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "188 - A saúde mental ainda sofre preconceito.mp4",
         "sha256": "a8c51804877435bdae6b9c73d1ae135e837ce7e882b5a8eeb9eac1a8b68f3517"
@@ -8417,7 +8417,8 @@
         "id": "1618974856933396",
         "publicado_em": "2026-11-01T20:27:53.249038-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-01T20:27:54.821518-03:00"
     },
     {
       "id": "reel-20261101-2100-df64ab15ce",
