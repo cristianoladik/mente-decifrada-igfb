@@ -8204,7 +8204,7 @@
       "aprovado": true,
       "data": "2026-10-31",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "184 - A responsabilidade de formar seres humanos não é leve.mp4",
         "sha256": "b8bba7e1dd60ff2a2fefed1e934a6e89f3e96901a46ef9856d7a1683968ee716"
@@ -8237,7 +8237,8 @@
         "id": "4044365832524315",
         "publicado_em": "2026-11-01T00:19:17.552686-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-01T00:19:19.151251-03:00"
     },
     {
       "id": "reel-20261101-0500-b7c9b8f3b5",
