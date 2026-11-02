@@ -3423,7 +3423,7 @@
       "aprovado": true,
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "943 - Você Se Lembra da Sensação da sua Primeira Paixão？ ｜ ANA BEATRIZ.mp4",
         "sha256": "9d6415f17fb07cee4659f151479b9760eb25562f87e0f5814919dee0718bd5c3"
@@ -3459,7 +3459,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-02T17:56:02.142132-03:00"
     },
     {
       "id": "story-20261103-8d077940cc",
