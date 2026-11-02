@@ -8474,7 +8474,7 @@
       "aprovado": true,
       "data": "2026-11-02",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "190 - A sociedade mudou, mas o nosso relógio biológico não.mp4",
         "sha256": "836547dc6f6c100c2e8a35e3227233ffceea1b9f33b8fc0d3578ab96eb7dc0c6"
@@ -8507,7 +8507,8 @@
         "id": "2204026710150882",
         "publicado_em": "2026-11-02T15:09:19.665762-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-02T15:09:21.707493-03:00"
     },
     {
       "id": "reel-20261102-0900-a60f123415",
