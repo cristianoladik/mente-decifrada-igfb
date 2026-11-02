@@ -8564,7 +8564,7 @@
       "aprovado": true,
       "data": "2026-11-02",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "192 - A sua casa não é república.mp4",
         "sha256": "bec9f0bc1d65a4d890438dd985603d1a78c5ca4b0e9fde61ed5c1432c6e09e98"
@@ -8597,7 +8597,8 @@
         "id": "1139387145231308",
         "publicado_em": "2026-11-02T20:23:23.888515-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-02T20:23:25.780619-03:00"
     },
     {
       "id": "reel-20261102-1700-0977837f75",
