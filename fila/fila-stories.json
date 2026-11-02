@@ -3436,7 +3436,10 @@
             "url_publica": "https://github.com/cristianoladik/mente-decifrada-igfb/releases/download/fila-instagram-facebook/sha256-76cf3b60677ee474a5052f19dbd982f93ee230e7e8932d361ef0357c3659d021.mp4",
             "sha256": "76cf3b60677ee474a5052f19dbd982f93ee230e7e8932d361ef0357c3659d021",
             "tamanho_bytes": 7307635,
-            "duracao_segundos": 34.624
+            "duracao_segundos": 34.624,
+            "remocao_solicitada_em": "2026-11-02T17:56:04.612175-03:00",
+            "remocao_repositorio": "cristianoladik/mente-decifrada-igfb",
+            "remocao_release_tag": "fila-instagram-facebook"
           },
           "instagram": {
             "status": "publicado",
