@@ -8429,7 +8429,7 @@
       "aprovado": true,
       "data": "2026-11-01",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "189 - A Segurança Pública Faliu？ O Brasileiro Vive com Medo ｜ ANA BEATRIZ.mp4",
         "sha256": "df64ab15cef9a4c13c382eb12cdc97378eed2b2cd6e13b4e1b726167a412b89a"
@@ -8462,7 +8462,8 @@
         "id": "6877230495963835",
         "publicado_em": "2026-11-02T02:57:27.840562-03:00",
         "confirmacao": "video_facebook_reconciliado"
-      }
+      },
+      "concluido_em": "2026-11-02T02:57:29.587127-03:00"
     },
     {
       "id": "reel-20261102-0500-836547dc6f",
