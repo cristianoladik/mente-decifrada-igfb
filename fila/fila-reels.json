@@ -8519,7 +8519,7 @@
       "aprovado": true,
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "191 - A Solidão da Mulher Potente.mp4",
         "sha256": "a60f12341585d19deb9a2aa253b7070da164f1243163ff90f7dea534c56df648"
@@ -8552,7 +8552,8 @@
         "id": "1156678140124418",
         "publicado_em": "2026-11-02T18:42:03.750196-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-02T18:42:06.658215-03:00"
     },
     {
       "id": "reel-20261102-1300-bec9f0bc1d",
