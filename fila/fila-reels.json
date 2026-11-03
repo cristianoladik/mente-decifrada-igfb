@@ -8681,7 +8681,7 @@
       "aprovado": true,
       "data": "2026-11-03",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "195 - A vacina contra relacionamentos abusivos.mp4",
         "sha256": "14a4b1851fefbf0931cbb55f1dcd824d2b4de3138bcd773e88ed125fd3cc2ca8"
@@ -8714,7 +8714,8 @@
         "id": "2124530464864791",
         "publicado_em": "2026-11-03T13:03:41.585148-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-03T13:03:43.558368-03:00"
     },
     {
       "id": "reel-20261103-0900-d93ed06c73",
