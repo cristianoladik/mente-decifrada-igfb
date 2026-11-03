@@ -8744,7 +8744,7 @@
       "aprovado": true,
       "data": "2026-11-03",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "198 - A Verdade Que Mudará Sua Existência.mp4",
         "sha256": "421cb30643009f239f8491063296b5cb17fb44d3bd634eafc4d19afcce0f262b"
@@ -8777,7 +8777,8 @@
         "id": "962638733205880",
         "publicado_em": "2026-11-02T23:08:24.190554-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-02T23:08:26.028717-03:00"
     },
     {
       "id": "reel-20261103-2100-1a8eae6e1d",
