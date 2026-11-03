@@ -8636,7 +8636,7 @@
       "aprovado": true,
       "data": "2026-11-02",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "194 - A união das gerações é a chave para a evolução!.mp4",
         "sha256": "b503f1ff2fbd7d5cb4dacbdd0140b1308af5c36a4a572c1446fce5fc6fb5988c"
@@ -8669,7 +8669,8 @@
         "id": "2273597289985578",
         "publicado_em": "2026-11-03T01:38:40.213461-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-03T01:38:41.490968-03:00"
     },
     {
       "id": "reel-20261103-0500-14a4b1851f",
