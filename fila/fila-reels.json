@@ -8726,7 +8726,7 @@
       "aprovado": true,
       "data": "2026-11-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "196 - A verdade chocante sobre comer com talher.mp4",
         "sha256": "d93ed06c73d63e26dbee09f3c05ae0a3626ff3f9ca476650a72b8daea79c12bd"
@@ -8759,7 +8759,8 @@
         "id": "1088999984142451",
         "publicado_em": "2026-11-03T15:44:19.947215-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-03T15:44:23.596931-03:00"
     },
     {
       "id": "reel-20261103-1300-f5b5dbcbeb",
