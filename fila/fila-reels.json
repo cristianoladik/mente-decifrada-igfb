@@ -8771,7 +8771,7 @@
       "aprovado": true,
       "data": "2026-11-03",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "197 - A verdade não machuca, ela organiza. O que dói é a fantasia quando desmorona.mp4",
         "sha256": "f5b5dbcbebfbdccaf43f6591d9af3c3283e00bb7847a0d2f0356472e44bed3ad"
@@ -8804,7 +8804,8 @@
         "id": "2033551327322922",
         "publicado_em": "2026-11-03T18:39:29.115496-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-03T18:39:41.174651-03:00"
     },
     {
       "id": "reel-20261103-1700-421cb30643",
