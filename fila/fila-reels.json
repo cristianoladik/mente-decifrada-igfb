@@ -8861,7 +8861,7 @@
       "aprovado": true,
       "data": "2026-11-03",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "199 - A verdade sobre a mente do superdotado - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "1a8eae6e1ded15d57132475ce90b536757a7584291633a1a3c0b3f02c2301c83"
@@ -8894,7 +8894,8 @@
         "id": "1117206467953742",
         "publicado_em": "2026-11-04T00:57:42.033648-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-04T00:57:43.778741-03:00"
     },
     {
       "id": "reel-20261104-0500-47d7a61d53",
