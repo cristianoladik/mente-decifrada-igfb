@@ -8996,7 +8996,7 @@
       "aprovado": true,
       "data": "2026-11-04",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "202 - A verdade é complexa, a mentira seduz! ｜ ANA BEATRIZ.mp4",
         "sha256": "a9aed1cfa994330961abf5ab1b42f3bbe9a9a18b36f009918d39343a4a3d38c7"
@@ -9029,7 +9029,8 @@
         "id": "1140796571836129",
         "publicado_em": "2026-11-04T18:47:11.570913-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-04T18:47:13.588886-03:00"
     },
     {
       "id": "reel-20261104-1700-d11578f01c",
