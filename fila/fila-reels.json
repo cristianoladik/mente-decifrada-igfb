@@ -8969,7 +8969,7 @@
       "aprovado": true,
       "data": "2026-11-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "203 - A verdadeira transformação exige o desprendimento absoluto daquilo que te mantém estagnado.mp4",
         "sha256": "d11578f01c27b0e896ab2dc32fc48d18404761ba01cec0b057d0ff3edec699c6"
@@ -9002,7 +9002,8 @@
         "id": "2349657952481039",
         "publicado_em": "2026-11-03T21:32:13.258505-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-03T21:32:14.910805-03:00"
     },
     {
       "id": "reel-20261104-2100-2e35715991",
