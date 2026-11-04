@@ -3519,7 +3519,7 @@
       "aprovado": true,
       "data": "2026-11-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "945 - Você Tem Diploma, Mas Tem Prática？ ｜ ANA BEATRIZ.mp4",
         "sha256": "4e4c84082e5af07e4f5ac6723fb6776ae6f310c3c3389adbef237574f14d46a9"
@@ -3555,7 +3555,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-04T16:44:30.690917-03:00"
     },
     {
       "id": "story-20261105-eab12f4bd4",
