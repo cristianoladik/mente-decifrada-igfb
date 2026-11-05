@@ -9194,7 +9194,7 @@
       "aprovado": true,
       "data": "2026-11-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "208 - A vingança adoece quem a planeja - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "cf2807d27ba13acb7f935ead684b62ada0b3eb1fcecbeb206e25f000bf89b356"
@@ -9227,7 +9227,8 @@
         "id": "1766319335496713",
         "publicado_em": "2026-11-04T21:49:53.733866-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-04T21:49:55.364506-03:00"
     },
     {
       "id": "reel-20261105-2100-13bf3814af",
