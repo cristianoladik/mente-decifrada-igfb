@@ -9221,7 +9221,7 @@
       "aprovado": true,
       "data": "2026-11-05",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "207 - A vida é sobre bancar as nossas escolhas. Você tem bancado as suas？.mp4",
         "sha256": "f99f95ec8eb7e30f588ac13de13f2127d0f93e040e3b029874ef22e754b9d0f7"
@@ -9254,7 +9254,8 @@
         "id": "2133434170898425",
         "publicado_em": "2026-11-05T18:52:36.628862-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-05T18:52:38.172041-03:00"
     },
     {
       "id": "reel-20261105-1700-cf2807d27b",
