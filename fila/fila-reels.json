@@ -9086,7 +9086,7 @@
       "aprovado": true,
       "data": "2026-11-04",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "204 - A vida depois dos 50： Nada mais me abala!.mp4",
         "sha256": "2e3571599140970c54b3ee9f6fd00a32b5268dd740f20a955fbd3c99407ccd90"
@@ -9119,7 +9119,8 @@
         "id": "1331516492337540",
         "publicado_em": "2026-11-05T01:17:58.980827-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-05T01:18:00.602465-03:00"
     },
     {
       "id": "reel-20261105-0500-19b9efa9da",
