@@ -9131,7 +9131,7 @@
       "aprovado": true,
       "data": "2026-11-05",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "205 - A vida plena não é um checklist que a sociedade te obriga a preencher.mp4",
         "sha256": "19b9efa9da5ce74ce8aee3148015536347c954e37962bf4636ddd86dd03196ef"
@@ -9164,7 +9164,8 @@
         "id": "1841394646875156",
         "publicado_em": "2026-11-05T13:23:02.059650-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-05T13:23:03.837220-03:00"
     },
     {
       "id": "reel-20261105-0900-564e4e1c08",
