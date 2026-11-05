@@ -9176,7 +9176,7 @@
       "aprovado": true,
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "206 - A vida tá te ignorando ou você tá na trilha errada？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "564e4e1c086adb8417edc941c4c4b7454983408f0f4dabf6c943a1383b6ed9b2"
@@ -9209,7 +9209,8 @@
         "id": "28928333990169221",
         "publicado_em": "2026-11-05T16:08:14.176719-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-05T16:08:15.610778-03:00"
     },
     {
       "id": "reel-20261105-1300-f99f95ec8e",
