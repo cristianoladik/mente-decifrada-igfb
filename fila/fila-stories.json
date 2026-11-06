@@ -3649,7 +3649,7 @@
       "aprovado": true,
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "947 - Você vive pra você ou pra aprovação dos outros？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "24b9c902fe2d37371720afcc2e936b7c95f90427087b0ac541d57eaae2e08e81"
@@ -3685,7 +3685,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-06T15:35:04.471800-03:00"
     },
     {
       "id": "story-20261107-0938a850f9",
