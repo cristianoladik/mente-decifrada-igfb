@@ -9401,7 +9401,7 @@
       "aprovado": true,
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "211 - Acha que depois dos 80 anos só nos resta aceitar as dores？.mp4",
         "sha256": "8163f6c4c190f0f23ee29b7b91a54be312c930e6e5268a77ad26873c10a6c786"
@@ -9434,7 +9434,8 @@
         "id": "3032327790440325",
         "publicado_em": "2026-11-06T16:20:19.215567-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-06T16:20:20.765593-03:00"
     },
     {
       "id": "reel-20261106-1300-700c981dfe",
