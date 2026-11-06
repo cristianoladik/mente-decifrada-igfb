@@ -9311,7 +9311,7 @@
       "aprovado": true,
       "data": "2026-11-05",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "209 - A vulnerabilidade pode estar te hipnotizando.mp4",
         "sha256": "13bf3814af9b4f72a4ff284c844966920d86ffbb99a6905aa7f22cb761596fb5"
@@ -9344,7 +9344,8 @@
         "id": "2125126271436758",
         "publicado_em": "2026-11-06T01:16:21.677061-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-06T01:16:23.497044-03:00"
     },
     {
       "id": "reel-20261106-0500-35653da780",
