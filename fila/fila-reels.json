@@ -9419,7 +9419,7 @@
       "aprovado": true,
       "data": "2026-11-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "213 - Adolescentes Criam Lista Ofensiva： Psicologia do Grupo ｜ ANA BEATRIZ.mp4",
         "sha256": "f184a42ff09e9c2a7001695e0127da973999c66a57e358c1ed66f15bc75f1b10"
@@ -9452,7 +9452,8 @@
         "id": "978045981558142",
         "publicado_em": "2026-11-05T21:56:56.223584-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-05T21:56:57.715706-03:00"
     },
     {
       "id": "reel-20261106-2100-3005b592b7",
