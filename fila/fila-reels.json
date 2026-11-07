@@ -9581,7 +9581,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "215 - Afeto que precisa ser demonstrado.mp4",
         "sha256": "58d67b7e01086c6c5655e7efdb038bd405515ecc543285756235f7be3b088b49"
@@ -9614,7 +9614,8 @@
         "id": "39831441233137880",
         "publicado_em": "2026-11-07T11:50:57.766614-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-07T11:50:59.222046-03:00"
     },
     {
       "id": "reel-20261107-0900-c8285a229a",
