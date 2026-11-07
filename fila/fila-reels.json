@@ -9671,7 +9671,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "217 - Algumas oportunidades aparecem sem aviso, e o que define o caminho é a coragem de dizer sim.mp4",
         "sha256": "627b69982b782bea1066064060b700687af5b92f76c0972b064ef9eef8be9e2f"
@@ -9704,7 +9704,8 @@
         "id": "1151257367392932",
         "publicado_em": "2026-11-07T17:02:29.415673-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-07T17:02:30.808828-03:00"
     },
     {
       "id": "reel-20261107-1700-9e98742b8b",
