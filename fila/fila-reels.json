@@ -9536,7 +9536,7 @@
       "aprovado": true,
       "data": "2026-11-06",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "214 - Adolescentes, Desumanização e Respeito： O Que Estamos Ensinando？ ｜ ANA BEATRIZ.mp4",
         "sha256": "3005b592b7bcbcc2612bfe7f9628d8d5a76fa3bd3edebca355e39e6021d96cde"
@@ -9569,7 +9569,8 @@
         "id": "3297986733923196",
         "publicado_em": "2026-11-07T00:47:54.946529-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-07T00:47:56.289842-03:00"
     },
     {
       "id": "reel-20261107-0500-58d67b7e01",
