@@ -9626,7 +9626,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "216 - Ainda não chorei por mim.mp4",
         "sha256": "c8285a229af13e4d24b6f2c04a3d42ca5811f2bc0708fc4b1c78cc02cf73e5a1"
@@ -9659,7 +9659,8 @@
         "id": "2008567726492031",
         "publicado_em": "2026-11-07T14:44:56.352872-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-07T14:44:57.778810-03:00"
     },
     {
       "id": "reel-20261107-1300-627b69982b",
