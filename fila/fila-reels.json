@@ -9644,7 +9644,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "218 - Alicerce e missão na relação.mp4",
         "sha256": "9e98742b8b8465471989c8fb56d44be9ce86187cb044afed154d8196b1ca2597"
@@ -9677,7 +9677,8 @@
         "id": "1352275871311495",
         "publicado_em": "2026-11-06T21:04:21.217155-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-06T21:04:22.794719-03:00"
     },
     {
       "id": "reel-20261107-2100-d911403313",
