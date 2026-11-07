@@ -3722,9 +3722,9 @@
             "confirmacao": "media_publish"
           },
           "facebook": {
-            "status": "enviando",
+            "status": "processando",
             "tentativas": 1,
-            "fase": "upload_em_andamento",
+            "fase": "upload_concluido",
             "video_id": "1022124870906879",
             "upload_url": "https://rupload.facebook.com/video-upload/v27.0/1022124870906879"
           }
