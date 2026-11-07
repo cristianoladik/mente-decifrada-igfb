@@ -3697,7 +3697,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "948 - Você é PERFEITO. Não perca pra você mesmo!.mp4",
         "sha256": "0938a850f921dd867a0a2188ff140e1287c90950292ef05a1c519118345e72c7"
@@ -3763,7 +3763,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-07T14:04:26.241638-03:00"
     },
     {
       "id": "story-20261108-9c45b5e28c",
