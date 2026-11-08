@@ -9851,7 +9851,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "221 - Amor Altruísta - Conecte-se com Deus e Transforme Vidas!.mp4",
         "sha256": "153a5a3ef30a6df2b5098aac55fd18d21bdcd0825e668812d02a1b8358ce510c"
@@ -9884,7 +9884,8 @@
         "id": "1398082895741463",
         "publicado_em": "2026-11-08T14:18:27.809025-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-08T14:18:29.196608-03:00"
     },
     {
       "id": "reel-20261108-1300-50d3129bc4",
