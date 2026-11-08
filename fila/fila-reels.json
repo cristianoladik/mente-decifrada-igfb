@@ -9941,7 +9941,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "223 - Amor no Borderline： Controle e Medo do Abandono ｜ ANA BEATRIZ.mp4",
         "sha256": "65827dff0b8c71ce4aa9989809b43a2272ee0fac796a5409a921736aac27ad31"
@@ -9974,7 +9974,8 @@
         "id": "2134526177166453",
         "publicado_em": "2026-11-08T20:32:29.983184-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-08T20:32:31.623772-03:00"
     },
     {
       "id": "reel-20261108-2100-03506be7e0",
