@@ -9761,7 +9761,7 @@
       "aprovado": true,
       "data": "2026-11-07",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "219 - Além das 'tribos'： Conecte-se com intenção e receba o melhor.mp4",
         "sha256": "d91140331355f59626a3109057528886829e561122c906f6e523bdf4ea58a10e"
@@ -9794,7 +9794,8 @@
         "id": "1358960990642011",
         "publicado_em": "2026-11-08T00:27:18.556173-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-08T00:27:19.994486-03:00"
     },
     {
       "id": "reel-20261108-0500-a150dbf70d",
