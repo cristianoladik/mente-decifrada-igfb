@@ -3779,7 +3779,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "949 - Vício do cigarro e ansiedade.mp4",
         "sha256": "9c45b5e28c080b196f8608c26a279147136d0d268478cd8bc9e301da2eadfd8c"
@@ -3815,7 +3815,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-08T14:55:22.369699-03:00"
     },
     {
       "id": "story-20261109-36cdb89acb",
