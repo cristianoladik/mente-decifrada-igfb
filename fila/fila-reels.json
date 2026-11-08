@@ -9806,7 +9806,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "220 - Ambientes de trabalho mistos： Errando e aprendendo juntos!.mp4",
         "sha256": "a150dbf70d82a377ec11c845ec0e01a90ec46e147d53685448aa52aa6e768925"
@@ -9839,7 +9839,8 @@
         "id": "1662737232198557",
         "publicado_em": "2026-11-08T11:58:06.081312-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-08T11:58:07.379316-03:00"
     },
     {
       "id": "reel-20261108-0900-153a5a3ef3",
