@@ -9896,7 +9896,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "222 - Amor maduro e responsabilidade afetiva.mp4",
         "sha256": "50d3129bc4165ae65597038f06003c7ceb57db89869fbe72edf435d3dab0e9cc"
@@ -9929,7 +9929,8 @@
         "id": "1909913273359710",
         "publicado_em": "2026-11-08T17:18:41.341821-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-08T17:18:42.927822-03:00"
     },
     {
       "id": "reel-20261108-1700-65827dff0b",
