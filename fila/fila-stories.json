@@ -3854,7 +3854,7 @@
           "facebook": {
             "status": "enviando",
             "tentativas": 1,
-            "fase": "sessao_criada",
+            "fase": "upload_em_andamento",
             "video_id": "5165245600368857",
             "upload_url": "https://rupload.facebook.com/video-upload/v27.0/5165245600368857"
           }
