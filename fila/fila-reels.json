@@ -9986,7 +9986,7 @@
       "aprovado": true,
       "data": "2026-11-08",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "224 - Amor não é dívida, é dádiva.mp4",
         "sha256": "03506be7e052b0dcce41c9e3b624e36306896889346c792830bde7758751e734"
@@ -10019,7 +10019,8 @@
         "id": "1766680481080395",
         "publicado_em": "2026-11-09T00:44:02.152995-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-09T00:44:03.464531-03:00"
     },
     {
       "id": "reel-20261109-0500-df506e0d49",
