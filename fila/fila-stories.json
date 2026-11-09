@@ -3827,7 +3827,7 @@
       "aprovado": true,
       "data": "2026-11-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "950 - Vício em dopamina.mp4",
         "sha256": "36cdb89acbaf57179a0052055327113b4a5fc083b3dd511a21870fc56909197f"
@@ -3923,7 +3923,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-09T18:43:50.615956-03:00"
     },
     {
       "id": "story-20261110-8772b63c1c",
