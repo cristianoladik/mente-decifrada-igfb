@@ -10076,7 +10076,7 @@
       "aprovado": true,
       "data": "2026-11-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "226 - Amor ou dependência emocional.mp4",
         "sha256": "cd4cf02b6b02960bee8261c7afa67d84f39098033efb7f684e09f025278f2ae8"
@@ -10109,7 +10109,8 @@
         "id": "1588952389586096",
         "publicado_em": "2026-11-09T19:18:32.757025-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-09T19:18:34.463822-03:00"
     },
     {
       "id": "reel-20261109-1300-28e873c41b",
