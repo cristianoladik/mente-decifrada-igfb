@@ -10202,7 +10202,7 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "processando",
         "tentativas": 1,
-        "fase": "upload_concluido",
+        "fase": "publicacao_solicitada",
         "video_id": "1363519075709060",
         "upload_url": "https://rupload.facebook.com/video-upload/v27.0/1363519075709060"
       }
