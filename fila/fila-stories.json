@@ -3943,7 +3943,7 @@
       "aprovado": true,
       "data": "2026-11-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "951 - Vício em Sexo： Como Saber se Você Passou dos Limites？ ｜ ANA BEATRIZ.mp4",
         "sha256": "8772b63c1c5350f421fffe67db4e46fc466b1b775e47069a83fa3af4f3decc43"
@@ -3979,7 +3979,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-10T15:58:19.863307-03:00"
     },
     {
       "id": "story-20261111-a06a7e9c0c",
