@@ -10220,7 +10220,7 @@
       "aprovado": true,
       "data": "2026-11-10",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "230 - Amor é sentimento ou atitude？.mp4",
         "sha256": "4e4d189ffc11dc88e57854329d4cbbc8b32912ce2fe41334379f64ef62db7587"
@@ -10253,7 +10253,8 @@
         "id": "1659437665726380",
         "publicado_em": "2026-11-10T13:20:36.567776-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-10T13:20:37.965029-03:00"
     },
     {
       "id": "reel-20261110-0900-b05d2858f5",
