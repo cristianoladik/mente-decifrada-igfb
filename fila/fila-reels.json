@@ -10256,7 +10256,7 @@
       "aprovado": true,
       "data": "2026-11-10",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "232 - Andar na contramão do próprio desejo é o caminho mais direto para o adoecimento psíquico.mp4",
         "sha256": "d8e12f01abdcc28e61f8af6a27a85e516d15ab558965f89780d94cc48906ee9f"
@@ -10289,7 +10289,8 @@
         "id": "1864431498244239",
         "publicado_em": "2026-11-09T21:03:00.647899-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-09T21:03:02.189195-03:00"
     },
     {
       "id": "reel-20261110-1700-4158a0cfb1",
