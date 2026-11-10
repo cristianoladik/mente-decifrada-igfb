@@ -10301,7 +10301,7 @@
       "aprovado": true,
       "data": "2026-11-10",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "233 - Animais Têm Sentimentos？ Comportamentos Que Parecem Humanos ｜ ANA BEATRIZ.mp4",
         "sha256": "4158a0cfb1ff922ed5b42a39f6f578e2930b5ec9ca994ced3becb67a8f7d2d1e"
@@ -10334,7 +10334,8 @@
         "id": "1787669185840884",
         "publicado_em": "2026-11-09T23:38:17.663702-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-09T23:38:19.247697-03:00"
     },
     {
       "id": "reel-20261110-2100-1ca93ecea5",
