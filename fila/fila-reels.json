@@ -10283,7 +10283,7 @@
         "legenda": "Siga @mentedecifrada_br",
         "status": "processando",
         "tentativas": 1,
-        "fase": "publicacao_solicitada",
+        "fase": "publicacao_aceita",
         "video_id": "1864431498244239",
         "upload_url": "https://rupload.facebook.com/video-upload/v27.0/1864431498244239"
       }
