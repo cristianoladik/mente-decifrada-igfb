@@ -10175,7 +10175,7 @@
       "aprovado": true,
       "data": "2026-11-09",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "229 - Amor é Entrega Total, Sem Esperar Nada!.mp4",
         "sha256": "37147f403a0bc56d8eca758cae7393ce522c4a26d0aca1f9478824d38da33c84"
@@ -10208,7 +10208,8 @@
         "id": "1363519075709060",
         "publicado_em": "2026-11-10T02:17:53.505346-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-10T02:17:55.144324-03:00"
     },
     {
       "id": "reel-20261110-0500-4e4d189ffc",
