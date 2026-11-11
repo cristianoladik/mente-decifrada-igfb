@@ -3991,7 +3991,7 @@
       "aprovado": true,
       "data": "2026-11-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "952 - When the body becomes the only project.mp4",
         "sha256": "a06a7e9c0c28f2f84f2aedd3f81c2370724fa4e8bb43d55e367a5e85ce870a3c"
@@ -4027,7 +4027,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-11T15:55:56.930346-03:00"
     },
     {
       "id": "story-20261112-562d7069af",
