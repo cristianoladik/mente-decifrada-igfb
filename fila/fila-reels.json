@@ -10535,7 +10535,7 @@
       "aprovado": true,
       "data": "2026-11-11",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "237 - Ansiedade Não é Medo： Entenda a Diferença ｜ ANA BEATRIZ.mp4",
         "sha256": "f78750dc067aaedb853ca467e307031196a2a40fab122c897a025592c728a86a"
@@ -10568,7 +10568,8 @@
         "id": "1154071047175031",
         "publicado_em": "2026-11-11T19:34:37.581060-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-11T19:34:39.368382-03:00"
     },
     {
       "id": "reel-20261111-1700-8ee23f0b7e",
