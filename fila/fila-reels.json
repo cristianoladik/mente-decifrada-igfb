@@ -10508,7 +10508,7 @@
       "aprovado": true,
       "data": "2026-11-11",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "238 - Ansiedade： a respiração que acalma em 3 respirações ｜ ANA BEATRIZ.mp4",
         "sha256": "8ee23f0b7e6e750fd7d57c00a1578c34d9eb0689fa428f4cac92905390911563"
@@ -10541,7 +10541,8 @@
         "id": "1727920284973834",
         "publicado_em": "2026-11-10T21:32:26.978466-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-10T21:32:28.912368-03:00"
     },
     {
       "id": "reel-20261111-2100-678d347af6",
