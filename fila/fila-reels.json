@@ -10400,7 +10400,7 @@
       "aprovado": true,
       "data": "2026-11-10",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "234 - Ansiedade e Depressão Explodiram Após a Pandemia ｜ ANA BEATRIZ.mp4",
         "sha256": "1ca93ecea55b037493249eac2e68b4303bbb308b380fabce34f3af952017204b"
@@ -10433,7 +10433,8 @@
         "id": "1447230490831438",
         "publicado_em": "2026-11-11T00:49:09.398065-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-11T00:49:11.122172-03:00"
     },
     {
       "id": "reel-20261111-0500-393a95f168",
