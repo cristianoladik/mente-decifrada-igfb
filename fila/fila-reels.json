@@ -10523,10 +10523,13 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 1,
-        "fase": "publicacao_solicitada",
-        "container_id": "18111552659181585"
+        "fase": "publicacao_confirmada",
+        "container_id": "18111552659181585",
+        "id": "18352404001281517",
+        "publicado_em": "2026-11-10T21:31:58.994631-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
