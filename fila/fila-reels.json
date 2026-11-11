@@ -10445,7 +10445,7 @@
       "aprovado": true,
       "data": "2026-11-11",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "235 - Ansiedade e depressão.mp4",
         "sha256": "393a95f1681dd87c5bd0211ce17c47b1e8c97439089e80e0b7ba1563e1f9e0a3"
@@ -10478,7 +10478,8 @@
         "id": "1160357756850567",
         "publicado_em": "2026-11-11T13:01:26.680249-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-11T13:01:28.625641-03:00"
     },
     {
       "id": "reel-20261111-0900-9e33926de2",
