@@ -10733,7 +10733,7 @@
       "aprovado": true,
       "data": "2026-11-12",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "243 - As pessoas te enganam e você nem percebe.mp4",
         "sha256": "233b0fd22b191bd5e18affc8c4cb29c51c32b1d6c21c74a47979ba116abaf020"
@@ -10766,7 +10766,8 @@
         "id": "1687050419612370",
         "publicado_em": "2026-11-11T22:53:11.844401-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-11T22:53:13.792828-03:00"
     },
     {
       "id": "reel-20261112-2100-b2b6669932",
