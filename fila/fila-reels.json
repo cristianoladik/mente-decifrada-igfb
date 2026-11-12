@@ -10625,7 +10625,7 @@
       "aprovado": true,
       "data": "2026-11-11",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "239 - Análise da música Pais e Filhos do Legião Urbana.mp4",
         "sha256": "678d347af6aff1160d3e409e4daf7327e8fdb7f35bc7825ae292dbb898a9122c"
@@ -10658,7 +10658,8 @@
         "id": "4485533788362923",
         "publicado_em": "2026-11-12T01:58:14.407332-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-12T01:58:16.085898-03:00"
     },
     {
       "id": "reel-20261112-0500-d18c92c96f",
