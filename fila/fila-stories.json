@@ -4039,7 +4039,7 @@
       "aprovado": true,
       "data": "2026-11-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "953 - Why They Keep Going Despite the Damage.mp4",
         "sha256": "562d7069afa9467ca6aede614ee556aa47cef7324df985483d5dd1ea9453d844"
@@ -4075,7 +4075,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-12T16:53:34.649103-03:00"
     },
     {
       "id": "story-20261113-fdfe02e157",
