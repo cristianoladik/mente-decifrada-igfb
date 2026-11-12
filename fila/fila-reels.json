@@ -10670,7 +10670,7 @@
       "aprovado": true,
       "data": "2026-11-12",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "240 - Aos 13 anos, ele fugiu de casa por causa de um amigo do Roblox ｜ ANA BEATRIZ.mp4",
         "sha256": "d18c92c96fd38dc6c77d48fe079ccf7cfaeaceef239627f48d74b64bde74755d"
@@ -10703,7 +10703,8 @@
         "id": "1883762102651602",
         "publicado_em": "2026-11-12T13:45:40.162403-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-12T13:45:42.033559-03:00"
     },
     {
       "id": "reel-20261112-0900-9455a72124",
