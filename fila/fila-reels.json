@@ -10715,7 +10715,7 @@
       "aprovado": true,
       "data": "2026-11-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "241 - Aprender com todas as gerações： Uma equipe que inova!.mp4",
         "sha256": "9455a7212441640e80c62e49a52abc35cc58e7a0f8a84fc96cf324f0a790862d"
@@ -10748,7 +10748,8 @@
         "id": "4951383258470965",
         "publicado_em": "2026-11-12T16:15:49.348918-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-12T16:15:51.116381-03:00"
     },
     {
       "id": "reel-20261112-1300-75d99b1f43",
