@@ -10850,7 +10850,7 @@
       "aprovado": true,
       "data": "2026-11-12",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "244 - Atleta profissional como motivador.mp4",
         "sha256": "b2b6669932303a9732d6281ced99135aec2130727b97309c7f7a1b387db89e69"
@@ -10883,7 +10883,8 @@
         "id": "1504596319393864",
         "publicado_em": "2026-11-13T01:10:04.927515-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-13T01:10:06.744717-03:00"
     },
     {
       "id": "reel-20261113-0500-861c1f8d3f",
