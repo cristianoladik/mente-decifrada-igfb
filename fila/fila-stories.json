@@ -4087,7 +4087,7 @@
       "aprovado": true,
       "data": "2026-11-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "954 - Your Nervous System Is Crying for Help!.mp4",
         "sha256": "fdfe02e157b1693efa4108d7e8b8422055539e3312fbdf47aeb58469f6f93b4f"
@@ -4123,7 +4123,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-13T15:51:48.533657-03:00"
     },
     {
       "id": "story-20261114-fbc923f97e",
