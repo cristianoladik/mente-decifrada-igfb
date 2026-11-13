@@ -10985,7 +10985,7 @@
       "aprovado": true,
       "data": "2026-11-13",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "247 - Ausência de sentido.mp4",
         "sha256": "b42b82719f90f776437b92ad77d0211c1152a55b5d193350203501e12d88bab9"
@@ -11018,7 +11018,8 @@
         "id": "1132554596252030",
         "publicado_em": "2026-11-13T18:52:11.667946-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-13T18:52:13.307584-03:00"
     },
     {
       "id": "reel-20261113-1700-80c05d0c8a",
