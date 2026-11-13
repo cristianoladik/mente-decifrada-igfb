@@ -10958,7 +10958,7 @@
       "aprovado": true,
       "data": "2026-11-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "248 - Autismo não é doença, é sistema operacional diferente.mp4",
         "sha256": "80c05d0c8aab13c4257ee826e343fe17df3501334296347968e41154ffe2c343"
@@ -10991,7 +10991,8 @@
         "id": "1168640815678309",
         "publicado_em": "2026-11-12T22:00:20.655249-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-12T22:00:22.719688-03:00"
     },
     {
       "id": "reel-20261113-2100-eca78744ff",
