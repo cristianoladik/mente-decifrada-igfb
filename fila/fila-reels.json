@@ -11000,10 +11000,13 @@
       "instagram": {
         "legenda": "Siga @mentedecifrada_br",
         "share_to_feed": true,
-        "status": "processando",
+        "status": "publicado",
         "tentativas": 1,
-        "fase": "publicacao_solicitada",
-        "container_id": "18112255283181585"
+        "fase": "publicacao_confirmada",
+        "container_id": "18112255283181585",
+        "id": "18131526055865657",
+        "publicado_em": "2026-11-13T18:51:46.360458-03:00",
+        "confirmacao": "media_publish"
       },
       "facebook": {
         "legenda": "Siga @mentedecifrada_br",
