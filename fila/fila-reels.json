@@ -10895,7 +10895,7 @@
       "aprovado": true,
       "data": "2026-11-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "245 - Até quantos anos você quer viver ？.mp4",
         "sha256": "861c1f8d3f44b6e539c6f6a351908b059a0e9b1018fa6215344d18c70e7cc570"
@@ -10928,7 +10928,8 @@
         "id": "1695299181953544",
         "publicado_em": "2026-11-13T13:04:04.153531-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-13T13:04:05.665980-03:00"
     },
     {
       "id": "reel-20261113-0900-c840c4deb9",
