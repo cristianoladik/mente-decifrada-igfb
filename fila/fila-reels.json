@@ -11075,7 +11075,7 @@
       "aprovado": true,
       "data": "2026-11-13",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "249 - Autocompaixão não é preguiça! - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "eca78744ffabc4968f0ccb44feb7aab294f393728f7b7e68be6fbf7dbcb893ad"
@@ -11108,7 +11108,8 @@
         "id": "1032692369850922",
         "publicado_em": "2026-11-14T01:06:31.246562-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-14T01:06:32.877595-03:00"
     },
     {
       "id": "reel-20261114-0500-91552d3b66",
