@@ -11120,7 +11120,7 @@
       "aprovado": true,
       "data": "2026-11-14",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "250 - Autoconhecimento é saber responder duas perguntas： O que eu quero e o que eu não quero.mp4",
         "sha256": "91552d3b66083e1cad31fbf709e0ebec6dfa52326a09d6da5f73989c6c75c0d4"
@@ -11153,7 +11153,8 @@
         "id": "995524989686270",
         "publicado_em": "2026-11-14T11:56:36.543822-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-14T11:56:37.948735-03:00"
     },
     {
       "id": "reel-20261114-0900-8c0be6837f",
