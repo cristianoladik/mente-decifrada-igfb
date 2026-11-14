@@ -11183,7 +11183,7 @@
       "aprovado": true,
       "data": "2026-11-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "253 - Baixa Autoestima Não Se Resolve Só Na Terapia - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "296bf1c8f627c49b3b8e4de5c292545dab15d63cb87a19b02a6711b0af6b501c"
@@ -11216,7 +11216,8 @@
         "id": "1450040867253674",
         "publicado_em": "2026-11-13T21:50:47.814681-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-13T21:50:49.859142-03:00"
     },
     {
       "id": "reel-20261114-2100-a402e95fcb",
