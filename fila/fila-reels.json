@@ -11210,7 +11210,7 @@
       "aprovado": true,
       "data": "2026-11-14",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "252 - Autoridade, afeto e proteção.mp4",
         "sha256": "84f0adcf3391df36482f399e3e346bf35725711450398bf8d3241b667c8ba431"
@@ -11243,7 +11243,8 @@
         "id": "3515959045231671",
         "publicado_em": "2026-11-14T17:33:05.830618-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-14T17:33:07.857588-03:00"
     },
     {
       "id": "reel-20261114-1700-296bf1c8f6",
