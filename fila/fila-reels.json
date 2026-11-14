@@ -11165,7 +11165,7 @@
       "aprovado": true,
       "data": "2026-11-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "251 - Autoridade e afeto.mp4",
         "sha256": "8c0be6837fc2a6b1946ad733ceb8b8e753c1256d7b7bce71004735c467bee895"
@@ -11198,7 +11198,8 @@
         "id": "957695203829987",
         "publicado_em": "2026-11-14T14:57:29.122180-03:00",
         "confirmacao": "video_facebook_reconciliado"
-      }
+      },
+      "concluido_em": "2026-11-14T14:57:33.560508-03:00"
     },
     {
       "id": "reel-20261114-1300-84f0adcf33",
