@@ -11435,7 +11435,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "257 - behaviorismo e o reforço positivo.mp4",
         "sha256": "7c95c9c3b17ef1a3fc562e80502b3778018c2b65b3e2580adb9ff89baaa3c23d"
@@ -11468,7 +11468,8 @@
         "id": "1940974486881847",
         "publicado_em": "2026-11-15T17:56:08.370720-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-15T17:56:10.398183-03:00"
     },
     {
       "id": "reel-20261115-1700-36b44bb9e9",
