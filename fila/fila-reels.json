@@ -11480,7 +11480,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "258 - Bipolaridade x Borderline： você sabe a diferença？ - PodPeople Inverso com Dra. Ana Beatriz.mp4",
         "sha256": "36b44bb9e98315e4bb4eaecae14074b2dff9b1f41b9a85d163c550ffb49e032d"
@@ -11513,7 +11513,8 @@
         "id": "2462422380832714",
         "publicado_em": "2026-11-15T20:54:39.067542-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-15T20:54:40.726337-03:00"
     },
     {
       "id": "reel-20261115-2100-9415d1409b",
