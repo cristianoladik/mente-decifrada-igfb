@@ -4164,7 +4164,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "956 - Álcool para Pessoas ao Redor.mp4",
         "sha256": "06fb248079c4005e5d1817afddae05e44531b6f11c7492ee0ad75b6e148eb0a0"
@@ -4200,7 +4200,8 @@
             "confirmacao": "finish_facebook"
           }
         }
-      ]
+      ],
+      "concluido_em": "2026-11-15T15:47:29.905414-03:00"
     }
   ],
   "estoque_minimo_dias": 60,
