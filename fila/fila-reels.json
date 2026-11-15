@@ -11390,7 +11390,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "256 - Bebê e Cachorro： Instinto de Proteção Real Revelado! ｜ ANA BEATRIZ.mp4",
         "sha256": "833cbe6bfd13a38e163acceda0e993045f546cafe09608e8233dee64cf21b099"
@@ -11423,7 +11423,8 @@
         "id": "1588917896252787",
         "publicado_em": "2026-11-15T15:04:13.869797-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-15T15:04:15.779408-03:00"
     },
     {
       "id": "reel-20261115-1300-7c95c9c3b1",
