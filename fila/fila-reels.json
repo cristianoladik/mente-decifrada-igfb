@@ -11345,7 +11345,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "255 - Bebê Abandonada： Reflexão Urgente Sobre Maternidade e Proteção ｜ ANA BEATRIZ.mp4",
         "sha256": "0d6713485a82c6f0ac272a8438b963905d09641d18070c0deb1bbf28b412dfd0"
@@ -11378,7 +11378,8 @@
         "id": "1495431792444614",
         "publicado_em": "2026-11-15T12:34:04.031032-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-15T12:34:06.477853-03:00"
     },
     {
       "id": "reel-20261115-0900-833cbe6bfd",
