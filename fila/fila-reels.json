@@ -11300,7 +11300,7 @@
       "aprovado": true,
       "data": "2026-11-14",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "254 - Beba com Moderação.mp4",
         "sha256": "a402e95fcb16b52caeaf3998ca936dbedf7115b97818d342db33ce0b2c81fe93"
@@ -11333,7 +11333,8 @@
         "id": "1778727987185549",
         "publicado_em": "2026-11-15T00:53:31.648407-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-15T00:53:33.385888-03:00"
     },
     {
       "id": "reel-20261115-0500-0d6713485a",
