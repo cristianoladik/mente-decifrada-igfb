@@ -11525,7 +11525,7 @@
       "aprovado": true,
       "data": "2026-11-15",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "259 - Boneca Natasha： A Polêmica Viral que Chocou o Mundo ｜ ANA BEATRIZ.mp4",
         "sha256": "9415d1409b034c851e47233d8d8d0fd3b8b09e76ec6e2f7e22b9a7442ed18dc0"
@@ -11558,7 +11558,8 @@
         "id": "1140887762012880",
         "publicado_em": "2026-11-16T00:54:26.439560-03:00",
         "confirmacao": "finish_facebook"
-      }
+      },
+      "concluido_em": "2026-11-16T00:54:27.867560-03:00"
     }
   ],
   "estoque_minimo_dias": 60,
